@@ -42,9 +42,9 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/Logo_35.png",
-        "logo_max_width": 150,
-        "logo_mobile_max_width": 135,
+        "logo": "shopify://shop_images/SEMYAS_LOGO.png",
+        "logo_max_width": 200,
+        "logo_mobile_max_width": 155,
         "menu": "main-menu",
         "sidebar_menu": "",
         "secondary_menu": "",
