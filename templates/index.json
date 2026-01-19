@@ -14,7 +14,7 @@
       "name": "Video",
       "settings": {
         "full_width": true,
-        "allow_transparent_header": false,
+        "allow_transparent_header": true,
         "autoplay": true,
         "video_size": "md",
         "video": "shopify://files/videos/Video.mp4",
