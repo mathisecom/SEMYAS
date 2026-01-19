@@ -20,10 +20,18 @@
             "text": "LIVRAISON OFFERTE À PARTIR DE 60 €",
             "url": ""
           }
+        },
+        "message_WW6kxQ": {
+          "type": "message",
+          "settings": {
+            "text": "CERTIFIÉE ECOCERT COSMOS ORGANIC BIO 100% PURE",
+            "url": ""
+          }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_WW6kxQ"
       ],
       "settings": {
         "enable_sticky": false,
