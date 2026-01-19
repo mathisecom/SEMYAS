@@ -25,6 +25,39 @@
         "overlay_opacity": 40
       }
     },
+    "text_with_icons_nHa4Qr": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_7zw6Ge": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Free shipping",
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_7zw6Ge"
+      ],
+      "name": "Text with icons",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "title": "",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "medium",
+        "background": "#000000",
+        "background_gradient": "",
+        "text_color": "#ffffff"
+      }
+    },
     "featured_collection_r8npmj": {
       "type": "featured-collection",
       "name": "Featured collection",
@@ -39,7 +72,7 @@
         "products_per_row_desktop": 3,
         "subheading": "",
         "title": "Meilleures Ventes",
-        "content": "<p>Élixir Précieux peau divine</p>",
+        "content": "",
         "link_url": "",
         "link_text": "Découvrir",
         "background": "",
@@ -108,6 +141,7 @@
   "order": [
     "video_WNxceE",
     "featured_collection_r8npmj",
+    "text_with_icons_nHa4Qr",
     "faq"
   ]
 }
