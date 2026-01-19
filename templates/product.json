@@ -92,9 +92,9 @@
         "collapsible_text_AMHH4b": {
           "type": "collapsible_text",
           "settings": {
-            "icon": "none",
+            "icon": "picto-leaf",
             "icon_width": 20,
-            "title": "Title",
+            "title": "Ingrédient unique",
             "content": "<p><strong>Huile de Graines de Figue de Barbarie sauvage : </strong><em><strong>Trésor botanique du Mexique</strong></em> <em>(Opuntia ficus-indica )</em></p><ul><li><strong>Une seule récolte par an </strong><em>Respect de la biodiversité</em></li><li><strong>Unique pressage à froid </strong><em>Garantie tous les bienfaits</em></li><li><strong>100% pure certifié bio</strong> <em>Ecocert CosmosOrganic - Certifié BIO -</em></li></ul><p><strong>Composition Exceptionnelle</strong></p><p>Notre huile de graines de figue de barbarie sauvage contient une harmonieuse synergie d’ingrédients bénéfiques, dont :</p><p><strong>Acides gras essentiels</strong> (Oméga-6 & Oméga-9) : Maintiennent l'hydratation et améliorent l’élasticité de la peau.</p><p><strong>Vitamine E</strong> : Antioxydant puissant, protège la peau des radicaux libres.</p><p><strong>Vitamine K</strong> : Favorise la cicatrisation et aide à apaiser les irritations.</p><p><strong>Vitamine A</strong> : Aide au renouvellement cellulaire et au maintien de la santé cutanée.</p><p><strong>Vitamine D</strong> : Renforce la barrière cutanée et améliore la protection naturelle.</p>",
             "page": ""
           }
@@ -102,10 +102,10 @@
         "collapsible_text_bLAeVH": {
           "type": "collapsible_text",
           "settings": {
-            "icon": "none",
+            "icon": "picto-jewelry",
             "icon_width": 20,
-            "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>",
+            "title": "Conseils D'Utilisation",
+            "content": "<p><strong>Visage & Cou</strong></p><p>Appliquez quelques gouttes sur une peau propre en effectuant des mouvements circulaires.</p><p>Utilisez l'huile le soir pour favoriser la régénération de la peau ou le matin pour un éclat naturel et lumineux.<br/><br/>Elle aide à estomper les rides et les ridules tout en offrant une hydratation profonde.</p><p><strong>Tâches, Cernes et Cicatrices</strong></p><p>Appliquez directement sur les cicatrices, vergetures ou imperfections. Cette huile favorise la régénération de la peau et aide à unifier le teint, révélant une peau plus saine et plus lisse.</p><p><strong>Pour vos Cheveux</strong></p><p>Appliquez l'huile sur les pointes et laissez-la agir pendant 30 minutes avant de rincer. Elle est idéale pour traiter les pointes sèches et peut également être utilisée comme masque avant le shampooing, apportant ainsi douceur et brillance à votre chevelure.</p><p><strong>Précautions</strong> : Evitez le contact direct avec les yeux.<br/><br/><strong>Avec l'huile de graines de figue de barbarie sauvage, vous offrez à votre peau et à vos cheveux une expérience sensorielle unique, inspirée des rituels Aztèques, connectant votre routine de soin à la richesse de la biodiversité mexicaine.</strong></p>",
             "page": ""
           }
         }
