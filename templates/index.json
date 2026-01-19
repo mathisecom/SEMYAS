@@ -71,6 +71,7 @@
       "block_order": [
         "item_7zw6Ge"
       ],
+      "disabled": true,
       "name": "Text with icons",
       "settings": {
         "full_width": true,
