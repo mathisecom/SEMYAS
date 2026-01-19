@@ -219,7 +219,7 @@
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
-        "background": "",
+        "background": "#f9f6f3",
         "background_gradient": "",
         "text_color": ""
       }
@@ -275,13 +275,66 @@
         "content": "",
         "link_url": "",
         "link_text": "",
-        "background": "",
+        "background": "#f9f6f3",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
         "testimonial_card_background": "",
         "testimonial_card_text_color": ""
+      }
+    },
+    "faq_4hjUnK": {
+      "type": "faq",
+      "blocks": {
+        "item_VNt4kr": {
+          "type": "item",
+          "settings": {
+            "title": "ECOCERT COSMOS ORGANIC BIO",
+            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+          }
+        },
+        "item_WKzQGH": {
+          "type": "item",
+          "settings": {
+            "title": "HUILE DE QUALITÉ PREMIUM",
+            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+          }
+        },
+        "item_qwNjcG": {
+          "type": "item",
+          "settings": {
+            "title": "ANALYSE LABORATOIRE EN FRANCE",
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_VNt4kr",
+        "item_WKzQGH",
+        "item_qwNjcG"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "NOS GARANTIES",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
       }
     },
     "related-products": {
@@ -313,6 +366,7 @@
     "logo_list_tTF4MY",
     "rich_text_wdbnQJ",
     "testimonials_wWCtPD",
+    "faq_4hjUnK",
     "related-products"
   ]
 }
