@@ -30,9 +30,7 @@
       "name": "Featured collection",
       "settings": {
         "collection": "",
-        "products": [
-          "flacon-15-ml"
-        ],
+        "products": [],
         "full_width": true,
         "stack_products": false,
         "show_progress_bar": true,
