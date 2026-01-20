@@ -112,62 +112,6 @@
         "text_color": "#ffffff"
       }
     },
-    "logo_list_8bA96p": {
-      "type": "logo-list",
-      "blocks": {
-        "logo_374BMk": {
-          "type": "logo",
-          "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_f69AzT": {
-          "type": "logo",
-          "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_aBj9rh": {
-          "type": "logo",
-          "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_gwrV8R": {
-          "type": "logo",
-          "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "logo_374BMk",
-        "logo_f69AzT",
-        "logo_aBj9rh",
-        "logo_gwrV8R"
-      ],
-      "disabled": true,
-      "name": "Logo list",
-      "settings": {
-        "full_width": true,
-        "stack_mobile": true,
-        "title": "",
-        "content": "",
-        "text_alignment": "center",
-        "items_per_row": 5,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "logo_item_background": "",
-        "logo_item_border": ""
-      }
-    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -472,7 +416,6 @@
     "video_WNxceE",
     "featured_collection_r8npmj",
     "text_with_icons_nHa4Qr",
-    "logo_list_8bA96p",
     "faq",
     "multi_column_WKdQNk",
     "media_with_text_TFqrtK",
