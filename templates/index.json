@@ -274,9 +274,44 @@
         "subheading": "",
         "title": "",
         "content": "",
-        "background": "",
+        "background": "#f9f6f3",
         "background_gradient": "",
         "text_color": ""
+      }
+    },
+    "media_with_text_TFqrtK": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_HCcqcU": {
+          "type": "image",
+          "settings": {
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_HCcqcU"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "alternate_media_position": false,
+        "spacing": "small"
       }
     },
     "rich_text_QGpEBt": {
@@ -364,6 +399,59 @@
         "testimonial_card_background": "",
         "testimonial_card_text_color": ""
       }
+    },
+    "faq_egiNfM": {
+      "type": "faq",
+      "blocks": {
+        "item_NiPRLT": {
+          "type": "item",
+          "settings": {
+            "title": "Do you ship overseas?",
+            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+          }
+        },
+        "item_3dbf76": {
+          "type": "item",
+          "settings": {
+            "title": "How long will it take to get my orders?",
+            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+          }
+        },
+        "item_iACx9b": {
+          "type": "item",
+          "settings": {
+            "title": "Any question?",
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_NiPRLT",
+        "item_3dbf76",
+        "item_iACx9b"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Questions Fréquentes",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "Temps Moyen de Réponse : 24H",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
     }
   },
   "order": [
@@ -373,7 +461,9 @@
     "logo_list_8bA96p",
     "faq",
     "multi_column_WKdQNk",
+    "media_with_text_TFqrtK",
     "rich_text_QGpEBt",
-    "testimonials_Gr3zRL"
+    "testimonials_Gr3zRL",
+    "faq_egiNfM"
   ]
 }
