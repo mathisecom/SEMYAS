@@ -97,6 +97,12 @@
             "payment_button_text_color": ""
           }
         },
+        "liquid_KfHkJh": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"atc-bundle-sor__stock-info \" data-stock-block=\"\">\n              <div class=\"atc-bundle-sor__stock-header \">\n                <div class=\"atc-bundle-sor__stock-left  \">\n                  <div class=\"atc-bundle-sor__stock-icon\">\n                    <svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                      <rect class=\"pulse\" width=\"16\" height=\"16\" rx=\"8\" fill=\"#008255\" fill-opacity=\"0.25\"></rect>\n                      <circle cx=\"8\" cy=\"8\" r=\"4\" fill=\"#008255\"></circle>\n                    </svg>\n                  </div>\n                  <span>Stock :</span>\n                  <span><strong>369</strong> / 2500 unités</span>\n                </div>\n                <div class=\"atc-bundle-sor__stock-percentage \">85% réservé</div>\n              </div>\n\n              <div class=\"atc-bundle-sor__stock-bar \">\n                <div class=\"atc-bundle-sor__stock-progress\" style=\"width: 85%\"></div>\n              </div>\n\n              \n\n              <div class=\"atc-bundle-sor__stock-message\">\n                <p class=\"\">\n                  <strong>Réservez avant la prochaine rupture !</strong>\n                </p>\n                <p class=\"atc-bundle-sor__shipping-calculator\" data-shipping-delay=\"3\">\n                  <span class=\"atc-bundle-sor__stock-icon\">\n                    <svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                      <rect class=\"pulse\" width=\"16\" height=\"16\" rx=\"8\" fill=\"#008255\" fill-opacity=\"0.25\"></rect>\n                      <circle cx=\"8\" cy=\"8\" r=\"4\" fill=\"#008255\"></circle>\n                    </svg>\n                  </span>\n                  Livraison prévue le\n                  <strong class=\"shipping-date\">lundi 26 janvier</strong>\n                </p>\n              </div>\n            </div>"
+          }
+        },
         "liquid_RmtnDL": {
           "type": "liquid",
           "settings": {
@@ -137,6 +143,7 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
+        "liquid_KfHkJh",
         "liquid_RmtnDL",
         "collapsible_text_AMHH4b",
         "collapsible_text_bLAeVH"
