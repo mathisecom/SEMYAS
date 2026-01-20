@@ -25,6 +25,23 @@
         "overlay_opacity": 40
       }
     },
+    "scrolling_text_73Utr4": {
+      "type": "scrolling-text",
+      "disabled": true,
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "100% d'ingrédients naturels | Sans parabène ni allergènes",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 10,
+        "background": "#f9f6f3",
+        "background_gradient": "",
+        "text_color": "",
+        "text_gradient": ""
+      }
+    },
     "featured_collection_r8npmj": {
       "type": "featured-collection",
       "name": "Featured collection",
@@ -414,6 +431,7 @@
   },
   "order": [
     "video_WNxceE",
+    "scrolling_text_73Utr4",
     "featured_collection_r8npmj",
     "text_with_icons_nHa4Qr",
     "faq",
