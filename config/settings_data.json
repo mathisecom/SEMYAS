@@ -149,5 +149,12 @@
       "product_color_display": "swatch",
       "product_info_alignment": "center"
     }
+  },
+  "platform_customizations": {
+    "custom_css": [
+      ".atc-bundle-sor__benefit {display: flex; align-items: center; /* aligne le tick avec le texte */ gap: 8px; /* espace entre le tick et le texte */}",
+      ".atc-bundle-sor__benefit-icon {display: flex; align-items: center; justify-content: center; flex-shrink: 0; /* empêche le tick de se déformer */}",
+      ".atc-bundle-sor__benefit span {line-height: 1.4; /* texte bien aligné verticalement */}"
+    ]
   }
 }
