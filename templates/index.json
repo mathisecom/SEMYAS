@@ -335,28 +335,40 @@
         "logo_aV3UnL": {
           "type": "logo",
           "settings": {
-            "logo_width": 90,
+            "logo": "shopify://shop_images/7_8.jpg",
+            "logo_width": 140,
             "link": ""
           }
         },
         "logo_Qt9KAm": {
           "type": "logo",
           "settings": {
-            "logo_width": 90,
+            "logo": "shopify://shop_images/8_4.jpg",
+            "logo_width": 140,
             "link": ""
           }
         },
         "logo_L3cq3a": {
           "type": "logo",
           "settings": {
-            "logo_width": 90,
+            "logo": "shopify://shop_images/6_8.jpg",
+            "logo_width": 140,
             "link": ""
           }
         },
         "logo_dgn9cw": {
           "type": "logo",
           "settings": {
-            "logo_width": 90,
+            "logo": "shopify://shop_images/75_4.jpg",
+            "logo_width": 140,
+            "link": ""
+          }
+        },
+        "logo_FpPWqc": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/5_9.jpg",
+            "logo_width": 140,
             "link": ""
           }
         }
@@ -365,7 +377,8 @@
         "logo_aV3UnL",
         "logo_Qt9KAm",
         "logo_L3cq3a",
-        "logo_dgn9cw"
+        "logo_dgn9cw",
+        "logo_FpPWqc"
       ],
       "name": "Logo list",
       "settings": {
