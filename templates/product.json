@@ -331,6 +331,7 @@
         "item_VtngKV": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/CREA_1080X1080_-_2026-01-22T160316.666.png",
             "column_size": "4",
             "title": "Anti-Âge Intense & Antioxydant Puissant",
             "heading_tag": "h3",
@@ -343,6 +344,7 @@
         "item_mrzieU": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/CREA_1080X1080_-_2026-01-22T160814.625.png",
             "column_size": "4",
             "title": "Hydratation Profonde & Nutrition Durable",
             "heading_tag": "h3",
