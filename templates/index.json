@@ -81,8 +81,8 @@
             "icon_background_type": "circle",
             "icon_background": "",
             "icon_color": "",
-            "title": "FIGUIER SAUVAGE",
-            "content": ""
+            "title": "",
+            "content": "<p><strong>FIGUIER SAUVAGE</strong></p>"
           }
         },
         "item_VTzwdm": {
@@ -95,8 +95,8 @@
             "icon_background_type": "circle",
             "icon_background": "",
             "icon_color": "",
-            "title": "QUALITÉ PREMIUM SAUVAGE",
-            "content": ""
+            "title": "",
+            "content": "<p><strong>QUALITÉ PREMIUM SAUVAGE</strong></p>"
           }
         },
         "item_7izWEc": {
@@ -109,8 +109,8 @@
             "icon_background_type": "circle",
             "icon_background": "",
             "icon_color": "",
-            "title": "99 % D’HUILES CULTIVÉES",
-            "content": ""
+            "title": "",
+            "content": "<p><strong>99 % D’HUILES CULTIVÉES</strong></p>"
           }
         }
       },
