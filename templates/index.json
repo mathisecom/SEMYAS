@@ -31,7 +31,9 @@
       "settings": {
         "collection": "",
         "products": [
-          "flacon-15-ml"
+          "flacon-15-ml",
+          "formule-duo",
+          "formule-duo-copie"
         ],
         "full_width": true,
         "stack_products": false,
