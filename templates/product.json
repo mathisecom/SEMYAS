@@ -518,12 +518,36 @@
             "title": "Produit rare et précieux",
             "content": "<p>Produit rare et précieux, certifié bio, et ça se voit dans les résultats !</p>"
           }
+        },
+        "testimonial_pMdjBF": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joshua A.",
+            "title": "Ma peau est plus lumineuse",
+            "content": "<p>Ma peau est plus lumineuse et nourrie en profondeur, je ne l’utilise plus qu’elle.</p>"
+          }
+        },
+        "testimonial_DqqENh": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joshua A.",
+            "title": "Je recommande sans hésiter ! ",
+            "content": "<p>Une huile d’exception, très qualitative. Je recommande sans hésiter ! </p>"
+          }
         }
       },
       "block_order": [
         "testimonial_qqefyU",
         "testimonial_EaE6AT",
-        "testimonial_TmxhyC"
+        "testimonial_TmxhyC",
+        "testimonial_pMdjBF",
+        "testimonial_DqqENh"
       ],
       "name": "Testimonials",
       "settings": {
