@@ -23,8 +23,8 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Free shipping",
-            "content": ""
+            "title": "",
+            "content": "<p><strong>LIVRAISON RAPIDE</strong></p>"
           }
         },
         "customer-support": {
@@ -36,8 +36,8 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Customer service",
-            "content": ""
+            "title": "",
+            "content": "<p><strong>PAIEMENT SÉCURISÉ</strong></p>"
           }
         },
         "discount": {
@@ -49,8 +49,8 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Refer a friend",
-            "content": ""
+            "title": "",
+            "content": "<p><strong>SERVICE CLIENT 24/7</strong></p>"
           }
         }
       },
