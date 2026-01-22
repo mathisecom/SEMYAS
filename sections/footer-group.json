@@ -96,7 +96,7 @@
           "type": "text",
           "settings": {
             "title": "Contactez-Nous",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
+            "content": "<p>Courriel : hello@semyasbio.com<br/><br/>Heures d'ouverture : du lundi au vendredi, de 9 h à 12 h et de 14 h à 18 h / samedi et dimanche, de 10 h à 12 h</p>",
             "enable_follow_on_shop": true
           }
         }
