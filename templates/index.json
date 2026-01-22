@@ -448,7 +448,7 @@
         "item_NiPRLT": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
+            "title": "De quoi est composée l'huile SEMYAS ?",
             "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
           }
         },
