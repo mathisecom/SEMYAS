@@ -240,28 +240,32 @@
         "logo_kNhPLB": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/CREA_1080X1080_-_2026-01-22T164111.793.jpg",
+            "logo_width": 150,
             "link": ""
           }
         },
         "logo_cnEpR4": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/CREA_1080X1080_-_2026-01-22T164214.612.jpg",
+            "logo_width": 150,
             "link": ""
           }
         },
         "logo_JjUG3J": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/CREA_1080X1080_-_2026-01-22T164251.671.jpg",
+            "logo_width": 150,
             "link": ""
           }
         },
         "logo_Akw6Hi": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/CREA_1080X1080_-_2026-01-22T164414.706.jpg",
+            "logo_width": 150,
             "link": ""
           }
         }
