@@ -279,7 +279,7 @@
       "name": "Logo list",
       "settings": {
         "full_width": true,
-        "stack_mobile": true,
+        "stack_mobile": false,
         "title": "",
         "content": "<p><strong>L'EXIGENCE QUI NOUS DISTINGUE</strong></p>",
         "text_alignment": "center",
