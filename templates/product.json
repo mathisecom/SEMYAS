@@ -21,7 +21,13 @@
         "title": {
           "type": "title",
           "settings": {
-            "heading_tag": "h4"
+            "heading_tag": "h2"
+          }
+        },
+        "text_q9rUW9": {
+          "type": "text",
+          "settings": {
+            "text": "<p>(5 gouttes/soin) - 15ml Huile Sèche Bio</p>"
           }
         },
         "liquid_HjcQtb": {
@@ -133,6 +139,7 @@
       "block_order": [
         "liquid_DeWnWa",
         "title",
+        "text_q9rUW9",
         "liquid_HjcQtb",
         "price",
         "kaching_bundles_app_block_bRqXij",
