@@ -247,6 +247,36 @@
         "text_color": ""
       }
     },
+    "featured_collection_BxBfpi": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "collection": "",
+        "products": [
+          "formule-duo-copie",
+          "formule-duo",
+          "flacon-15-ml"
+        ],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": true,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "Nouveautés",
+        "content": "",
+        "link_url": "",
+        "link_text": "Découvrir",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
     "media_with_text_TFqrtK": {
       "type": "media-with-text",
       "blocks": {
@@ -524,6 +554,7 @@
     "text_with_icons_nHa4Qr",
     "faq",
     "multi_column_WKdQNk",
+    "featured_collection_BxBfpi",
     "media_with_text_TFqrtK",
     "logo_list_43ry34",
     "rich_text_QGpEBt",
