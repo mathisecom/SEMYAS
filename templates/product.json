@@ -418,6 +418,59 @@
         "text_gradient": ""
       }
     },
+    "faq_NqjfP9": {
+      "type": "faq",
+      "blocks": {
+        "item_XYJxMM": {
+          "type": "item",
+          "settings": {
+            "title": "LISSE LES RIDES ET RIDULES",
+            "content": "<p>Grâce à sa teneur exceptionnelle en vitamine E et en acides gras essentiels, l’huile de pépins de figue de barbarie soutient le renouvellement cellulaire et aide à retarder les signes du vieillissement. Elle améliore l’élasticité de la peau et réduit visiblement l’apparence des rides et ridules jour après jour.</p>"
+          }
+        },
+        "item_3jFVQX": {
+          "type": "item",
+          "settings": {
+            "title": "ATTÉNUE LES TACHES BRUNES",
+            "content": "<p>Sa richesse en antioxydants protège la peau du stress oxydatif, prévenant ainsi l’apparition des taches pigmentaires et de l’hyperpigmentation. Elle régule progressivement la production de mélanine et contribue à atténuer les taches déjà installées pour un teint plus uniforme et lumineux.</p>"
+          }
+        },
+        "item_RnhPxd": {
+          "type": "item",
+          "settings": {
+            "title": "AMÉLIORE LA FERMETÉ",
+            "content": "<p>Riche en acides gras essentiels et en vitamine E, l’huile de pépins de figue de barbarie aide à renforcer la fermeté et la tonicité de la peau. Elle soutient l’élasticité cutanée et aide à prévenir le relâchement pour une peau visiblement plus lisse et raffermie.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_XYJxMM",
+        "item_3jFVQX",
+        "item_RnhPxd"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "",
+        "content": "<h5><strong>UN SOIN D'EXCEPTION POUR SUBLIMER VOTRE PEAU</strong></h5>",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
     "media_with_text_ryVKU6": {
       "type": "media-with-text",
       "blocks": {
@@ -704,6 +757,7 @@
     "multi_column_mpfiR4",
     "custom_liquid_bRw4Wj",
     "scrolling_text_4KBGbi",
+    "faq_NqjfP9",
     "media_with_text_ryVKU6",
     "logo_list_9cHiKh",
     "rich_text_wdbnQJ",
