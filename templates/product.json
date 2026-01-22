@@ -378,6 +378,61 @@
         "text_color": ""
       }
     },
+    "logo_list_9cHiKh": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_ceJJL3": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_e3LK3E": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_mcEBRJ": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_bi7Agd": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_ceJJL3",
+        "logo_e3LK3E",
+        "logo_mcEBRJ",
+        "logo_bi7Agd"
+      ],
+      "name": "Logo list",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": false,
+        "title": "",
+        "content": "<p><strong>POURQUOI NOTRE HUILE ?</strong></p>",
+        "text_alignment": "center",
+        "items_per_row": 5,
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "#ffffff",
+        "logo_item_border": ""
+      }
+    },
     "testimonials_wWCtPD": {
       "type": "testimonials",
       "blocks": {
@@ -521,6 +576,7 @@
     "multi_column_mpfiR4",
     "scrolling_text_4KBGbi",
     "media_with_text_ryVKU6",
+    "logo_list_9cHiKh",
     "rich_text_wdbnQJ",
     "testimonials_wWCtPD",
     "faq_4hjUnK",
