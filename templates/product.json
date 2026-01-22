@@ -134,6 +134,14 @@
             "content": "<p><strong>Visage & Cou</strong></p><p>Appliquez quelques gouttes sur une peau propre en effectuant des mouvements circulaires.</p><p>Utilisez l'huile le soir pour favoriser la régénération de la peau ou le matin pour un éclat naturel et lumineux.<br/><br/>Elle aide à estomper les rides et les ridules tout en offrant une hydratation profonde.</p><p><strong>Tâches, Cernes et Cicatrices</strong></p><p>Appliquez directement sur les cicatrices, vergetures ou imperfections. Cette huile favorise la régénération de la peau et aide à unifier le teint, révélant une peau plus saine et plus lisse.</p><p><strong>Pour vos Cheveux</strong></p><p>Appliquez l'huile sur les pointes et laissez-la agir pendant 30 minutes avant de rincer. Elle est idéale pour traiter les pointes sèches et peut également être utilisée comme masque avant le shampooing, apportant ainsi douceur et brillance à votre chevelure.</p><p><strong>Précautions</strong> : Evitez le contact direct avec les yeux.<br/><br/><strong>Avec l'huile de graines de figue de barbarie sauvage, vous offrez à votre peau et à vos cheveux une expérience sensorielle unique, inspirée des rituels Aztèques, connectant votre routine de soin à la richesse de la biodiversité mexicaine.</strong></p>",
             "page": ""
           }
+        },
+        "image_EkWUhT": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/logo.webp",
+            "alignment": "center",
+            "max_width": 500
+          }
         }
       },
       "block_order": [
@@ -153,7 +161,8 @@
         "liquid_KfHkJh",
         "liquid_RmtnDL",
         "collapsible_text_AMHH4b",
-        "collapsible_text_bLAeVH"
+        "collapsible_text_bLAeVH",
+        "image_EkWUhT"
       ],
       "settings": {
         "full_width": true,
@@ -630,7 +639,7 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
-            "author": "Solène A.",
+            "author": "Solène B.",
             "title": "Ma peau est plus lumineuse",
             "content": "<p>Ma peau est plus lumineuse et nourrie en profondeur, je ne l’utilise plus qu’elle.</p>"
           }
