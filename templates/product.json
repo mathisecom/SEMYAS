@@ -228,6 +228,42 @@
         "logo_item_border": ""
       }
     },
+    "media_with_text_jifPhK": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_acTDUx": {
+          "type": "image",
+          "settings": {
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_acTDUx"
+      ],
+      "disabled": true,
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "alternate_media_position": false,
+        "spacing": "none"
+      }
+    },
     "multi_column_mpfiR4": {
       "type": "multi-column",
       "blocks": {
@@ -352,32 +388,6 @@
         "spacing": "none"
       }
     },
-    "rich_text_wdbnQJ": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_dyaWx9": {
-          "type": "heading",
-          "settings": {
-            "text": "+3,000 CLIENTS SATISFAITS",
-            "heading_tag": "h3",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_dyaWx9"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "#f9f6f3",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "logo_list_9cHiKh": {
       "type": "logo-list",
       "blocks": {
@@ -431,6 +441,32 @@
         "heading_gradient": "",
         "logo_item_background": "#ffffff",
         "logo_item_border": ""
+      }
+    },
+    "rich_text_wdbnQJ": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_dyaWx9": {
+          "type": "heading",
+          "settings": {
+            "text": "+3,000 CLIENTS SATISFAITS",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_dyaWx9"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "#f9f6f3",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "testimonials_wWCtPD": {
@@ -573,6 +609,7 @@
   "order": [
     "main",
     "logo_list_tTF4MY",
+    "media_with_text_jifPhK",
     "multi_column_mpfiR4",
     "scrolling_text_4KBGbi",
     "media_with_text_ryVKU6",
