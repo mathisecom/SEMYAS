@@ -408,12 +408,24 @@
             "title": "Produit rare et précieux",
             "content": "<p>Produit rare et précieux, certifié bio, et ça se voit dans les résultats !</p>"
           }
+        },
+        "testimonial_mjyUBN": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Nathalie C.",
+            "title": "Ma peau est plus lumineuse",
+            "content": "<p>Ma peau est plus lumineuse et nourrie en profondeur, je ne l’utilise plus qu’elle.</p>"
+          }
         }
       },
       "block_order": [
         "testimonial_8dHMQm",
         "testimonial_FXJtFk",
-        "testimonial_Npttf8"
+        "testimonial_Npttf8",
+        "testimonial_mjyUBN"
       ],
       "name": "Testimonials",
       "settings": {
