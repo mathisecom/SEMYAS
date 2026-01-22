@@ -449,28 +449,44 @@
           "type": "item",
           "settings": {
             "title": "De quoi est composée l'huile SEMYAS ?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "content": "<p>Notre huile est 100% issue des pépins de figue de barbarie, pressés à froid et conditionnés en laboratoire français certifié COSMOS ECOCERT.</p>"
           }
         },
         "item_3dbf76": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "Pourquoi est-ce une huile d'exception ?",
+            "content": "<p>Cette huile est exceptionnelle pour plusieurs raisons.</p><p>D’abord, elle nécessite une grande quantité de fruits pour une faible production, ce qui témoigne de son exclusivité et de sa richesse.</p><p>Ensuite, elle est la plus concentrée en vitamine E parmi les huiles végétales, surpassant même l’huile d’argan avec 1,5 fois plus de vitamine E.</p><p>Cette forte concentration en antioxydants et en acides gras essentiels lui confère des propriétés anti-âge et régénérantes incomparables.</p><p>Enfin, les figues sont récoltées à maturité optimale, garantissant une huile d’une pureté et d’une efficacité inégalées.</p>"
           }
         },
         "item_iACx9b": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "J'ai la peau sensible, est-elle adaptée ?",
+            "content": "<p>Que vous ayez une peau sèche, grasse, sensible ou mixte, l’huile de pépins de figue de barbarie convient à tous les types de peau et peut aider à rétablir l’équilibre naturel de votre peau.</p><p>L’huile de pépins de figue de barbarie est destinée à toute personne cherchant à améliorer la santé et l’apparence de sa peau de manière naturelle.</p>"
+          }
+        },
+        "item_pekqeU": {
+          "type": "item",
+          "settings": {
+            "title": "Comment la différencier des concurrents ?",
+            "content": "<p>L’huile de pépins de figue de barbarie SEMYAS se distingue par sa production rigoureuse et son origine prestigieuse.</p><p>Elle est issue des sols fertiles de Tunisie, sélectionnée après de longues visites chez différents producteurs pour garantir la meilleure qualité.</p><p>De plus, cette huile est obtenue à partir de figues récoltées à maturité optimale, assurant une concentration maximale en actifs bénéfiques.</p><p>Sa texture sèche, sa pénétration optimale, son parfum léger et naturel ainsi que sa haute teneur en vitamine E et acides gras en font un produit unique sur le marché, testé cliniquement pour garantir son efficacité.</p>"
+          }
+        },
+        "item_D8xHCp": {
+          "type": "item",
+          "settings": {
+            "title": "Quels sont les résultats auxquels je peux m'attendre ?",
+            "content": "<p>En utilisant l’huile de pépins de figue de barbarie SEMYAS, vous pouvez vous attendre à une amélioration notable de l’apparition de votre peau.</p><p>Votre peau sera profondément hydratée, plus souple et éclatante. Les signes de vieillissement seront visiblement réduits grâce à la haute teneur en vitamine E et en antioxydants.</p><p>Cette huile légère et non grasse pénètre rapidement, laissant votre peau douce et sans résidu huileux. De plus, son parfum léger et naturel rend son application agréable et rafraîchissante.</p>"
           }
         }
       },
       "block_order": [
         "item_NiPRLT",
         "item_3dbf76",
-        "item_iACx9b"
+        "item_iACx9b",
+        "item_pekqeU",
+        "item_D8xHCp"
       ],
       "name": "FAQ",
       "settings": {
