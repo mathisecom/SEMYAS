@@ -369,6 +369,7 @@
         "item_GcCF4Y": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/CREA_1080X1080_-_2026-01-22T161305.624.png",
             "column_size": "4",
             "title": "Soin Régénérant pour Cheveux Abîmés",
             "heading_tag": "h3",
