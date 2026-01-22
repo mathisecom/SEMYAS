@@ -171,6 +171,22 @@
         "accordion_text_color": ""
       }
     },
+    "scrolling_text_D4NLHg": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "✓ Non comédogène‎ ‎ ‎ ‎ ✓ Testé en laboratoire ‎ ‎ ‎ ✓ Végan et bio  ‎ ‎ ‎ ✓ Efficacité Prouvée",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 8,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "text_gradient": ""
+      }
+    },
     "multi_column_WKdQNk": {
       "type": "multi-column",
       "blocks": {
@@ -553,6 +569,7 @@
     "featured_collection_r8npmj",
     "text_with_icons_nHa4Qr",
     "faq",
+    "scrolling_text_D4NLHg",
     "multi_column_WKdQNk",
     "featured_collection_BxBfpi",
     "media_with_text_TFqrtK",
