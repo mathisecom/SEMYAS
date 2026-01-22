@@ -488,6 +488,61 @@
         "accordion_text_color": ""
       }
     },
+    "logo_list_dhE7LM": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_a8WwBV": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 150,
+            "link": ""
+          }
+        },
+        "logo_LHqTQz": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 150,
+            "link": ""
+          }
+        },
+        "logo_qBK9i4": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 150,
+            "link": ""
+          }
+        },
+        "logo_zJJxWG": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_a8WwBV",
+        "logo_LHqTQz",
+        "logo_qBK9i4",
+        "logo_zJJxWG"
+      ],
+      "name": "Logo list",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "title": "",
+        "content": "<p><strong>RÉSULTATS VISIBLES DÈS 28 JOURS*</strong></p>",
+        "text_alignment": "center",
+        "items_per_row": 5,
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "#ffffff",
+        "logo_item_border": ""
+      }
+    },
     "media_with_text_ryVKU6": {
       "type": "media-with-text",
       "blocks": {
@@ -788,6 +843,7 @@
     "custom_liquid_bRw4Wj",
     "scrolling_text_4KBGbi",
     "faq_NqjfP9",
+    "logo_list_dhE7LM",
     "media_with_text_ryVKU6",
     "logo_list_9cHiKh",
     "rich_text_wdbnQJ",
