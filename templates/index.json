@@ -419,13 +419,25 @@
             "title": "Ma peau est plus lumineuse",
             "content": "<p>Ma peau est plus lumineuse et nourrie en profondeur, je ne l’utilise plus qu’elle.</p>"
           }
+        },
+        "testimonial_F7zw6Q": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Norianne T.",
+            "title": "Une huile d’exception",
+            "content": "<p>Une huile d’exception, très qualitative. Je recommande sans hésiter !</p>"
+          }
         }
       },
       "block_order": [
         "testimonial_8dHMQm",
         "testimonial_FXJtFk",
         "testimonial_Npttf8",
-        "testimonial_mjyUBN"
+        "testimonial_mjyUBN",
+        "testimonial_F7zw6Q"
       ],
       "name": "Testimonials",
       "settings": {
