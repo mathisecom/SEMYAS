@@ -75,8 +75,9 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
-            "mobile_icon_width": 52,
-            "icon_width": 52,
+            "custom_icon": "shopify://shop_images/CREA_1080X1080_-_2026-01-22T142159.114.png",
+            "mobile_icon_width": 68,
+            "icon_width": 68,
             "icon_background_type": "circle",
             "icon_background": "",
             "icon_color": "",
@@ -88,8 +89,9 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
-            "mobile_icon_width": 52,
-            "icon_width": 52,
+            "custom_icon": "shopify://shop_images/CREA_1080X1080_-_2026-01-22T142426.127.png",
+            "mobile_icon_width": 68,
+            "icon_width": 68,
             "icon_background_type": "circle",
             "icon_background": "",
             "icon_color": "",
@@ -101,8 +103,9 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
-            "mobile_icon_width": 52,
-            "icon_width": 52,
+            "custom_icon": "shopify://shop_images/CREA_1080X1080_-_2026-01-22T144120.615.png",
+            "mobile_icon_width": 68,
+            "icon_width": 68,
             "icon_background_type": "circle",
             "icon_background": "",
             "icon_color": "",
@@ -289,6 +292,61 @@
         "spacing": "none"
       }
     },
+    "logo_list_43ry34": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_aV3UnL": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 90,
+            "link": ""
+          }
+        },
+        "logo_Qt9KAm": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 90,
+            "link": ""
+          }
+        },
+        "logo_L3cq3a": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 90,
+            "link": ""
+          }
+        },
+        "logo_dgn9cw": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 90,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_aV3UnL",
+        "logo_Qt9KAm",
+        "logo_L3cq3a",
+        "logo_dgn9cw"
+      ],
+      "name": "Logo list",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": false,
+        "title": "",
+        "content": "<p><strong>POURQUOI NOTRE HUILE ?</strong></p>",
+        "text_alignment": "center",
+        "items_per_row": 5,
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "#ffffff",
+        "logo_item_border": ""
+      }
+    },
     "rich_text_QGpEBt": {
       "type": "rich-text",
       "blocks": {
@@ -437,6 +495,7 @@
     "faq",
     "multi_column_WKdQNk",
     "media_with_text_TFqrtK",
+    "logo_list_43ry34",
     "rich_text_QGpEBt",
     "testimonials_Gr3zRL",
     "faq_egiNfM"
