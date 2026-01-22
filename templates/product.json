@@ -494,28 +494,32 @@
         "logo_a8WwBV": {
           "type": "logo",
           "settings": {
-            "logo_width": 150,
+            "logo": "shopify://shop_images/CREA_1080X1080_-_2026-01-22T221013.611.jpg",
+            "logo_width": 180,
             "link": ""
           }
         },
         "logo_LHqTQz": {
           "type": "logo",
           "settings": {
-            "logo_width": 150,
+            "logo": "shopify://shop_images/CREA_1080X1080_-_2026-01-22T221226.730.jpg",
+            "logo_width": 180,
             "link": ""
           }
         },
         "logo_qBK9i4": {
           "type": "logo",
           "settings": {
-            "logo_width": 150,
+            "logo": "shopify://shop_images/CREA_1080X1080_-_2026-01-22T221136.650.jpg",
+            "logo_width": 180,
             "link": ""
           }
         },
         "logo_zJJxWG": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/CREA_1080X1080_-_2026-01-22T221156.570.jpg",
+            "logo_width": 180,
             "link": ""
           }
         }
