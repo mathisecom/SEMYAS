@@ -173,6 +173,58 @@
         "input_text_color": ""
       }
     },
+    "press_AXKJmx": {
+      "type": "press",
+      "blocks": {
+        "quote_AB8NhE": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "Lucie J.",
+            "content": "Write some content about what they says about your store.",
+            "show_rating": true,
+            "rating": 4
+          }
+        },
+        "quote_CXq6a4": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "Orianne S.",
+            "content": "Write some content about what they says about your store.",
+            "show_rating": true,
+            "rating": 4
+          }
+        },
+        "quote_WAqxEx": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "Clara T.",
+            "content": "Write some content about what they says about your store.",
+            "show_rating": true,
+            "rating": 4
+          }
+        }
+      },
+      "block_order": [
+        "quote_AB8NhE",
+        "quote_CXq6a4",
+        "quote_WAqxEx"
+      ],
+      "name": "Press",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
     "logo_list_tTF4MY": {
       "type": "logo-list",
       "blocks": {
@@ -646,6 +698,7 @@
   },
   "order": [
     "main",
+    "press_AXKJmx",
     "logo_list_tTF4MY",
     "media_with_text_jifPhK",
     "multi_column_mpfiR4",
