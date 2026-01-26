@@ -32,13 +32,14 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
-            "mobile_icon_width": 32,
-            "icon_width": 32,
+            "custom_icon": "shopify://shop_images/CREA_1080X1080_-_2026-01-26T145050.070.png",
+            "mobile_icon_width": 52,
+            "icon_width": 52,
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Free shipping",
-            "content": "<p>Free worldwide shipping and returns - customs and duties taxes included</p>"
+            "title": "Le Problème",
+            "content": "<p>Avec le temps, la <strong>peau perd en fermeté</strong> et <strong>en éclat</strong>. Rides, ridules, taches et déshydratation apparaissent sous l’effet du <strong>vieillissement et du stress oxydatif.</strong></p>"
           }
         },
         "item_BU6xVq": {
@@ -50,8 +51,8 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Customer service",
-            "content": "<p>We are available from monday to friday to answer your questions.</p>"
+            "title": "Notre Solution",
+            "content": "<p>L’huile de pépins de figue de barbarie, riche en antioxydants et acides gras essentiels, aide à régénérer la peau, <strong>renforcer sa barrière naturelle et lisser visiblement les signes de l’âge.</strong></p>"
           }
         }
       },
@@ -63,7 +64,7 @@
       "settings": {
         "full_width": true,
         "stack_on_mobile": true,
-        "title": "",
+        "title": "L’HUILE SEMYAS BIO",
         "heading_tag": "h5",
         "text_alignment": "center",
         "icon_spacing": "medium",
