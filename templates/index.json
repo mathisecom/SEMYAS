@@ -496,6 +496,22 @@
             "competitor_has_feature": false
           }
         },
+        "feature_row_jVAdRH": {
+          "type": "feature_row",
+          "settings": {
+            "feature_name": "Végan et bio",
+            "primary_has_feature": true,
+            "competitor_has_feature": false
+          }
+        },
+        "feature_row_eFPeXb": {
+          "type": "feature_row",
+          "settings": {
+            "feature_name": "ORIGINE MEXIQUE",
+            "primary_has_feature": true,
+            "competitor_has_feature": false
+          }
+        },
         "text_row_QE6PEm": {
           "type": "text_row",
           "disabled": true,
@@ -515,6 +531,8 @@
         "feature_row_wUwptB",
         "feature_row_4NnNfA",
         "feature_row_6Kaegb",
+        "feature_row_jVAdRH",
+        "feature_row_eFPeXb",
         "text_row_QE6PEm"
       ],
       "name": "SS - Comparison table #29",
