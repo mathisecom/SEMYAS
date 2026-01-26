@@ -299,12 +299,13 @@
         "image_acTDUx": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/CREA1080X1080-2026-01-22T145441.382.jpg",
+            "image": "shopify://shop_images/Gemini_Generated_Image_bgtbchbgtbchbgtb.jpg",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
             "icon": "none",
-            "icon_width": 56,
+            "custom_icon": "shopify://shop_images/CREA_1080X1080_-_2026-01-26T150031.760.png",
+            "icon_width": 76,
             "subheading": "",
             "title": "Ici, pas de photos avant/après.",
             "content": "<p><strong>Pourquoi ?</strong> Parce que trop de marques utilisent des images retouchées pour vendre des promesses irréalistes.<br/><br/>Nous, on choisit la transparence : une huile brute, des actifs puissants, et des <strong>résultats qui se construisent avec le temps.</strong></p>",
