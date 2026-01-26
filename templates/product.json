@@ -305,10 +305,10 @@
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-            "link_text": "",
-            "link_url": "",
+            "title": "Ici, pas de photos avant/après.",
+            "content": "<p><strong>Pourquoi ?</strong> Parce que trop de marques utilisent des images retouchées pour vendre des promesses irréalistes.<br/><br/>Nous, on choisit la transparence : une huile brute, des actifs puissants, et des <strong>résultats qui se construisent avec le temps.</strong></p>",
+            "link_text": "OBTENIR MAINTENANT",
+            "link_url": "#shopify-section-template--27623632863579__main",
             "background": "#ffffff",
             "background_gradient": "",
             "text_color": "#000000",
@@ -321,7 +321,6 @@
       "block_order": [
         "image_acTDUx"
       ],
-      "disabled": true,
       "name": "Media with text",
       "settings": {
         "full_width": false,
