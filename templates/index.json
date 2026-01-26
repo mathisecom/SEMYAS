@@ -46,8 +46,9 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
-            "mobile_icon_width": 32,
-            "icon_width": 32,
+            "custom_icon": "shopify://shop_images/CREA_1080X1080_-_2026-01-26T145229.343.png",
+            "mobile_icon_width": 52,
+            "icon_width": 52,
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
@@ -63,7 +64,7 @@
       "name": "Text with icons",
       "settings": {
         "full_width": true,
-        "stack_on_mobile": true,
+        "stack_on_mobile": false,
         "title": "L’HUILE SEMYAS BIO",
         "heading_tag": "h5",
         "text_alignment": "center",
