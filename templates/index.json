@@ -403,11 +403,11 @@
         "heading_n8Y9B9": {
           "type": "heading",
           "settings": {
-            "text": "Comparison table #29",
+            "text": "NOUS VS EUX",
             "heading_tag": "h2",
-            "font_size": 48,
-            "mobile_font_size": 32,
-            "italic": true,
+            "font_size": 32,
+            "mobile_font_size": 28,
+            "italic": false,
             "use_gradient": true,
             "gradient_start": "#121212",
             "gradient_end": "#404040",
@@ -417,9 +417,9 @@
         "subtitle_fhwUPM": {
           "type": "subtitle",
           "settings": {
-            "text": "Everything you need in one simple scoop.",
-            "font_size": 18,
-            "font_weight": "400",
+            "text": "POURQUOI NOUS CHOISIR ?",
+            "font_size": 14,
+            "font_weight": "500",
             "subtitle_color": "#121212"
           }
         },
@@ -498,6 +498,7 @@
         },
         "text_row_QE6PEm": {
           "type": "text_row",
+          "disabled": true,
           "settings": {
             "feature_name": "Benefits in",
             "primary_text": "One Scoop",
