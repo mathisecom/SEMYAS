@@ -405,8 +405,8 @@
           "settings": {
             "text": "NOUS VS EUX",
             "heading_tag": "h2",
-            "font_size": 32,
-            "mobile_font_size": 28,
+            "font_size": 36,
+            "mobile_font_size": 32,
             "italic": false,
             "use_gradient": true,
             "gradient_start": "#121212",
@@ -491,7 +491,7 @@
         "feature_row_6Kaegb": {
           "type": "feature_row",
           "settings": {
-            "feature_name": "High Quality Adaptogens",
+            "feature_name": "Testé en laboratoire",
             "primary_has_feature": true,
             "competitor_has_feature": false
           }
