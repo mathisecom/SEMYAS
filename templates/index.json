@@ -25,15 +25,103 @@
         "overlay_opacity": 40
       }
     },
+    "text_with_icons_tphdMT": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_AcqXNN": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 32,
+            "icon_width": 32,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Free shipping",
+            "content": "<p>Free worldwide shipping and returns - customs and duties taxes included</p>"
+          }
+        },
+        "item_BU6xVq": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 32,
+            "icon_width": 32,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Customer service",
+            "content": "<p>We are available from monday to friday to answer your questions.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_AcqXNN",
+        "item_BU6xVq"
+      ],
+      "name": "Text with icons",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": true,
+        "title": "",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "medium",
+        "background": "#f9f6f3",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "multi_column_afBimq": {
+      "type": "multi-column",
+      "blocks": {
+        "item_JtcPRy": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Le Problème",
+            "heading_tag": "h3",
+            "content": "<p>Avec le temps, la <strong>peau perd en fermeté</strong> et <strong>en éclat</strong>. Rides, ridules, taches et déshydratation apparaissent sous l’effet du <strong>vieillissement et du stress oxydatif.</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_AVetYg": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "La Solution",
+            "heading_tag": "h3",
+            "content": "<p>L’huile de pépins de figue de barbarie, riche en antioxydants et acides gras essentiels, aide à régénérer la peau, <strong>renforcer sa barrière naturelle et lisser visiblement les signes de l’âge.</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_JtcPRy",
+        "item_AVetYg"
+      ],
+      "disabled": true,
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "small",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "#f9f6f3",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "rich_text_UaMAVr": {
       "type": "rich-text",
       "blocks": {
-        "subheading_kAN4jP": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
         "heading_Yg69Tx": {
           "type": "heading",
           "settings": {
@@ -48,13 +136,30 @@
           "settings": {
             "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
+        },
+        "heading_xQNeKq": {
+          "type": "heading",
+          "settings": {
+            "text": "Heading",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_dpXgEq": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
         }
       },
       "block_order": [
-        "subheading_kAN4jP",
         "heading_Yg69Tx",
-        "richtext_yDwcDY"
+        "richtext_yDwcDY",
+        "heading_xQNeKq",
+        "richtext_dpXgEq"
       ],
+      "disabled": true,
       "name": "Rich text",
       "settings": {
         "full_width": true,
@@ -803,6 +908,8 @@
   },
   "order": [
     "video_WNxceE",
+    "text_with_icons_tphdMT",
+    "multi_column_afBimq",
     "rich_text_UaMAVr",
     "featured_collection_r8npmj",
     "text_with_icons_nHa4Qr",
