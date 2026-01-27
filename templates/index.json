@@ -66,10 +66,10 @@
         "full_width": true,
         "stack_on_mobile": false,
         "title": "L’HUILE SEMYAS BIO",
-        "heading_tag": "h5",
+        "heading_tag": "h1",
         "text_alignment": "center",
         "icon_spacing": "medium",
-        "background": "#e4e4e4",
+        "background": "#f5f5f5",
         "background_gradient": "",
         "text_color": ""
       }
@@ -213,10 +213,10 @@
             "mobile_icon_width": 56,
             "icon_width": 68,
             "icon_background_type": "circle",
-            "icon_background": "",
-            "icon_color": "",
+            "icon_background": "#000000",
+            "icon_color": "#ffffff",
             "title": "",
-            "content": "<p><strong>FIGUIER SAUVAGE</strong></p>"
+            "content": "<p><strong>FIGUIERS SAUVAGES ORIGINELLES</strong></p>"
           }
         },
         "item_VTzwdm": {
@@ -227,8 +227,8 @@
             "mobile_icon_width": 56,
             "icon_width": 68,
             "icon_background_type": "circle",
-            "icon_background": "",
-            "icon_color": "",
+            "icon_background": "#000000",
+            "icon_color": "#ffffff",
             "title": "",
             "content": "<p><strong>QUALITÉ PREMIUM SAUVAGE</strong></p>"
           }
@@ -241,7 +241,7 @@
             "mobile_icon_width": 56,
             "icon_width": 68,
             "icon_background_type": "circle",
-            "icon_background": "",
+            "icon_background": "#000000",
             "icon_color": "",
             "title": "",
             "content": "<p><strong>99 % D’HUILES CULTIVÉES</strong></p>"
@@ -261,9 +261,9 @@
         "heading_tag": "h5",
         "text_alignment": "center",
         "icon_spacing": "medium",
-        "background": "#000000",
+        "background": "#ffffff",
         "background_gradient": "",
-        "text_color": "#ffffff"
+        "text_color": "#000000"
       }
     },
     "faq": {
@@ -307,15 +307,15 @@
         "button_text": "",
         "button_url": "",
         "text_position": "center",
-        "background": "#e4e4e4",
+        "background": "#f5f5f5",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
         "button_background": "",
-        "button_text_color": "",
-        "accordion_background": "",
-        "accordion_text_color": ""
+        "button_text_color": "#000000",
+        "accordion_background": "#ffffff",
+        "accordion_text_color": "#000000"
       }
     },
     "scrolling_text_D4NLHg": {
@@ -323,7 +323,7 @@
       "name": "Scrolling text",
       "settings": {
         "full_width": true,
-        "text": "✓ Non comédogène‎ ‎ ‎ ‎ ✓ Testé en laboratoire ‎ ‎ ‎ ✓ Végan et bio  ‎ ‎ ‎ ✓ Efficacité Prouvée",
+        "text": "✓    Non comédogène‎ ‎ ‎ ‎  ‎ ✓    Végan et bio  ‎ ‎ ‎ ✓    Efficacité Prouvée",
         "text_size": "xsmall",
         "text_style": "fill",
         "scrolling_mode": "auto",
@@ -405,7 +405,7 @@
         "subheading": "",
         "title": "",
         "content": "",
-        "background": "#e4e4e4",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": ""
       }
@@ -452,17 +452,17 @@
             "text_position": "place-self-center text-center",
             "icon": "none",
             "icon_width": 48,
-            "subheading": "Chez SEMYAS ON PRIVILÉGIE LA SAUVAGE",
-            "title": "99 % D’huiles Cultivées",
-            "content": "",
+            "subheading": "99 % des huiles sont  Cultivées",
+            "title": "CHEZ SEMYAS ON PRIVILIGIE LA SAUVAGE",
+            "content": "<p>QUALITE UNIQUE </p>",
             "link_text": "DÉCOUVRIR",
             "link_url": "shopify://products/flacon-15-ml",
-            "background": "#e4e4e4",
+            "background": "#ffffff",
             "background_gradient": "",
             "text_color": "#000000",
             "text_gradient": "",
-            "button_background": "#fafafa",
-            "button_text_color": "#000000"
+            "button_background": "#000000",
+            "button_text_color": "#ffffff"
           }
         }
       },
@@ -614,7 +614,7 @@
         "feature_row_YtkV38": {
           "type": "feature_row",
           "settings": {
-            "feature_name": "100% Naturel",
+            "feature_name": "100%  SAUVAGE",
             "primary_has_feature": true,
             "competitor_has_feature": false
           }
@@ -622,7 +622,7 @@
         "feature_row_wUwptB": {
           "type": "feature_row",
           "settings": {
-            "feature_name": "Sans effets secondaires",
+            "feature_name": "100% PURE",
             "primary_has_feature": true,
             "competitor_has_feature": false
           }
@@ -630,7 +630,7 @@
         "feature_row_4NnNfA": {
           "type": "feature_row",
           "settings": {
-            "feature_name": "Résultats Durables",
+            "feature_name": "ORIGINE MEXIQUE",
             "primary_has_feature": true,
             "competitor_has_feature": false
           }
@@ -638,7 +638,7 @@
         "feature_row_6Kaegb": {
           "type": "feature_row",
           "settings": {
-            "feature_name": "Testé en laboratoire",
+            "feature_name": "ATHENTIQUE & ANCESTRALE",
             "primary_has_feature": true,
             "competitor_has_feature": false
           }
@@ -646,7 +646,7 @@
         "feature_row_jVAdRH": {
           "type": "feature_row",
           "settings": {
-            "feature_name": "Végan et bio",
+            "feature_name": "NON CULTIVES NON IRRIGUES",
             "primary_has_feature": true,
             "competitor_has_feature": false
           }
@@ -654,7 +654,7 @@
         "feature_row_eFPeXb": {
           "type": "feature_row",
           "settings": {
-            "feature_name": "ORIGINE MEXIQUE",
+            "feature_name": "QUALITE ORIGINELLE",
             "primary_has_feature": true,
             "competitor_has_feature": false
           }
@@ -684,7 +684,7 @@
       ],
       "name": "SS - Comparison table #29",
       "settings": {
-        "primary_title": "SEMYAS",
+        "primary_title": "SEMYAS BIO",
         "primary_badge": "",
         "competitor_title": "Autres",
         "competitor_badge": "",
@@ -702,8 +702,8 @@
         "show_dividers": true,
         "divider_thickness": 1,
         "icon_size": 24,
-        "gradient_start": "#fffffd",
-        "gradient_end": "#f9f6f3",
+        "gradient_start": "#ffffff",
+        "gradient_end": "#ffffff",
         "primary_column_use_gradient": true,
         "primary_column_color": "#121212",
         "primary_column_gradient_start": "#121212",
@@ -756,7 +756,7 @@
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
-        "background": "#f9f6f3",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": ""
       }
@@ -836,7 +836,7 @@
         "content": "",
         "link_url": "",
         "link_text": "",
-        "background": "#f9f6f3",
+        "background": "#f5f5f5",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
@@ -852,7 +852,7 @@
           "type": "item",
           "settings": {
             "title": "De quoi est composée l'huile SEMYAS ?",
-            "content": "<p>Notre huile est 100% issue des pépins de figue de barbarie, pressés à froid et conditionnés en laboratoire français certifié COSMOS ECOCERT.</p>"
+            "content": "<p>Notre huile est 100% pure issue des graines de figue de barbarie sauvage, unique pression à froid   certifié ECOCERT COSMOS ORGANIC</p>"
           }
         },
         "item_3dbf76": {
@@ -873,14 +873,14 @@
           "type": "item",
           "settings": {
             "title": "Comment la différencier des concurrents ?",
-            "content": "<p>L’huile de pépins de figue de barbarie SEMYAS se distingue par sa production rigoureuse et son origine prestigieuse.</p><p>Elle est issue des sols fertiles de Tunisie, sélectionnée après de longues visites chez différents producteurs pour garantir la meilleure qualité.</p><p>De plus, cette huile est obtenue à partir de figues récoltées à maturité optimale, assurant une concentration maximale en actifs bénéfiques.</p><p>Sa texture sèche, sa pénétration optimale, son parfum léger et naturel ainsi que sa haute teneur en vitamine E et acides gras en font un produit unique sur le marché, testé cliniquement pour garantir son efficacité.</p>"
+            "content": "<p>L’huile de graines de figue de barbarie SEMYAS se distingue par sa production rigoureuse et son origine sauvage prestigieuse </p><p>Elle est issue des sols du mexique sa terre natale, sélectionnée après de longues visites chez différents producteurs pour garantir la meilleure qualité.</p><p>De plus, cette huile est obtenue à partir de figues sauvage unique au monde récoltées à maturité optimale, assurant une concentration maximale en actifs bénéfiques.</p><p>Sa texture sèche, sa pénétration optimale, son parfum léger et naturel ainsi que sa haute teneur en vitamine E et acides gras en font un produit unique sur le marché, testé cliniquement pour garantir son efficacité.</p>"
           }
         },
         "item_D8xHCp": {
           "type": "item",
           "settings": {
             "title": "Quels sont les résultats auxquels je peux m'attendre ?",
-            "content": "<p>En utilisant l’huile de pépins de figue de barbarie SEMYAS, vous pouvez vous attendre à une amélioration notable de l’apparition de votre peau.</p><p>Votre peau sera profondément hydratée, plus souple et éclatante. Les signes de vieillissement seront visiblement réduits grâce à la haute teneur en vitamine E et en antioxydants.</p><p>Cette huile légère et non grasse pénètre rapidement, laissant votre peau douce et sans résidu huileux. De plus, son parfum léger et naturel rend son application agréable et rafraîchissante.</p>"
+            "content": "<p>En utilisant l’huile de graines de figue de barbarie sauvage  SEMYAS, vous pouvez vous attendre à une amélioration notable de l’apparition de votre peau.</p><p>Votre peau sera profondément hydratée, plus souple et éclatante. Les signes de vieillissement seront visiblement réduits grâce à la haute teneur en vitamine E et en antioxydants.</p><p>Cette huile légère et non grasse pénètre rapidement, laissant votre peau douce et sans résidu huileux. De plus, son parfum léger et naturel rend son application agréable et rafraîchissante.</p>"
           }
         }
       },
@@ -909,9 +909,9 @@
         "heading_color": "",
         "heading_gradient": "",
         "button_background": "",
-        "button_text_color": "",
-        "accordion_background": "",
-        "accordion_text_color": ""
+        "button_text_color": "#ffffff",
+        "accordion_background": "#f5f5f5",
+        "accordion_text_color": "#000000"
       }
     }
   },
