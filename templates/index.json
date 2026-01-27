@@ -242,7 +242,7 @@
             "icon_width": 68,
             "icon_background_type": "circle",
             "icon_background": "#000000",
-            "icon_color": "",
+            "icon_color": "#ffffff",
             "title": "",
             "content": "<p><strong>99 % D’HUILES CULTIVÉES</strong></p>"
           }
@@ -261,7 +261,7 @@
         "heading_tag": "h5",
         "text_alignment": "center",
         "icon_spacing": "medium",
-        "background": "#ffffff",
+        "background": "#f5f5f5",
         "background_gradient": "",
         "text_color": "#000000"
       }
@@ -307,7 +307,7 @@
         "button_text": "",
         "button_url": "",
         "text_position": "center",
-        "background": "#f5f5f5",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
@@ -457,7 +457,7 @@
             "content": "<p>QUALITE UNIQUE </p>",
             "link_text": "DÉCOUVRIR",
             "link_url": "shopify://products/flacon-15-ml",
-            "background": "#ffffff",
+            "background": "#f5f5f5",
             "background_gradient": "",
             "text_color": "#000000",
             "text_gradient": "",
@@ -756,7 +756,7 @@
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
-        "background": "#ffffff",
+        "background": "#f5f5f5",
         "background_gradient": "",
         "text_color": ""
       }
@@ -836,9 +836,9 @@
         "content": "",
         "link_url": "",
         "link_text": "",
-        "background": "#f5f5f5",
+        "background": "#1a1a1a",
         "background_gradient": "",
-        "text_color": "",
+        "text_color": "#ffffff",
         "heading_color": "",
         "heading_gradient": "",
         "testimonial_card_background": "",
