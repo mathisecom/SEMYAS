@@ -728,7 +728,7 @@
         "divider_color": "#e0e0e0",
         "check_color": "#ffffff",
         "cross_color": "#121212",
-        "cross_stroke_style": "transparent",
+        "cross_stroke_style": "white",
         "badge_background": "#ffffff26",
         "badge_icon_color": "#ffffff",
         "padding_top": 0,
