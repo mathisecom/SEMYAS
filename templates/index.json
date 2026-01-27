@@ -69,7 +69,7 @@
         "heading_tag": "h5",
         "text_alignment": "center",
         "icon_spacing": "medium",
-        "background": "#fafafa",
+        "background": "#e4e4e4",
         "background_gradient": "",
         "text_color": ""
       }
@@ -307,7 +307,7 @@
         "button_text": "",
         "button_url": "",
         "text_position": "center",
-        "background": "#ffffff",
+        "background": "#e4e4e4",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
@@ -405,7 +405,7 @@
         "subheading": "",
         "title": "",
         "content": "",
-        "background": "#f2f2f2",
+        "background": "#e4e4e4",
         "background_gradient": "",
         "text_color": ""
       }
@@ -457,9 +457,9 @@
             "content": "",
             "link_text": "DÉCOUVRIR",
             "link_url": "shopify://products/flacon-15-ml",
-            "background": "#1a1a1a",
+            "background": "#e4e4e4",
             "background_gradient": "",
-            "text_color": "#ffffff",
+            "text_color": "#000000",
             "text_gradient": "",
             "button_background": "#fafafa",
             "button_text_color": "#000000"
