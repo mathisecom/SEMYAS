@@ -354,7 +354,7 @@
         "item_Cd6aUp": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/fotosite_femme_blanche_age_a55cd3e5-36bd-4793-832c-7937c56b241d.jpg",
+            "image": "shopify://shop_images/CREA_1080X1080_-_2026-01-26T113931.776.png",
             "column_size": "4",
             "title": "Anti-Âge Intense & Antioxydant Puissant",
             "heading_tag": "h3",
@@ -367,7 +367,7 @@
         "item_3LTJMm": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/fotosite_femme_noir_070ece25-1dfb-4cd5-8302-857f763973c2.jpg",
+            "image": "shopify://shop_images/CREA_1080X1080_-_2026-01-26T114429.094.png",
             "column_size": "4",
             "title": "Hydratation Profonde & Nutrition Durable",
             "heading_tag": "h3",
@@ -380,7 +380,7 @@
         "item_TqaBmD": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/fotosite_femme_blanche_05e3d7b9-5470-4f82-b48e-7a1c7ed29b1a.jpg",
+            "image": "shopify://shop_images/CREA_1080X1080_-_2026-01-26T114832.819.png",
             "column_size": "4",
             "title": "Réparation Ciblée & Éclat Uniforme",
             "heading_tag": "h3",
@@ -393,7 +393,7 @@
         "item_yD4dR9": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/CREA_1080X1080_-_2026-01-22T161305.624.png",
+            "image": "shopify://shop_images/CREA_1080X1080_-_2026-01-26T115055.732.png",
             "column_size": "4",
             "title": "Soin Régénérant pour Cheveux Abîmés",
             "heading_tag": "h3",
@@ -472,14 +472,14 @@
         "stack_mobile": true,
         "title": "RÉSULTATS VISIBLES DÈS 28 JOURS*",
         "content": "<h6><em>*Études menées pendant 28 jours sur 60 femmes de 45 à 65 ans. Application 1 fois par jour. Mesures effectuées par des experts en tests cliniques des produits cosmétiques et mis en œuvre par l’Organisation des Nations Unies pour le Développement Industriel.</em></h6>",
-        "text_alignment": "start",
+        "text_alignment": "center",
         "items_per_row": 5,
-        "background": "#fffbfb",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
-        "logo_item_background": "#ecf7f4",
+        "logo_item_background": "#ffffff",
         "logo_item_border": ""
       }
     },
