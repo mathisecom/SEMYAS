@@ -17,8 +17,8 @@
         "allow_transparent_header": true,
         "autoplay": true,
         "video_size": "md",
-        "video": "shopify://files/videos/video entree site_a0611a7b-fe67-4df2-9513-24cce53846e8.mp4",
-        "mobile_video": "shopify://files/videos/Video.mp4",
+        "video": "shopify://files/videos/video entree site_f38b3c0d-c1c1-4248-9812-06fb010f799c.mp4",
+        "mobile_video": "shopify://files/videos/video entree site_f38b3c0d-c1c1-4248-9812-06fb010f799c.mp4",
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
@@ -393,7 +393,7 @@
         "item_yD4dR9": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/CREA_1080X1080_-_2026-01-26T115055.732.png",
+            "image": "shopify://shop_images/CREA_1080X1080_-_2026-01-22T161305.624.png",
             "column_size": "4",
             "title": "Soin Régénérant pour Cheveux Abîmés",
             "heading_tag": "h3",
@@ -504,7 +504,7 @@
         "logo_Qt9KAm": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/8_4.jpg",
+            "logo": "shopify://shop_images/CREA_1080X1080_-_2026-01-22T164414.706.jpg",
             "logo_width": 140,
             "link": ""
           }
@@ -520,7 +520,7 @@
         "logo_dgn9cw": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/75_4.jpg",
+            "logo": "shopify://shop_images/CREA_1080X1080_-_2026-01-22T164214.612.jpg",
             "logo_width": 140,
             "link": ""
           }
