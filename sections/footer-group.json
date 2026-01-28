@@ -96,7 +96,7 @@
           "type": "text",
           "settings": {
             "title": "Contactez-Nous",
-            "content": "<p><strong>Courriel :</strong> contact@semyasbio.fr<br/><br/>Heures d'ouverture : Du Lundi au Vendredi, de 9 h à 12 h et de 14 h à 18 h / Samedi et Dimanche, de 10 h à 12 h</p>",
+            "content": "<p><strong>Courriel :</strong> contact@semyasbio.fr<br/><br/>Heures d'ouverture : Du Lundi au Vendredi, de 9 h à 12 h et de 14 h à 18 h </p>",
             "enable_follow_on_shop": true
           }
         }
