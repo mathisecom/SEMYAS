@@ -223,24 +223,24 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/2_0483f3b0-cb50-4731-99ad-52e5c7162123.png",
+            "custom_icon": "shopify://shop_images/15_b44e7e9a-8cdb-4a6c-a785-8270ff060acb.png",
             "mobile_icon_width": 56,
             "icon_width": 68,
             "icon_background_type": "none",
             "icon_background": "#000000",
             "icon_color": "#ffffff",
-            "title": "",
-            "content": "<p><strong><br/>FIGUIERS SAUVAGES ORIGINELS</strong><br/><br/></p>"
+            "title": "FIGUIERS SAUVAGES ORIGINELS",
+            "content": "<p><strong><br/></strong><br/><br/></p>"
           }
         },
         "item_VTzwdm": {
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/14.png",
+            "custom_icon": "shopify://shop_images/17_600500c1-6878-467c-8084-8b12c30b8e02.png",
             "mobile_icon_width": 56,
             "icon_width": 68,
-            "icon_background_type": "circle",
+            "icon_background_type": "none",
             "icon_background": "#ffffff",
             "icon_color": "#ffffff",
             "title": "QUALITÉ PREMIUM SAUVAGE",
@@ -251,14 +251,14 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/CREA_1080X1080_-_2026-01-22T144120.615.png",
+            "custom_icon": "shopify://shop_images/16.png",
             "mobile_icon_width": 56,
             "icon_width": 68,
-            "icon_background_type": "circle",
+            "icon_background_type": "none",
             "icon_background": "#000000",
             "icon_color": "#ffffff",
-            "title": "",
-            "content": "<p><strong>100% PURE MEXIQUE </strong></p>"
+            "title": "100% PURE MEXIQUE",
+            "content": ""
           }
         }
       },
@@ -274,7 +274,7 @@
         "title": "",
         "heading_tag": "h5",
         "text_alignment": "center",
-        "icon_spacing": "medium",
+        "icon_spacing": "small",
         "background": "#ffffff",
         "background_gradient": "",
         "text_color": "#000000"
