@@ -565,9 +565,9 @@
             "content": "",
             "link_text": "OBTENIR MAINTENANT",
             "link_url": "#shopify-section-template--27623632863579__main",
-            "background": "#000000",
+            "background": "#e6e6e6",
             "background_gradient": "",
-            "text_color": "#ffffff",
+            "text_color": "#1a1a1a",
             "text_gradient": "",
             "button_background": "#ffffff",
             "button_text_color": "#000000"
