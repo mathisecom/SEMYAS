@@ -138,9 +138,9 @@
         "image_EkWUhT": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/logo.webp",
+            "image": "shopify://shop_images/bandeau_site_b0ec3373-d860-49c3-b4ac-a31edea92413.png",
             "alignment": "center",
-            "max_width": 500
+            "max_width": 400
           }
         }
       },
@@ -554,7 +554,7 @@
         "image_7qi6Gy": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/DES_FIGUIERS_HUILES_SONT_CULTIVES.png",
+            "image": "shopify://shop_images/DES_FIGUIERS_HUILES_SONT_CULTIVES.jpg",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
