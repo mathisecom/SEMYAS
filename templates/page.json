@@ -43,29 +43,19 @@
           "settings": {
             "image": "shopify://shop_images/22.png",
             "navigation_label": "2021",
-            "subheading": "mettre en pratique notre reve",
-            "title": "mettre en pratique notre reve",
-            "content": "<p>Dès la découverte, on a compris qu’il fallait avancer avec respect et patience : on a réuni une équipe locale, tissé des liens avec les communautés cueilleuses et posé les fondations d’un projet profondément responsable. On a pensé chaque détail, de la récolte à la mise en flacon :</p><p>Cueillette manuelle : chaque figue sauvage est récoltée à la main pour préserver la biodiversité environnante.</p><p>Récolte annuelle : nous effectuons une seule récolte par an, préservant l’équilibre de la nature et garantissant un produit premium.</p><p>Pression à froid unique : les graines subissent une unique pression à froid, conservant tous les bienfaits naturels de l’huile.</p><p>Embouteillage direct : notre huile est embouteillée directement, sans intermédiaire, pour assurer une qualité optimale et constante. du figuier ancestral jusqu’à vous.<br/><br/><br/><br/></p>"
+            "subheading": "NOTRE VISION PREND VIE",
+            "title": "PROCESSUS DE FABRICATION",
+            "content": "<p>Dès la découverte, on a compris qu’il fallait avancer avec respect et patience : on a réuni une équipe locale, tissé des liens avec les communautés cueilleuses et posé les fondations d’un projet profondément responsable. On a pensé chaque détail, de la récolte à la mise en flacon :</p><p><strong>Cueillette manuelle</strong> : chaque figue sauvage est récoltée à la main pour préserver la biodiversité environnante.</p><p><strong>Récolte annuelle</strong> : nous effectuons une seule récolte par an, préservant l’équilibre de la nature et garantissant un produit premium.</p><p><strong>Pression à froid unique</strong> : les graines subissent une unique pression à froid, conservant tous les bienfaits naturels de l’huile.</p><p><strong>Embouteillage direct</strong> : notre huile est embouteillée directement, sans intermédiaire, pour assurer une qualité optimale et constante. du figuier ancestral jusqu’à vous.<br/><br/><br/><br/></p>"
           }
         },
         "slide_whtfF7": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/24.png",
-            "navigation_label": "2024",
-            "subheading": "MARCHE MEXIQUE ET CANADA",
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        },
-        "slide_qhwQAR": {
-          "type": "slide",
-          "settings": {
             "image": "shopify://shop_images/ENTREE_DE_SITE.jpg",
-            "navigation_label": "2025 EXCUSIVITE FRANCE",
-            "subheading": "ECLUSIVITE SUR LE MARCHE FRANCAIS",
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "navigation_label": "2024/fin 2025",
+            "subheading": "2024  MEXIQUE ET CANADA",
+            "title": "FIN 2025 ARRIVEE EN EXCLUSIVITE FRANCE",
+            "content": "<h2><strong>SEMYAS BIO</strong></h2><p>Aujourd'hui, nous avons l’immense honneur de vous présenter<br/>cette huile, certifiée par Ecocert et Cosmos, qui incarne notre engagement<br/>envers la qualité, la durabilité et le respect de l’héritage culturel. MEXIBIO,<br/>en tant que distributeur exclusif, est là pour vous permettre de découvrir<br/>cette huile d’exception en Europe et au-delà.</p><p>Nous vous invitons à rejoindre notre voyage, à ressentir la magie d’une beauté<br/>authentique et à célébrer ensemble les valeurs de durabilité et de respect de<br/>notre planète. En choisissant notre huile de graines de figue de barbarie<br/>sauvage, vous n'adoptez pas seulement un produit, mais vous devenez partie<br/>intégrante d'une aventure humaine et émotionnelle.</p>"
           }
         }
       },
@@ -73,8 +63,7 @@
         "slide_AfMtLD",
         "slide_QYczfc",
         "slide_fH6fWK",
-        "slide_whtfF7",
-        "slide_qhwQAR"
+        "slide_whtfF7"
       ],
       "name": "Timeline",
       "settings": {
