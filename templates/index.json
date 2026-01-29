@@ -538,10 +538,33 @@
             "button_background": "#000000",
             "button_text_color": "#ffffff"
           }
+        },
+        "image_hK4fWB": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ecocert_site.jpg",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "",
+            "content": "<h2>Certifications</h2><p><strong>Certifié biologique</strong> par Ecocert Greenlife selon la norme COSMOS disponible sur :<br/><br/>http://COSMOS.ecocert.com</p><p><strong>Ecocert</strong> SAS MX BIO-154.</p><p><strong>Opérateur</strong> 161181</p><p><a href=\"https://www.ecocert.com/es/detaile-de-certification/cosmeticos-org%C3%A1nicos-o-naturales-cosmos-\" target=\"_blank\" title=\"https://certificat.ecocert.com/\"><strong><br/></strong></a>Cosmos Organic garantissent des produits biologiques et écologiques de haute qualité. Elles assurent la transparence concernant les ingrédients et les pratiques de fabrication durables, favorisant ainsi la préservation de la biodiversité et le bien-être des petits producteurs.</p><p><br/>En choisissant des produits certifiés, les consommateurs soutiennent une économie éthique et contribuent à un avenir durable, tout en prenant soin de leur santé et de la planète.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
         }
       },
       "block_order": [
-        "image_HCcqcU"
+        "image_HCcqcU",
+        "image_hK4fWB"
       ],
       "name": "Media with text",
       "settings": {
