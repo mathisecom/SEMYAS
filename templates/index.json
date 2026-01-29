@@ -25,6 +25,70 @@
         "overlay_opacity": 40
       }
     },
+    "text_with_icons_nHa4Qr": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_7zw6Ge": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/15_b44e7e9a-8cdb-4a6c-a785-8270ff060acb.png",
+            "mobile_icon_width": 56,
+            "icon_width": 68,
+            "icon_background_type": "none",
+            "icon_background": "#ffffff",
+            "icon_color": "#ffffff",
+            "title": "PUISSANT ANTI‑RIDES, AUTHENTICITÉ NATURELLE",
+            "content": "<p><strong>TAUX RECORD Vitamine E</strong> : Antioxydant puissant, protège la peau des radicaux libres<br/><br/><br/><br/><br/></p>"
+          }
+        },
+        "item_VTzwdm": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/17_600500c1-6878-467c-8084-8b12c30b8e02.png",
+            "mobile_icon_width": 56,
+            "icon_width": 68,
+            "icon_background_type": "none",
+            "icon_background": "#ffffff",
+            "icon_color": "#ffffff",
+            "title": "REPARATRICE CIBLE",
+            "content": "<p><strong>Vitamine K-A-D </strong>Favorise la cicatrisation,Aide au renouvellement cellulaire,Renforce la barrière cutanée<br/><br/><br/></p>"
+          }
+        },
+        "item_7izWEc": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/16.png",
+            "mobile_icon_width": 56,
+            "icon_width": 68,
+            "icon_background_type": "none",
+            "icon_background": "#000000",
+            "icon_color": "#ffffff",
+            "title": "HYDRATATION INTENSE",
+            "content": "<p><strong>RICHES en Acides gras essentiels</strong> (oméga-6 et oméga-9) : Maintiennent l'hydratation et améliorent l’élasticité de la peau.<br/><br/></p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_7zw6Ge",
+        "item_VTzwdm",
+        "item_7izWEc"
+      ],
+      "name": "Text with icons",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "title": "SEMYAS BIO LA QUINTESSENCE SAUVAGE",
+        "heading_tag": "h4",
+        "text_alignment": "center",
+        "icon_spacing": "small",
+        "background": "#f2f2f2",
+        "background_gradient": "",
+        "text_color": "#000000"
+      }
+    },
     "tabs_F9akK7": {
       "type": "tabs",
       "blocks": {
@@ -80,7 +144,7 @@
         "full_width": true,
         "remove_vertical_spacing": true,
         "remove_horizontal_spacing": true,
-        "liquid": "{% comment %}\n  Naali Saffron Wellness Banner Section\n  Custom Liquid section for Shopify\n{% endcomment %}\n\n<style>\n  .naali-saffron-banner {\n    background-color: #f5f1ed;\n    padding: 60px 20px;\n    text-align: center;\n  }\n\n  .naali-banner-container {\n    width: 100%;\n    margin: 0 auto;\n    padding: 0 40px;\n  }\n\n  .naali-banner-title {\n    font-size: 36px;\n    font-weight: 700;\n    color: #2c2c2c;\n    margin: 0 0 25px 0;\n    line-height: 1.3;\n  }\n\n  .naali-banner-subtitle {\n    font-size: 16px;\n    color: #4a4a4a;\n    line-height: 1.6;\n    margin: 0 0 50px 0;\n    max-width: 1100px;\n    margin-left: auto;\n    margin-right: auto;\n  }\n\n  .naali-features-grid {\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    gap: 40px;\n    flex-wrap: wrap;\n  }\n\n  .naali-feature-item {\n    display: flex;\n    align-items: center;\n    gap: 10px;\n    font-size: 15px;\n    color: #2c2c2c;\n    font-weight: 500;\n    font-style: italic;\n  }\n\n  .naali-checkmark {\n    width: 20px;\n    height: 20px;\n    flex-shrink: 0;\n  }\n\n  .naali-checkmark svg {\n    width: 100%;\n    height: 100%;\n  }\n\n  @media (max-width: 768px) {\n    .naali-saffron-banner {\n      padding: 40px 20px;\n      text-align: center;\n    }\n\n    .naali-banner-container {\n      padding: 0 20px;\n    }\n\n    .naali-banner-title {\n      font-size: 24px;\n      margin-bottom: 18px;\n      line-height: 1.3;\n    }\n\n    .naali-banner-subtitle {\n      font-size: 13px;\n      margin-bottom: 25px;\n      line-height: 1.5;\n      text-align: center;\n    }\n\n    .naali-features-grid {\n      display: grid;\n      grid-template-columns: repeat(2, 1fr);\n      gap: 12px;\n      margin: 0;\n    }\n\n    .naali-feature-item {\n      font-size: 12px;\n      font-style: italic;\n      background-color: #ffffff;\n      padding: 12px 10px;\n      border-radius: 8px;\n      width: 100%;\n      max-width: none;\n      justify-content: flex-start;\n    }\n\n    .naali-checkmark {\n      width: 16px;\n      height: 16px;\n    }\n  }\n</style>\n\n<div class=\"naali-saffron-banner\">\n  <div class=\"naali-banner-container\">\n    <h2 class=\"naali-banner-title\">LA NATURE SAUVAGE RÉVÈLE UN ANTI‑ÂGE ALLIANCE DE PUISSANCE ET DE CONFIANCE</h2>\n    \n    <p class=\"naali-banner-subtitle\">\n      \nHuile sèche naturelle de Graines de Figue de Barbarie Sauvage du Mexique\nSauvage & Authentique, Incomparable issue d'un lieu d'exception et d'une Qualité Ancestrale préservée. Certifiée Ecocert Cosmos Organic BIO 100% Pure\n\nInspiré par les rituels de soins des Lignées Royales Aztèques\n    </p>\n\n    <div class=\"naali-features-grid\">\n      <div class=\"naali-feature-item\">\n        <span class=\"naali-checkmark\">\n          <svg viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <path d=\"M20 6L9 17L4 12\" stroke=\"#2c2c2c\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n          </svg>\n        </span>\n        <span>100% Sauvage</span>\n      </div>\n\n      <div class=\"naali-feature-item\">\n        <span class=\"naali-checkmark\">\n          <svg viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <path d=\"M20 6L9 17L4 12\" stroke=\"#2c2c2c\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n          </svg>\n        </span>\n        <span>Qualité 100% Pure</span>\n      </div>\n\n      <div class=\"naali-feature-item\">\n        <span class=\"naali-checkmark\">\n          <svg viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <path d=\"M20 6L9 17L4 12\" stroke=\"#2c2c2c\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n          </svg>\n        </span>\n        <span>Unique sur le marché</span>\n      </div>\n\n      <div class=\"naali-feature-item\">\n        <span class=\"naali-checkmark\">\n          <svg viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <path d=\"M20 6L9 17L4 12\" stroke=\"#2c2c2c\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n          </svg>\n        </span>\n        <span>bio certifié Ecocert </span>\n      </div>\n    </div>\n  </div>\n</div>",
+        "liquid": "{% comment %}\n  Naali Saffron Wellness Banner Section\n  Custom Liquid section for Shopify\n{% endcomment %}\n\n<style>\n  .naali-saffron-banner {\n    background-color: #f5f1ed;\n    padding: 60px 20px;\n    text-align: center;\n  }\n\n  .naali-banner-container {\n    width: 100%;\n    margin: 0 auto;\n    padding: 0 40px;\n  }\n\n  .naali-banner-title {\n    font-size: 36px;\n    font-weight: 700;\n    color: #2c2c2c;\n    margin: 0 0 25px 0;\n    line-height: 1.3;\n  }\n\n  .naali-banner-subtitle {\n    font-size: 16px;\n    color: #4a4a4a;\n    line-height: 1.6;\n    margin: 0 0 50px 0;\n    max-width: 1100px;\n    margin-left: auto;\n    margin-right: auto;\n  }\n\n  .naali-features-grid {\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    gap: 40px;\n    flex-wrap: wrap;\n  }\n\n  .naali-feature-item {\n    display: flex;\n    align-items: center;\n    gap: 10px;\n    font-size: 15px;\n    color: #2c2c2c;\n    font-weight: 500;\n    font-style: italic;\n  }\n\n  .naali-checkmark {\n    width: 20px;\n    height: 20px;\n    flex-shrink: 0;\n  }\n\n  .naali-checkmark svg {\n    width: 100%;\n    height: 100%;\n  }\n\n  @media (max-width: 768px) {\n    .naali-saffron-banner {\n      padding: 40px 20px;\n      text-align: center;\n    }\n\n    .naali-banner-container {\n      padding: 0 20px;\n    }\n\n    .naali-banner-title {\n      font-size: 24px;\n      margin-bottom: 18px;\n      line-height: 1.3;\n    }\n\n    .naali-banner-subtitle {\n      font-size: 13px;\n      margin-bottom: 25px;\n      line-height: 1.5;\n      text-align: center;\n    }\n\n    .naali-features-grid {\n      display: grid;\n      grid-template-columns: repeat(2, 1fr);\n      gap: 12px;\n      margin: 0;\n    }\n\n    .naali-feature-item {\n      font-size: 12px;\n      font-style: italic;\n      background-color: #ffffff;\n      padding: 12px 10px;\n      border-radius: 8px;\n      width: 100%;\n      max-width: none;\n      justify-content: flex-start;\n    }\n\n    .naali-checkmark {\n      width: 16px;\n      height: 16px;\n    }\n  }\n</style>\n\n<div class=\"naali-saffron-banner\">\n  <div class=\"naali-banner-container\">\n    <h2 class=\"naali-banner-title\">LA QUINTESSENCE SAUVAGE — PUISSANT ANTI‑RIDES, ALLIANCE DE PUISSANCE ET DE CONFIANCE</h2>\n    \n    <p class=\"naali-banner-subtitle\">\n      \nHuile sèche naturelle de Graines de Figue de Barbarie Sauvage du Mexique\nSauvage & Authentique, Incomparable issue d'un lieu d'exception et d'une Qualité Ancestrale préservée. Certifiée Ecocert Cosmos Organic BIO 100% Pure\n\nInspiré par les rituels de soins des Lignées Royales Aztèques\n    </p>\n\n    <div class=\"naali-features-grid\">\n      <div class=\"naali-feature-item\">\n        <span class=\"naali-checkmark\">\n          <svg viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <path d=\"M20 6L9 17L4 12\" stroke=\"#2c2c2c\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n          </svg>\n        </span>\n        <span>100% Sauvage</span>\n      </div>\n\n      <div class=\"naali-feature-item\">\n        <span class=\"naali-checkmark\">\n          <svg viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <path d=\"M20 6L9 17L4 12\" stroke=\"#2c2c2c\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n          </svg>\n        </span>\n        <span>Qualité 100% Pure</span>\n      </div>\n\n      <div class=\"naali-feature-item\">\n        <span class=\"naali-checkmark\">\n          <svg viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <path d=\"M20 6L9 17L4 12\" stroke=\"#2c2c2c\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n          </svg>\n        </span>\n        <span>Unique sur le marché</span>\n      </div>\n\n      <div class=\"naali-feature-item\">\n        <span class=\"naali-checkmark\">\n          <svg viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <path d=\"M20 6L9 17L4 12\" stroke=\"#2c2c2c\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n          </svg>\n        </span>\n        <span>bio certifié Ecocert </span>\n      </div>\n    </div>\n  </div>\n</div>",
         "background": "#ffffff",
         "background_gradient": "",
         "text_color": ""
@@ -264,10 +328,10 @@
         "product_card_text_color": ""
       }
     },
-    "text_with_icons_nHa4Qr": {
+    "text_with_icons_Xj6edW": {
       "type": "text-with-icons",
       "blocks": {
-        "item_7zw6Ge": {
+        "item_hRmCEr": {
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
@@ -281,7 +345,7 @@
             "content": "<p><strong>Ne pas confondre avec les figuiers dʼorigine cultivée</strong><br/><br/></p>"
           }
         },
-        "item_VTzwdm": {
+        "item_rwVgYd": {
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
@@ -295,7 +359,7 @@
             "content": "<p><strong>Une authenticité et une qualité inégalées</strong><br/><br/></p>"
           }
         },
-        "item_7izWEc": {
+        "item_j8tgXW": {
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
@@ -311,9 +375,9 @@
         }
       },
       "block_order": [
-        "item_7zw6Ge",
-        "item_VTzwdm",
-        "item_7izWEc"
+        "item_hRmCEr",
+        "item_rwVgYd",
+        "item_j8tgXW"
       ],
       "name": "Text with icons",
       "settings": {
@@ -1085,13 +1149,14 @@
   },
   "order": [
     "video_WNxceE",
+    "text_with_icons_nHa4Qr",
     "tabs_F9akK7",
     "custom_liquid_tHjw9m",
     "text_with_icons_tphdMT",
     "multi_column_afBimq",
     "rich_text_UaMAVr",
     "featured_collection_r8npmj",
-    "text_with_icons_nHa4Qr",
+    "text_with_icons_Xj6edW",
     "faq",
     "scrolling_text_D4NLHg",
     "multi_column_WKdQNk",
