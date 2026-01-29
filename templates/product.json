@@ -240,7 +240,7 @@
         "logo_kNhPLB": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/CREA_1080X1080_-_2026-01-22T164111.793.jpg",
+            "logo": "shopify://shop_images/3_e474c9be-278a-4de2-87c4-fc166c8ea7b9.png",
             "logo_width": 150,
             "link": ""
           }
@@ -248,7 +248,7 @@
         "logo_cnEpR4": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/CREA_1080X1080_-_2026-01-22T164622.682.jpg",
+            "logo": "shopify://shop_images/17_0813743f-09bb-4409-a269-ccec0da00268.png",
             "logo_width": 150,
             "link": ""
           }
@@ -256,7 +256,7 @@
         "logo_JjUG3J": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/CREA_1080X1080_-_2026-01-22T164251.671.jpg",
+            "logo": "shopify://shop_images/15_8828d31d-bd89-472d-ae1e-a7ede7ed7f72.png",
             "logo_width": 150,
             "link": ""
           }
@@ -299,7 +299,7 @@
         "image_acTDUx": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/CREA_1080X1080_-_2026-01-27T233534.559.jpg",
+            "image": "shopify://shop_images/FOTO_FLACON_DANS_LA_NATURE2.jpg",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
@@ -560,9 +560,9 @@
             "text_position": "place-self-center text-center",
             "icon": "none",
             "icon_width": 48,
-            "subheading": "Chez SEMYAS ON PRIVILÉGIE LA SAUVAGE",
-            "title": "99 % D’huiles Cultivées",
-            "content": "",
+            "subheading": "99 % des huiles sont produites à partir de cultures intensives visant un rendement élevé",
+            "title": "SEMYAS, LA QUALITÉ SAUVAGE, AUTHENTIQUE, EST NOTRE ENGAGEMENT",
+            "content": "<p><br/>QUALITÉ EXCEPTIONNELLE, INCOMPARABLE SUR LE MARCHÉ<br/><br/></p>",
             "link_text": "OBTENIR MAINTENANT",
             "link_url": "#shopify-section-template--27623632863579__main",
             "background": "#e6e6e6",
@@ -590,7 +590,7 @@
         "logo_aA6TfA": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/7_8.jpg",
+            "logo": "shopify://shop_images/LOGO_RECOLTE.jpg",
             "logo_width": 140,
             "link": ""
           }
@@ -598,7 +598,7 @@
         "logo_ceJJL3": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/8_4.jpg",
+            "logo": "shopify://shop_images/12_f6b8dada-cce1-49b2-addb-0e5ea3f78cc0.jpg",
             "logo_width": 140,
             "link": ""
           }
@@ -606,7 +606,7 @@
         "logo_e3LK3E": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/6_8.jpg",
+            "logo": "shopify://shop_images/7.jpg",
             "logo_width": 140,
             "link": ""
           }
@@ -614,7 +614,7 @@
         "logo_mcEBRJ": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/75_4.jpg",
+            "logo": "shopify://shop_images/13.jpg",
             "logo_width": 140,
             "link": ""
           }
@@ -622,7 +622,7 @@
         "logo_bi7Agd": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/5_9.jpg",
+            "logo": "shopify://shop_images/11.png",
             "logo_width": 140,
             "link": ""
           }
