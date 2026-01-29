@@ -11,6 +11,93 @@
   "type": "footer",
   "name": "Footer group",
   "sections": {
+    "slideshow_mQRNMP": {
+      "type": "slideshow",
+      "blocks": {
+        "image_Er7rRy": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/IMG_4208_337a0440-c846-4d8b-b0ad-657d23d89cae.jpg",
+            "mobile_image": "shopify://shop_images/Authentique3.png",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "Une Amitié & Un Rêve Paty & Naïm : La Beauté Née des Figuiers Ancestraux À la croisée de nos histoires est née une passion commune : révéler l’essence authentique de la nature. Paty, héritière des traditions mexicaines, et Naïm, voyageur français amoureux de la terre, se sont unis pour créer une huile rare et précieuse, issue des graines de figue de barbarie sauvage.Notre quête nous a menés aux terres sacrées des Aztèques et des Mayas, où s’élèvent des figuiers ancestraux, leurs troncs majestueux dressés comme des gardiens du temps. Ces géants du désert, sculptés par des siècles de vent et de soleil, abritent des fruits précieux gorgés de vie. Chaque goutte de notre huile, récoltée à la main, pressée à froid sans solvant et certifiée bio par Ecocert et Cosmos Organic, capture l’âme de ces arbres vénérables.",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
+        },
+        "image_UdG3pp": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Untitled_design.png",
+            "mobile_image": "shopify://shop_images/Untitled_design.png",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "Une Décennie d'Audace & d'Obstacles Surmontés Au fil des années, notre quête pour trouver le meilleur producteur de figues sauvages s’est révélée semée d’embûches. Nous avons affronté de nombreux défis, explorant les montagnes et les vallées, souvent confrontés à des conditions difficiles. Chaque échec était une leçon précieuse, chaque rencontre avec les producteurs une opportunité d’apprendre et de grandir dans notre aventure. Enfin, après tant d'années à traquer l’authenticité et la qualité, nous avons découvert le meilleur endroit au Mexique, où les figuiers de barbarie sauvages prospèrent dans des écosystèmes protégés. Cette découverte a transformé notre projet, nous permettant de mettre en place un laboratoire de production, où nous garantissons des pratiques respectueuses de la biodiversité.",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
+        },
+        "image_CBmbbA": {
+          "type": "image",
+          "settings": {
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "Tell your story",
+            "title": "Slide 2",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_Er7rRy",
+        "image_UdG3pp",
+        "image_CBmbbA"
+      ],
+      "name": "Slideshow",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "show_initial_transition": false,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#F2F2F2",
+        "background_gradient": ""
+      }
+    },
     "text-with-icons": {
       "type": "text-with-icons",
       "blocks": {
@@ -118,6 +205,7 @@
     }
   },
   "order": [
+    "slideshow_mQRNMP",
     "text-with-icons",
     "footer"
   ]
