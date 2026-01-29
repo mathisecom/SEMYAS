@@ -603,8 +603,8 @@
       "settings": {
         "full_width": true,
         "stack_mobile": true,
-        "title": "",
-        "content": "<p><strong>RÉSULTATS VISIBLES DÈS 28 JOURS*</strong></p>",
+        "title": "RÉSULTATS VISIBLES DÈS 28 JOURS*",
+        "content": "<p><em>*Études menées pendant 28 jours sur 60 femmes de 45 à 65 ans. Application 1 fois par jour. Mesures effectuées par des experts en tests cliniques des produits cosmétiques et mis en œuvre par l’Organisation des Nations Unies pour le Développement Industriel.</em></p>",
         "text_alignment": "center",
         "items_per_row": 5,
         "background": "#ffffff",
