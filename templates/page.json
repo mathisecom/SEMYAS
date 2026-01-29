@@ -57,13 +57,24 @@
             "title": "Heading",
             "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
+        },
+        "slide_qhwQAR": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/ENTREE_DE_SITE.jpg",
+            "navigation_label": "2025 EXCUSIVITE FRANCE",
+            "subheading": "ECLUSIVITE SUR LE MARCHE FRANCAIS",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
         }
       },
       "block_order": [
         "slide_AfMtLD",
         "slide_QYczfc",
         "slide_fH6fWK",
-        "slide_whtfF7"
+        "slide_whtfF7",
+        "slide_qhwQAR"
       ],
       "name": "Timeline",
       "settings": {
