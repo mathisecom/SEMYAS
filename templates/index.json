@@ -549,16 +549,16 @@
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "",
+            "title": "MEFIEZ-VOUS : FAUSSE CERTIFICATION — CONTRÔLEZ L'ORIGINE ET L'AUTHENTICITÉ",
             "content": "<h2>Certifications</h2><p><strong>Certifié biologique</strong> par Ecocert Greenlife selon la norme COSMOS disponible sur :<br/><br/>http://COSMOS.ecocert.com</p><p><strong>Ecocert</strong> SAS MX BIO-154.</p><p><strong>Opérateur</strong> 161181</p><p><a href=\"https://www.ecocert.com/es/detaile-de-certification/cosmeticos-org%C3%A1nicos-o-naturales-cosmos-\" target=\"_blank\" title=\"https://certificat.ecocert.com/\"><strong><br/></strong></a>Cosmos Organic garantissent des produits biologiques et écologiques de haute qualité. Elles assurent la transparence concernant les ingrédients et les pratiques de fabrication durables, favorisant ainsi la préservation de la biodiversité et le bien-être des petits producteurs.</p><p><br/>En choisissant des produits certifiés, les consommateurs soutiennent une économie éthique et contribuent à un avenir durable, tout en prenant soin de leur santé et de la planète.</p>",
-            "link_text": "",
-            "link_url": "",
+            "link_text": "LIEN OFFICIEL ECOCERT : VÉRIFIEZ L'AUTHENTICITÉ AVANT ACHAT",
+            "link_url": "https://certificat.ecocert.com/",
             "background": "#000000",
             "background_gradient": "",
             "text_color": "#ffffff",
             "text_gradient": "",
             "button_background": "",
-            "button_text_color": ""
+            "button_text_color": "#f83a3a"
           }
         }
       },
@@ -860,7 +860,7 @@
         "heading_QGqkn3": {
           "type": "heading",
           "settings": {
-            "text": "+3,000 CLIENTS SATISFAITS",
+            "text": "+3000 CLIENTS SATISFAITS",
             "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
@@ -889,8 +889,8 @@
           "settings": {
             "round_avatar": true,
             "show_rating": true,
-            "rating": 4,
-            "author": "Lisa S.",
+            "rating": 5,
+            "author": "Linda",
             "title": "Vraiment unique !",
             "content": "<p> Une huile d’une pureté incroyable, ma peau n’a jamais été aussi douce. Vraiment unique !</p>"
           }
@@ -911,8 +911,8 @@
           "settings": {
             "round_avatar": true,
             "show_rating": true,
-            "rating": 4,
-            "author": "Julie A.",
+            "rating": 5,
+            "author": "mauren",
             "title": "Produit rare et précieux",
             "content": "<p>Produit rare et précieux, certifié bio, et ça se voit dans les résultats !</p>"
           }
