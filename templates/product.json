@@ -38,7 +38,6 @@
         },
         "price": {
           "type": "price",
-          "disabled": true,
           "settings": {
             "show_taxes_notice": false
           }
@@ -46,7 +45,7 @@
         "kaching_bundles_app_block_bRqXij": {
           "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
           "settings": {
-            "product": "flacon-15-ml",
+            "product": "soin-intense-jouvence-copie",
             "manual_deal_block_id": ""
           }
         },
