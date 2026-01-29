@@ -47,12 +47,23 @@
             "title": "Heading",
             "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
+        },
+        "slide_whtfF7": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/24.png",
+            "navigation_label": "2024",
+            "subheading": "MARCHE MEXIQUE ET CANADA",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
         }
       },
       "block_order": [
         "slide_AfMtLD",
         "slide_QYczfc",
-        "slide_fH6fWK"
+        "slide_fH6fWK",
+        "slide_whtfF7"
       ],
       "name": "Timeline",
       "settings": {
