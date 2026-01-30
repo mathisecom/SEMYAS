@@ -78,17 +78,17 @@
           "type": "newsletter",
           "settings": {
             "image": "shopify://shop_images/SEMYAS_LOGO_2.png",
-            "image_width": 250,
+            "image_width": 280,
             "heading_size": "h4",
-            "title": "Newsletters -",
+            "title": "Newsletters",
             "content": ""
           }
         },
         "text_PFqg4Q": {
           "type": "text",
           "settings": {
-            "title": "Notre ambition est claire",
-            "content": "<p><em><strong>Devenir la référence de l’huile de graines de figue de barbarie, grâce à un produit 100 % sauvage, tracé de la plante jusqu’au flacon, et élaboré dans le respect des méthodes traditionnelles.<br/></strong></em><br/></p>",
+            "title": "SEMYAS BIO",
+            "content": "<h5><strong>Vous                                                     OFFRIR L’EXCELLENCE ! </strong><em><strong>Naturellement</strong></em><br/><br/></h5>",
             "enable_follow_on_shop": true
           }
         },
@@ -104,7 +104,7 @@
           "type": "text",
           "settings": {
             "title": "Contactez-Nous",
-            "content": "<p><strong>contact@semyasbio.fr</strong></p><p><br/>Heures d'ouverture : Du Lundi au Vendredi, de 9 h à 12 h et de 14 h à 18 h</p>",
+            "content": "<h6><strong>contact@semyasbio.fr</strong></h6><p><br/>Heures d'ouverture : Du Lundi au Vendredi, de 9 h à 12 h et de 14 h à 18 h</p>",
             "enable_follow_on_shop": true
           }
         }
