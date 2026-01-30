@@ -27,7 +27,7 @@
         "text_q9rUW9": {
           "type": "text",
           "settings": {
-            "text": "<p>* 5 Gouttes/Soin Huile Sèche Bio</p>"
+            "text": "<p>* 5 Gouttes/Soin   Huile Sèche Bio par nature </p>"
           }
         },
         "liquid_HjcQtb": {
@@ -278,7 +278,7 @@
             "author": "Orianne S.",
             "content": " Rien à voir avec les autres huiles, je l’adore.",
             "show_rating": true,
-            "rating": 4
+            "rating": 5
           }
         },
         "quote_WAqxEx": {
@@ -510,21 +510,21 @@
           "type": "item",
           "settings": {
             "title": "LISSE LES RIDES ET RIDULES",
-            "content": "<p>Grâce à sa teneur exceptionnelle en vitamine E et en acides gras essentiels, l’huile de pépins de figue de barbarie soutient le renouvellement cellulaire et aide à retarder les signes du vieillissement. Elle améliore l’élasticité de la peau et réduit visiblement l’apparence des rides et ridules jour après jour.</p>"
+            "content": "<p>Véritable élixir anti-âge, l’huile précieuse de graines de figue de Barbarie sauvage, saturée en vitamine E et en acides gras essentiels, stimule le renouvellement cellulaire et préserve la jeunesse cutanée. Application après application, elle raffermit la peau et estompe rides et ridules, révélant un teint lisse et éclatant.<br/><br/></p>"
           }
         },
         "item_3jFVQX": {
           "type": "item",
           "settings": {
             "title": "ATTÉNUE LES TACHES BRUNES",
-            "content": "<p>Sa richesse en antioxydants protège la peau du stress oxydatif, prévenant ainsi l’apparition des taches pigmentaires et de l’hyperpigmentation. Elle régule progressivement la production de mélanine et contribue à atténuer les taches déjà installées pour un teint plus uniforme et lumineux.</p>"
+            "content": "<p>Gorgée d’antioxydants, elle érige un bouclier contre le stress oxydatif, retardant l’apparition des taches pigmentaires et de l’hyperpigmentation. En modulant subtilement la production de mélanine, elle atténue les marques existantes et révèle, jour après jour, un teint uniformisé et lumineux.<br/><br/></p>"
           }
         },
         "item_RnhPxd": {
           "type": "item",
           "settings": {
             "title": "AMÉLIORE LA FERMETÉ",
-            "content": "<p>Riche en acides gras essentiels et en vitamine E, l’huile de pépins de figue de barbarie aide à renforcer la fermeté et la tonicité de la peau. Elle soutient l’élasticité cutanée et aide à prévenir le relâchement pour une peau visiblement plus lisse et raffermie.</p>"
+            "content": "<p>Concentrée en acides gras essentiels et en vitamine E, l’huile de graines de figue de Barbarie sauvage sublime la fermeté et la tonicité cutanées. Elle booste l’élasticité, prévient le relâchement et révèle une peau visiblement plus lisse, plus dense et parfaitement raffermie.<br/><br/></p>"
           }
         }
       },
@@ -606,7 +606,7 @@
         "content": "<p><em>*Études menées pendant 28 jours sur 60 femmes de 45 à 65 ans. Application 1 fois par jour. Mesures effectuées par des experts en tests cliniques des produits cosmétiques et mis en œuvre par l’Organisation des Nations Unies pour le Développement Industriel.</em></p>",
         "text_alignment": "center",
         "items_per_row": 5,
-        "background": "#ffffff",
+        "background": "#f5f5f5",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
@@ -632,7 +632,7 @@
             "content": "<p><br/>QUALITÉ EXCEPTIONNELLE, INCOMPARABLE SUR LE MARCHÉ<br/><br/></p>",
             "link_text": "OBTENIR MAINTENANT",
             "link_url": "#shopify-section-template--27623632863579__main",
-            "background": "#e6e6e6",
+            "background": "#f2f2f2",
             "background_gradient": "",
             "text_color": "#1a1a1a",
             "text_gradient": "",
