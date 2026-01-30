@@ -92,11 +92,19 @@
             "menu_title": "Informations Légales"
           }
         },
+        "links_YCCW4z": {
+          "type": "links",
+          "settings": {
+            "menu": "footer",
+            "show_menu_title": true,
+            "menu_title": ""
+          }
+        },
         "text": {
           "type": "text",
           "settings": {
             "title": "Contactez-Nous",
-            "content": "<p><strong>Courriel :</strong> contact@semyasbio.fr<br/><br/>Heures d'ouverture : Du Lundi au Vendredi, de 9 h à 12 h et de 14 h à 18 h </p>",
+            "content": "<p>Heures d'ouverture : Du Lundi au Vendredi, de 9 h à 12 h et de 14 h à 18 h</p>",
             "enable_follow_on_shop": true
           }
         }
@@ -104,12 +112,13 @@
       "block_order": [
         "newsletter",
         "links",
+        "links_YCCW4z",
         "text"
       ],
       "settings": {
         "show_social_media": true,
         "show_payment_icons": true,
-        "show_policy_links": false,
+        "show_policy_links": true,
         "show_country_selector": true,
         "show_country_flag": true,
         "show_country_name": true,
