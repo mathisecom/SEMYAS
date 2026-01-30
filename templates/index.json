@@ -146,7 +146,7 @@
         "full_width": true,
         "remove_vertical_spacing": true,
         "remove_horizontal_spacing": true,
-        "liquid": "{% comment %}\n  Naali Saffron Wellness Banner Section\n  Custom Liquid section for Shopify\n{% endcomment %}\n\n<style>\n  .naali-saffron-banner {\n    background-color: F5F5F5;\n    padding: 60px 20px;\n    text-align: center;\n  }\n\n  .naali-banner-container {\n    width: 100%;\n    margin: 0 auto;\n    padding: 0 40px;\n  }\n\n  .naali-banner-title {\n    font-size: 36px;\n    font-weight: 700;\n    color: #2c2c2c;\n    margin: 0 0 25px 0;\n    line-height: 1.3;\n  }\n\n  .naali-banner-subtitle {\n    font-size: 16px;\n    color:;\n    line-height: 1.6;\n    margin: 0 0 50px 0;\n    max-width: 1100px;\n    margin-left: auto;\n    margin-right: auto;\n  }\n\n  .naali-features-grid {\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    gap: 40px;\n    flex-wrap: wrap;\n  }\n\n  .naali-feature-item {\n    display: flex;\n    align-items: center;\n    gap: 10px;\n    font-size: 15px;\n    color: #2c2c2c;\n    font-weight: 500;\n    font-style: italic;\n  }\n\n  .naali-checkmark {\n    width: 20px;\n    height: 20px;\n    flex-shrink: 0;\n  }\n\n  .naali-checkmark svg {\n    width: 100%;\n    height: 100%;\n  }\n\n  @media (max-width: 768px) {\n    .naali-saffron-banner {\n      padding: 40px 20px;\n      text-align: center;\n    }\n\n    .naali-banner-container {\n      padding: 0 20px;\n    }\n\n    .naali-banner-title {\n      font-size: 24px;\n      margin-bottom: 18px;\n      line-height: 1.3;\n    }\n\n    .naali-banner-subtitle {\n      font-size: 13px;\n      margin-bottom: 25px;\n      line-height: 1.5;\n      text-align: center;\n    }\n\n    .naali-features-grid {\n      display: grid;\n      grid-template-columns: repeat(2, 1fr);\n      gap: 12px;\n      margin: 0;\n    }\n\n    .naali-feature-item {\n      font-size: 12px;\n      font-style: italic;\n      background-color: #ffffff;\n      padding: 12px 10px;\n      border-radius: 8px;\n      width: 100%;\n      max-width: none;\n      justify-content: flex-start;\n    }\n\n    .naali-checkmark {\n      width: 16px;\n      height: 16px;\n    }\n  }\n</style>\n\n<div class=\"naali-saffron-banner\">\n  <div class=\"naali-banner-container\">\n    <h2 class=\"naali-banner-title\">S E M Y A S  LA QUINTESSENCE SAUVAGE  PUISSANT ANTI‑RIDES</h2>\n    \n    <p class=\"naali-banner-subtitle\">\n      \nHuile sèche naturelle de Graines de Figue de Barbarie Sauvage du Mexique\nSauvage & Authentique, Incomparable issue d'un lieu d'exception et d'une Qualité Ancestrale préservée. Certifiée Ecocert Cosmos Organic BIO 100% Pure\n\nInspiré par les rituels de soins des Lignées Royales Aztèques\n    </p>\n\n    <div class=\"naali-features-grid\">\n      <div class=\"naali-feature-item\">\n        <span class=\"naali-checkmark\">\n          <svg viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <path d=\"M20 6L9 17L4 12\" stroke=\"#2c2c2c\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n          </svg>\n        </span>\n        <span>100% Sauvage</span>\n      </div>\n\n      <div class=\"naali-feature-item\">\n        <span class=\"naali-checkmark\">\n          <svg viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <path d=\"M20 6L9 17L4 12\" stroke=\"#2c2c2c\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n          </svg>\n        </span>\n        <span>Qualité 100% Pure</span>\n      </div>\n\n      <div class=\"naali-feature-item\">\n        <span class=\"naali-checkmark\">\n          <svg viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <path d=\"M20 6L9 17L4 12\" stroke=\"#2c2c2c\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n          </svg>\n        </span>\n        <span>Unique sur le marché</span>\n      </div>\n\n      <div class=\"naali-feature-item\">\n        <span class=\"naali-checkmark\">\n          <svg viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <path d=\"M20 6L9 17L4 12\" stroke=\"#2c2c2c\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n          </svg>\n        </span>\n        <span>bio certifié Ecocert </span>\n      </div>\n    </div>\n  </div>\n</div>",
+        "liquid": "{% comment %}\n  Naali Saffron Wellness Banner Section\n  Custom Liquid section for Shopify\n{% endcomment %}\n\n<style>\n  .naali-saffron-banner {\n    background-color: F5F5F5;\n    padding: 60px 20px;\n    text-align: center;\n  }\n\n  .naali-banner-container {\n    width: 100%;\n    margin: 0 auto;\n    padding: 0 40px;\n  }\n\n  .naali-banner-title {\n    font-size: 36px;\n    font-weight: 700;\n    color: #2c2c2c;\n    margin: 0 0 25px 0;\n    line-height: 1.3;\n  }\n\n  .naali-banner-subtitle {\n    font-size: 16px;\n    color:;\n    line-height: 1.6;\n    margin: 0 0 50px 0;\n    max-width: 1100px;\n    margin-left: auto;\n    margin-right: auto;\n  }\n\n  .naali-features-grid {\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    gap: 40px;\n    flex-wrap: wrap;\n  }\n\n  .naali-feature-item {\n    display: flex;\n    align-items: center;\n    gap: 10px;\n    font-size: 15px;\n    color: #2c2c2c;\n    font-weight: 500;\n    font-style: italic;\n  }\n\n  .naali-checkmark {\n    width: 20px;\n    height: 20px;\n    flex-shrink: 0;\n  }\n\n  .naali-checkmark svg {\n    width: 100%;\n    height: 100%;\n  }\n\n  @media (max-width: 768px) {\n    .naali-saffron-banner {\n      padding: 40px 20px;\n      text-align: center;\n    }\n\n    .naali-banner-container {\n      padding: 0 20px;\n    }\n\n    .naali-banner-title {\n      font-size: 24px;\n      margin-bottom: 18px;\n      line-height: 1.3;\n    }\n\n    .naali-banner-subtitle {\n      font-size: 13px;\n      margin-bottom: 25px;\n      line-height: 1.5;\n      text-align: center;\n    }\n\n    .naali-features-grid {\n      display: grid;\n      grid-template-columns: repeat(2, 1fr);\n      gap: 12px;\n      margin: 0;\n    }\n\n    .naali-feature-item {\n      font-size: 12px;\n      font-style: italic;\n      background-color: #ffffff;\n      padding: 12px 10px;\n      border-radius: 8px;\n      width: 100%;\n      max-width: none;\n      justify-content: flex-start;\n    }\n\n    .naali-checkmark {\n      width: 16px;\n      height: 16px;\n    }\n  }\n</style>\n\n<div class=\"naali-saffron-banner\">\n  <div class=\"naali-banner-container\">\n    <h2 class=\"naali-banner-title\">SEMYAS BIO L’AUTHENTICITÉ &  L’EXCELLENCE À L’ÉTAT PUR </h2>\n    \n    <p class=\"naali-banner-subtitle\">\n      \nHuile sèche naturelle de Graines de Figue de Barbarie Sauvage du Mexique\nSauvage & Authentique, Incomparable issue d'un lieu d'exception et d'une Qualité Ancestrale préservée. Certifiée Ecocert Cosmos Organic BIO 100% Pure\n\nInspiré par les rituels de soins des Lignées Royales Aztèques\n    </p>\n\n    <div class=\"naali-features-grid\">\n      <div class=\"naali-feature-item\">\n        <span class=\"naali-checkmark\">\n          <svg viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <path d=\"M20 6L9 17L4 12\" stroke=\"#2c2c2c\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n          </svg>\n        </span>\n        <span>100% Sauvage</span>\n      </div>\n\n      <div class=\"naali-feature-item\">\n        <span class=\"naali-checkmark\">\n          <svg viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <path d=\"M20 6L9 17L4 12\" stroke=\"#2c2c2c\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n          </svg>\n        </span>\n        <span>Qualité 100% Pure</span>\n      </div>\n\n      <div class=\"naali-feature-item\">\n        <span class=\"naali-checkmark\">\n          <svg viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <path d=\"M20 6L9 17L4 12\" stroke=\"#2c2c2c\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n          </svg>\n        </span>\n        <span>Unique sur le marché</span>\n      </div>\n\n      <div class=\"naali-feature-item\">\n        <span class=\"naali-checkmark\">\n          <svg viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <path d=\"M20 6L9 17L4 12\" stroke=\"#2c2c2c\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n          </svg>\n        </span>\n        <span>bio certifié Ecocert </span>\n      </div>\n    </div>\n  </div>\n</div>",
         "background": "#ffffff",
         "background_gradient": "",
         "text_color": ""
@@ -318,7 +318,7 @@
         "products_per_row_desktop": 3,
         "subheading": "",
         "title": "Meilleures Ventes",
-        "content": "<p><strong>Huile de trés Haute Qualité  EXCLUSIVITE SEMYAS BIO</strong></p>",
+        "content": "<p>une huile d’exception, très haute qualité, disponible en exclusivité chez SEMYAS BIO.<br/></p>",
         "link_url": "",
         "link_text": "Découvrir notre Huile Sauvage",
         "background": "#f5f5f5",
@@ -723,6 +723,22 @@
             "link": ""
           }
         },
+        "logo_4dpTrV": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/9.png",
+            "logo_width": 140,
+            "link": ""
+          }
+        },
+        "logo_K7VfBj": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/12.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
         "logo_tHfdWe": {
           "type": "logo",
           "settings": {
@@ -731,11 +747,19 @@
             "link": ""
           }
         },
-        "logo_4dpTrV": {
+        "logo_QhrQ4b": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/9.png",
+            "logo": "shopify://shop_images/2_ed7d1930-b6a1-4380-bfa8-9e2ac965cf08.png",
             "logo_width": 140,
+            "link": ""
+          }
+        },
+        "logo_4A3pXd": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/9_1c65c6d8-c651-4740-93df-d3bfac963dcf.png",
+            "logo_width": 120,
             "link": ""
           }
         }
@@ -745,14 +769,17 @@
         "logo_JTfFri",
         "logo_QqtkmX",
         "logo_fLdjXE",
+        "logo_4dpTrV",
+        "logo_K7VfBj",
         "logo_tHfdWe",
-        "logo_4dpTrV"
+        "logo_QhrQ4b",
+        "logo_4A3pXd"
       ],
       "name": "Logo list",
       "settings": {
         "full_width": true,
         "stack_mobile": false,
-        "title": "Qu’est-ce qui rend notre huile vraiment différente ?",
+        "title": "EN QUOI NOTRE HUILE SE DISTINGUE-T-ELLE ?",
         "content": "<h3><em><strong>Ce trésor, issu d’un terroir préservé et ancestral, cette huile puise ses origines au cœur d’un récit millénaire</strong></em></h3>",
         "text_alignment": "center",
         "items_per_row": 7,
@@ -1101,21 +1128,14 @@
           "type": "item",
           "settings": {
             "title": "J'ai la peau sensible, est-elle adaptée ?",
-            "content": "<p>Que vous ayez une peau sèche, grasse, sensible ou mixte, l’huile de pépins de figue de barbarie convient à tous les types de peau et peut aider à rétablir l’équilibre naturel de votre peau.</p><p>L’huile de pépins de figue de barbarie est destinée à toute personne cherchant à améliorer la santé et l’apparence de sa peau de manière naturelle.</p>"
+            "content": "<p><br/>Que votre peau soit sèche, grasse, sensible ou mixte, l’huile de pépins de figue de barbarie convient à tous les types et contribue à rétablir son équilibre naturel. Elle s’adresse à toute personne souhaitant améliorer naturellement la santé et l’apparence de sa peau.<br/><br/></p>"
           }
         },
         "item_pekqeU": {
           "type": "item",
           "settings": {
             "title": "Comment la différencier des concurrents ?",
-            "content": "<p>L’huile de graines de figue de barbarie SEMYAS se distingue par sa production rigoureuse et son origine sauvage prestigieuse </p><p>Elle est issue des sols du mexique sa terre natale, sélectionnée après de longues visites chez différents producteurs pour garantir la meilleure qualité.</p><p>De plus, cette huile est obtenue à partir de figues sauvage unique au monde récoltées à maturité optimale, assurant une concentration maximale en actifs bénéfiques.</p><p>Sa texture sèche, sa pénétration optimale, son parfum léger et naturel ainsi que sa haute teneur en vitamine E et acides gras en font un produit unique sur le marché, testé cliniquement pour garantir son efficacité.</p>"
-          }
-        },
-        "item_D8xHCp": {
-          "type": "item",
-          "settings": {
-            "title": "Quels sont les résultats auxquels je peux m'attendre ?",
-            "content": "<p>En utilisant l’huile de graines de figue de barbarie sauvage  SEMYAS, vous pouvez vous attendre à une amélioration notable de l’apparition de votre peau.</p><p>Votre peau sera profondément hydratée, plus souple et éclatante. Les signes de vieillissement seront visiblement réduits grâce à la haute teneur en vitamine E et en antioxydants.</p><p>Cette huile légère et non grasse pénètre rapidement, laissant votre peau douce et sans résidu huileux. De plus, son parfum léger et naturel rend son application agréable et rafraîchissante.</p>"
+            "content": "<p>Huile de graines de figue de barbarie SEMYAS<br/><br/>100 % naturelle • 1ʳᵉ pression à froid • Origine sauvage</p><p>Récoltée sur les terroirs arides du Mexique, patrie originelle de la figue de barbarie, notre huile SEMYAS provient exclusivement de fruits sauvages cueillis à pleine maturité. Après une sélection minutieuse de producteurs locaux – plusieurs mois de visites sur le terrain – nous avons retenu les parcelles les plus riches pour garantir une pureté et une traçabilité irréprochables.</p><p>Grâce à une extraction douce par pression à froid, chaque graine préserve son exceptionnelle concentration en vitamine E, stérols et acides gras essentiels. Le résultat : une huile précieuse aux vertus anti-âge, réparatrices et hautement antioxydantes, idéale pour les soins visage, corps et cheveux.</p><p>Formule brute, sans additifs ni conservateurs.<br/><br/>Certifiée biologique, vegan et cruelty-free.</p><p>Sa texture sèche, sa pénétration optimale, son parfum léger et naturel ainsi que sa haute teneur en vitamine E et acides gras en font un produit unique sur le marché, testé cliniquement pour garantir son efficacité.</p>"
           }
         }
       },
@@ -1123,8 +1143,7 @@
         "item_NiPRLT",
         "item_3dbf76",
         "item_iACx9b",
-        "item_pekqeU",
-        "item_D8xHCp"
+        "item_pekqeU"
       ],
       "name": "FAQ",
       "settings": {
