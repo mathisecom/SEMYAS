@@ -1110,6 +1110,13 @@
     "faq_egiNfM": {
       "type": "faq",
       "blocks": {
+        "item_BUbVPG": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
+        },
         "item_NiPRLT": {
           "type": "item",
           "settings": {
@@ -1140,6 +1147,7 @@
         }
       },
       "block_order": [
+        "item_BUbVPG",
         "item_NiPRLT",
         "item_3dbf76",
         "item_iACx9b",
