@@ -92,14 +92,6 @@
             "enable_follow_on_shop": true
           }
         },
-        "links": {
-          "type": "links",
-          "settings": {
-            "menu": "footer",
-            "show_menu_title": true,
-            "menu_title": "Informations Légales"
-          }
-        },
         "links_YCCW4z": {
           "type": "links",
           "settings": {
@@ -120,7 +112,6 @@
       "block_order": [
         "newsletter",
         "text_PFqg4Q",
-        "links",
         "links_YCCW4z",
         "text"
       ],
