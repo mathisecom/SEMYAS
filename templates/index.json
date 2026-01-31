@@ -394,58 +394,6 @@
         "text_color": "#000000"
       }
     },
-    "faq": {
-      "type": "faq",
-      "blocks": {
-        "166442457738b23caf-0": {
-          "type": "item",
-          "settings": {
-            "title": "ECOCERT COSMOS ORGANIC BIO",
-            "content": "<p>INCI Certifié par <strong>Ecocert</strong> SAS MX</p><p>BIO – 154 Opérateur <strong>N° 161181.</strong></p><p>Produit sans OGM.</p><p><strong>Les certifications Ecocert et Cosmos organic </strong>garantissent des produits biologiques et écologiques de haute qualité, respectueux de l'environnement.</p><p>Elles assurent la transparence des ingrédients et des pratiques de fabrication durables, favorisant ainsi la préservation de la biodiversité et le bien-être des producteurs.</p><p>En choisissant des produits certifiés, les consommateurs soutiennent une économie éthique et contribuent à un avenir durable, tout en prenant soin de leur santé et de la planète.</p>"
-          }
-        },
-        "166442457738b23caf-1": {
-          "type": "item",
-          "settings": {
-            "title": "HUILE DE QUALITÉ PREMIUM",
-            "content": "<p>Découvrez notre huile de graines de figue de barbarie sauvage ( ses troncs ancestraux ), un produit de <strong>qualité premium </strong>issu de figues sauvages, soigneusement récoltées à la main.</p><p>Chaque année, nous réalisons une seule récolte, garantissant ainsi la pureté et la richesse de notre huile.</p><p>Nous collaborons en exclusivité avec un unique producteur, engagé dans la préservation de la biodiversité et la constance de la qualité.</p><p>Chaque goutte de notre huile est extraite par une seule pression à froid sans solvants, une méthode qui préserve tous ses bienfaits, en la rendant riche en antioxydants et en acides gras essentiels.</p><p>Choisir notre huile, c’est opter pour un trésor de la nature, qui enrichit votre routine de soins tout en respectant les traditions ancestrales et l'environnement.</p>"
-          }
-        },
-        "166442457738b23caf-2": {
-          "type": "item",
-          "settings": {
-            "title": "ANALYSE LABORATOIRE EN FRANCE",
-            "content": "<p>notre huile est soigneusement analysée par le<strong> laboratoire ITERG France </strong>spécialiste des corps gras.</p><p>Composition Exceptionnelle Notre huile de graines de figue de barbarie sauvage contient une harmonieuse synergie d’ingrédients bénéfiques, dont :</p><p><strong>- Acides gras essentiels</strong> (oméga-6 et oméga-9) : Maintiennent l'hydratation et améliorent l’élasticité de la peau.</p><p><strong>- Vitamine E</strong> : Antioxydant puissant, protège la peau des radicaux libres.</p><p><strong>- Vitamine K</strong> : Favorise la cicatrisation et aide à apaiser les irritations.</p><p><strong>- Vitamine A</strong> : Aide au renouvellement cellulaire et au maintien de la santé cutanée.</p><p><strong>- Vitamine D</strong> : Renforce la barrière cutanée et améliore la protection naturelle.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "166442457738b23caf-0",
-        "166442457738b23caf-1",
-        "166442457738b23caf-2"
-      ],
-      "settings": {
-        "full_width": false,
-        "subheading": "",
-        "title": "NOS GARANTIES",
-        "content": "",
-        "team_avatar_width": 160,
-        "support_hours": "",
-        "answer_time": "",
-        "button_text": "",
-        "button_url": "",
-        "text_position": "center",
-        "background": "#f5f5f5",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "button_background": "",
-        "button_text_color": "#000000",
-        "accordion_background": "#ffffff",
-        "accordion_text_color": "#000000"
-      }
-    },
     "scrolling_text_D4NLHg": {
       "type": "scrolling-text",
       "name": "Scrolling text",
@@ -536,6 +484,58 @@
         "background": "#ffffff",
         "background_gradient": "",
         "text_color": ""
+      }
+    },
+    "faq": {
+      "type": "faq",
+      "blocks": {
+        "166442457738b23caf-0": {
+          "type": "item",
+          "settings": {
+            "title": "ECOCERT COSMOS ORGANIC BIO",
+            "content": "<p>INCI Certifié par <strong>Ecocert</strong> SAS MX</p><p>BIO – 154 Opérateur <strong>N° 161181.</strong></p><p>Produit sans OGM.</p><p><strong>Les certifications Ecocert et Cosmos organic </strong>garantissent des produits biologiques et écologiques de haute qualité, respectueux de l'environnement.</p><p>Elles assurent la transparence des ingrédients et des pratiques de fabrication durables, favorisant ainsi la préservation de la biodiversité et le bien-être des producteurs.</p><p>En choisissant des produits certifiés, les consommateurs soutiennent une économie éthique et contribuent à un avenir durable, tout en prenant soin de leur santé et de la planète.</p>"
+          }
+        },
+        "166442457738b23caf-1": {
+          "type": "item",
+          "settings": {
+            "title": "HUILE DE QUALITÉ PREMIUM",
+            "content": "<p>Découvrez notre huile de graines de figue de barbarie sauvage ( ses troncs ancestraux ), un produit de <strong>qualité premium </strong>issu de figues sauvages, soigneusement récoltées à la main.</p><p>Chaque année, nous réalisons une seule récolte, garantissant ainsi la pureté et la richesse de notre huile.</p><p>Nous collaborons en exclusivité avec un unique producteur, engagé dans la préservation de la biodiversité et la constance de la qualité.</p><p>Chaque goutte de notre huile est extraite par une seule pression à froid sans solvants, une méthode qui préserve tous ses bienfaits, en la rendant riche en antioxydants et en acides gras essentiels.</p><p>Choisir notre huile, c’est opter pour un trésor de la nature, qui enrichit votre routine de soins tout en respectant les traditions ancestrales et l'environnement.</p>"
+          }
+        },
+        "166442457738b23caf-2": {
+          "type": "item",
+          "settings": {
+            "title": "ANALYSE LABORATOIRE EN FRANCE",
+            "content": "<p>notre huile est soigneusement analysée par le<strong> laboratoire ITERG France </strong>spécialiste des corps gras.</p><p>Composition Exceptionnelle Notre huile de graines de figue de barbarie sauvage contient une harmonieuse synergie d’ingrédients bénéfiques, dont :</p><p><strong>- Acides gras essentiels</strong> (oméga-6 et oméga-9) : Maintiennent l'hydratation et améliorent l’élasticité de la peau.</p><p><strong>- Vitamine E</strong> : Antioxydant puissant, protège la peau des radicaux libres.</p><p><strong>- Vitamine K</strong> : Favorise la cicatrisation et aide à apaiser les irritations.</p><p><strong>- Vitamine A</strong> : Aide au renouvellement cellulaire et au maintien de la santé cutanée.</p><p><strong>- Vitamine D</strong> : Renforce la barrière cutanée et améliore la protection naturelle.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "166442457738b23caf-0",
+        "166442457738b23caf-1",
+        "166442457738b23caf-2"
+      ],
+      "settings": {
+        "full_width": false,
+        "subheading": "",
+        "title": "NOS GARANTIES",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "#f5f5f5",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "#000000",
+        "accordion_background": "#ffffff",
+        "accordion_text_color": "#000000"
       }
     },
     "logo_list_yDWyAJ": {
@@ -1179,18 +1179,18 @@
   },
   "order": [
     "video_WNxceE",
+    "featured_collection_r8npmj",
     "text_with_icons_nHa4Qr",
     "tabs_F9akK7",
+    "multi_column_afBimq",
     "custom_liquid_tHjw9m",
     "text_with_icons_tphdMT",
-    "multi_column_afBimq",
     "rich_text_UaMAVr",
-    "featured_collection_r8npmj",
     "text_with_icons_Xj6edW",
-    "faq",
     "scrolling_text_D4NLHg",
     "multi_column_WKdQNk",
     "logo_list_yDWyAJ",
+    "faq",
     "featured_collection_BxBfpi",
     "media_with_text_TFqrtK",
     "logo_list_L499tP",
