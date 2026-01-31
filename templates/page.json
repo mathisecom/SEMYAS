@@ -14,68 +14,9 @@
       "settings": {
         "content_width": "80ch"
       }
-    },
-    "timeline_iRpXf6": {
-      "type": "timeline",
-      "blocks": {
-        "slide_AfMtLD": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/FOTO_PAYSAGE_MEX.png",
-            "navigation_label": "2014",
-            "subheading": "LIES PAR UNE AMITIES ET UN REVE COMMUN",
-            "title": "Produire l’huile de figue de barbarie sauvage la plus authentique",
-            "content": "<p>En 2014, une simple discussion entre Paty – Mexicaine attachée à sa culture millénaire – et moi, Naïm, Français passionné de nature, a lancé notre projet. Nous voulions retrouver les figuiers de barbarie sauvages encore présents sur les terres précolombiennes, puis en extraire une huile de graines authentique et la plus pure possible. C’est depuis ce fil conducteur que nous travaillons : chercher les cactus les plus anciens, respecter la méthode traditionnelle et proposer une huile qui reflète fidèlement la plante et son terroir.<br/><br/></p>"
-          }
-        },
-        "slide_QYczfc": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/FOTO_HISTOIRE_SITE.png",
-            "navigation_label": "2020",
-            "subheading": "A LA RENCONTRE DES FIGUIERS ANCESTRAUX",
-            "title": "des années d'Audace & d'Obstacles Surmontés",
-            "content": "<h2></h2><p>En 2020, après plusieurs années de recherche au Mexique, nous avons rencontré des propriétaires terriens qui ont partagé leur savoir-faire et affiné notre expertise. Grâce à eux, nous avons identifié une zone préservée où les figuiers de barbarie poussent à l’état sauvage, sans irrigation ni intrants. Cet endroit réunit toutes les conditions pour garantir la qualité et la traçabilité que nous cherchions. Nous pouvons enfin lancer notre production d’huile de graines de figue de barbarie, dans le respect total de l’écosystème local.</p>"
-          }
-        },
-        "slide_fH6fWK": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/22.png",
-            "navigation_label": "2021",
-            "subheading": "NOTRE VISION PREND VIE",
-            "title": "PROCESSUS DE FABRICATION",
-            "content": "<p>Dès la découverte, on a compris qu’il fallait avancer avec respect et patience : on a réuni une équipe locale, tissé des liens avec les communautés cueilleuses et posé les fondations d’un projet profondément responsable. On a pensé chaque détail, de la récolte à la mise en flacon :</p><p><strong>Cueillette manuelle</strong> : chaque figue sauvage est récoltée à la main pour préserver la biodiversité environnante.</p><p><strong>Récolte annuelle</strong> : nous effectuons une seule récolte par an, préservant l’équilibre de la nature et garantissant un produit premium.</p><p><strong>Pression à froid unique</strong> : les graines subissent une unique pression à froid, conservant tous les bienfaits naturels de l’huile.</p><p><strong>Embouteillage direct</strong> : notre huile est embouteillée directement, sans intermédiaire, pour assurer une qualité optimale et constante. du figuier ancestral jusqu’à vous.<br/><br/><br/><br/></p>"
-          }
-        },
-        "slide_whtfF7": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/ENTREE_DE_SITE.jpg",
-            "navigation_label": "2024/fin 2025",
-            "subheading": "2024  MEXIQUE ET CANADA",
-            "title": "FIN 2025 ARRIVEE EN EXCLUSIVITE FRANCE",
-            "content": "<h2><strong>SEMYAS BIO</strong></h2><p>Aujourd'hui, nous avons l’immense honneur de vous présenter<br/>cette huile, certifiée par Ecocert et Cosmos, qui incarne notre engagement<br/>envers la qualité, la durabilité et le respect de l’héritage culturel. MEXIBIO,<br/>en tant que distributeur exclusif, est là pour vous permettre de découvrir<br/>cette huile d’exception en Europe et au-delà.</p><p>Nous vous invitons à rejoindre notre voyage, à ressentir la magie d’une beauté<br/>authentique et à célébrer ensemble les valeurs de durabilité et de respect de<br/>notre planète. En choisissant notre huile de graines de figue de barbarie<br/>sauvage, vous n'adoptez pas seulement un produit, mais vous devenez partie<br/>intégrante d'une aventure humaine et émotionnelle.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "slide_AfMtLD",
-        "slide_QYczfc",
-        "slide_fH6fWK",
-        "slide_whtfF7"
-      ],
-      "name": "Timeline",
-      "settings": {
-        "full_width": true,
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
     }
   },
   "order": [
-    "main",
-    "timeline_iRpXf6"
+    "main"
   ]
 }
