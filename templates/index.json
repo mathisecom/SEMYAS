@@ -25,6 +25,36 @@
         "overlay_opacity": 40
       }
     },
+    "featured_collection_r8npmj": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "collection": "",
+        "products": [
+          "flacon-15-ml",
+          "flacon-10-ml",
+          "formule-duo-copie"
+        ],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": true,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "Une Huile d’Exception de très Haute Qualité, disponible en Exclusivité chez SEMYAS BIO.",
+        "content": "<p>Découvrez notre Huile SAUVAGE<br/><br/></p>",
+        "link_url": "",
+        "link_text": "Meilleures Ventes",
+        "background": "#f5f5f5",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
     "text_with_icons_nHa4Qr": {
       "type": "text-with-icons",
       "blocks": {
@@ -139,6 +169,53 @@
         "heading_gradient": ""
       }
     },
+    "multi_column_afBimq": {
+      "type": "multi-column",
+      "blocks": {
+        "item_JtcPRy": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Le Problème",
+            "heading_tag": "h3",
+            "content": "<p>Avec le temps, la <strong>peau perd en fermeté</strong> et <strong>en éclat</strong>. Rides, ridules, taches et déshydratation apparaissent sous l’effet du <strong>vieillissement et du stress oxydatif.</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_AVetYg": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "La Solution",
+            "heading_tag": "h3",
+            "content": "<p>L’huile de pépins de figue de barbarie, riche en antioxydants et acides gras essentiels, aide à régénérer la peau, <strong>renforcer sa barrière naturelle et lisser visiblement les signes de l’âge.</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_JtcPRy",
+        "item_AVetYg"
+      ],
+      "disabled": true,
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "small",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "#f9f6f3",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "custom_liquid_tHjw9m": {
       "type": "custom-liquid",
       "name": "Custom Liquid",
@@ -202,53 +279,6 @@
         "text_color": ""
       }
     },
-    "multi_column_afBimq": {
-      "type": "multi-column",
-      "blocks": {
-        "item_JtcPRy": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Le Problème",
-            "heading_tag": "h3",
-            "content": "<p>Avec le temps, la <strong>peau perd en fermeté</strong> et <strong>en éclat</strong>. Rides, ridules, taches et déshydratation apparaissent sous l’effet du <strong>vieillissement et du stress oxydatif.</strong></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_AVetYg": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "La Solution",
-            "heading_tag": "h3",
-            "content": "<p>L’huile de pépins de figue de barbarie, riche en antioxydants et acides gras essentiels, aide à régénérer la peau, <strong>renforcer sa barrière naturelle et lisser visiblement les signes de l’âge.</strong></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_JtcPRy",
-        "item_AVetYg"
-      ],
-      "disabled": true,
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "small",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "background": "#f9f6f3",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "rich_text_UaMAVr": {
       "type": "rich-text",
       "blocks": {
@@ -300,36 +330,6 @@
         "text_color": ""
       }
     },
-    "featured_collection_r8npmj": {
-      "type": "featured-collection",
-      "name": "Featured collection",
-      "settings": {
-        "collection": "",
-        "products": [
-          "flacon-15-ml",
-          "flacon-10-ml",
-          "formule-duo-copie"
-        ],
-        "full_width": true,
-        "stack_products": false,
-        "show_progress_bar": true,
-        "products_count": 6,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 3,
-        "subheading": "",
-        "title": "Meilleures Ventes",
-        "content": "<p>une huile d’exception, très haute qualité, disponible en exclusivité chez SEMYAS BIO.<br/></p>",
-        "link_url": "",
-        "link_text": "Découvrir notre Huile Sauvage",
-        "background": "#f5f5f5",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
-      }
-    },
     "text_with_icons_Xj6edW": {
       "type": "text-with-icons",
       "blocks": {
@@ -341,7 +341,7 @@
             "mobile_icon_width": 56,
             "icon_width": 68,
             "icon_background_type": "none",
-            "icon_background": "#ffffff",
+            "icon_background": "#f5f5f5",
             "icon_color": "#ffffff",
             "title": "FIGUIERS SAUVAGES ORIGINELS",
             "content": "<p><strong>Ne pas confondre avec les figuiers dʼorigine cultivée</strong><br/><br/></p>"
@@ -481,61 +481,9 @@
         "subheading": "",
         "title": "",
         "content": "",
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "faq": {
-      "type": "faq",
-      "blocks": {
-        "166442457738b23caf-0": {
-          "type": "item",
-          "settings": {
-            "title": "ECOCERT COSMOS ORGANIC BIO",
-            "content": "<p>INCI Certifié par <strong>Ecocert</strong> SAS MX</p><p>BIO – 154 Opérateur <strong>N° 161181.</strong></p><p>Produit sans OGM.</p><p><strong>Les certifications Ecocert et Cosmos organic </strong>garantissent des produits biologiques et écologiques de haute qualité, respectueux de l'environnement.</p><p>Elles assurent la transparence des ingrédients et des pratiques de fabrication durables, favorisant ainsi la préservation de la biodiversité et le bien-être des producteurs.</p><p>En choisissant des produits certifiés, les consommateurs soutiennent une économie éthique et contribuent à un avenir durable, tout en prenant soin de leur santé et de la planète.</p>"
-          }
-        },
-        "166442457738b23caf-1": {
-          "type": "item",
-          "settings": {
-            "title": "HUILE DE QUALITÉ PREMIUM",
-            "content": "<p>Découvrez notre huile de graines de figue de barbarie sauvage ( ses troncs ancestraux ), un produit de <strong>qualité premium </strong>issu de figues sauvages, soigneusement récoltées à la main.</p><p>Chaque année, nous réalisons une seule récolte, garantissant ainsi la pureté et la richesse de notre huile.</p><p>Nous collaborons en exclusivité avec un unique producteur, engagé dans la préservation de la biodiversité et la constance de la qualité.</p><p>Chaque goutte de notre huile est extraite par une seule pression à froid sans solvants, une méthode qui préserve tous ses bienfaits, en la rendant riche en antioxydants et en acides gras essentiels.</p><p>Choisir notre huile, c’est opter pour un trésor de la nature, qui enrichit votre routine de soins tout en respectant les traditions ancestrales et l'environnement.</p>"
-          }
-        },
-        "166442457738b23caf-2": {
-          "type": "item",
-          "settings": {
-            "title": "ANALYSE LABORATOIRE EN FRANCE",
-            "content": "<p>notre huile est soigneusement analysée par le<strong> laboratoire ITERG France </strong>spécialiste des corps gras.</p><p>Composition Exceptionnelle Notre huile de graines de figue de barbarie sauvage contient une harmonieuse synergie d’ingrédients bénéfiques, dont :</p><p><strong>- Acides gras essentiels</strong> (oméga-6 et oméga-9) : Maintiennent l'hydratation et améliorent l’élasticité de la peau.</p><p><strong>- Vitamine E</strong> : Antioxydant puissant, protège la peau des radicaux libres.</p><p><strong>- Vitamine K</strong> : Favorise la cicatrisation et aide à apaiser les irritations.</p><p><strong>- Vitamine A</strong> : Aide au renouvellement cellulaire et au maintien de la santé cutanée.</p><p><strong>- Vitamine D</strong> : Renforce la barrière cutanée et améliore la protection naturelle.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "166442457738b23caf-0",
-        "166442457738b23caf-1",
-        "166442457738b23caf-2"
-      ],
-      "settings": {
-        "full_width": false,
-        "subheading": "",
-        "title": "NOS GARANTIES",
-        "content": "",
-        "team_avatar_width": 160,
-        "support_hours": "",
-        "answer_time": "",
-        "button_text": "",
-        "button_url": "",
-        "text_position": "center",
         "background": "#f5f5f5",
         "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "button_background": "",
-        "button_text_color": "#000000",
-        "accordion_background": "#ffffff",
-        "accordion_text_color": "#000000"
+        "text_color": ""
       }
     },
     "logo_list_yDWyAJ": {
@@ -588,13 +536,65 @@
         "content": "<h6><em>*Études menées pendant 28 jours sur 60 femmes de 45 à 65 ans. Application 1 fois par jour. Mesures effectuées par des experts en tests cliniques des produits cosmétiques et mis en œuvre par l’Organisation des Nations Unies pour le Développement Industriel.</em></h6>",
         "text_alignment": "center",
         "items_per_row": 5,
-        "background": "#f5f5f5",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
         "logo_item_background": "#ececec",
         "logo_item_border": ""
+      }
+    },
+    "faq": {
+      "type": "faq",
+      "blocks": {
+        "166442457738b23caf-0": {
+          "type": "item",
+          "settings": {
+            "title": "ECOCERT COSMOS ORGANIC BIO",
+            "content": "<p>INCI Certifié par <strong>Ecocert</strong> SAS MX</p><p>BIO – 154 Opérateur <strong>N° 161181.</strong></p><p>Produit sans OGM.</p><p><strong>Les certifications Ecocert et Cosmos organic </strong>garantissent des produits biologiques et écologiques de haute qualité, respectueux de l'environnement.</p><p>Elles assurent la transparence des ingrédients et des pratiques de fabrication durables, favorisant ainsi la préservation de la biodiversité et le bien-être des producteurs.</p><p>En choisissant des produits certifiés, les consommateurs soutiennent une économie éthique et contribuent à un avenir durable, tout en prenant soin de leur santé et de la planète.</p>"
+          }
+        },
+        "166442457738b23caf-1": {
+          "type": "item",
+          "settings": {
+            "title": "HUILE DE QUALITÉ PREMIUM",
+            "content": "<p>Découvrez notre huile de graines de figue de barbarie sauvage ( ses troncs ancestraux ), un produit de <strong>qualité premium </strong>issu de figues sauvages, soigneusement récoltées à la main.</p><p>Chaque année, nous réalisons une seule récolte, garantissant ainsi la pureté et la richesse de notre huile.</p><p>Nous collaborons en exclusivité avec un unique producteur, engagé dans la préservation de la biodiversité et la constance de la qualité.</p><p>Chaque goutte de notre huile est extraite par une seule pression à froid sans solvants, une méthode qui préserve tous ses bienfaits, en la rendant riche en antioxydants et en acides gras essentiels.</p><p>Choisir notre huile, c’est opter pour un trésor de la nature, qui enrichit votre routine de soins tout en respectant les traditions ancestrales et l'environnement.</p>"
+          }
+        },
+        "166442457738b23caf-2": {
+          "type": "item",
+          "settings": {
+            "title": "ANALYSE LABORATOIRE EN FRANCE",
+            "content": "<p>notre huile est soigneusement analysée par le<strong> laboratoire ITERG France </strong>spécialiste des corps gras.</p><p>Composition Exceptionnelle Notre huile de graines de figue de barbarie sauvage contient une harmonieuse synergie d’ingrédients bénéfiques, dont :</p><p><strong>- Acides gras essentiels</strong> (oméga-6 et oméga-9) : Maintiennent l'hydratation et améliorent l’élasticité de la peau.</p><p><strong>- Vitamine E</strong> : Antioxydant puissant, protège la peau des radicaux libres.</p><p><strong>- Vitamine K</strong> : Favorise la cicatrisation et aide à apaiser les irritations.</p><p><strong>- Vitamine A</strong> : Aide au renouvellement cellulaire et au maintien de la santé cutanée.</p><p><strong>- Vitamine D</strong> : Renforce la barrière cutanée et améliore la protection naturelle.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "166442457738b23caf-0",
+        "166442457738b23caf-1",
+        "166442457738b23caf-2"
+      ],
+      "settings": {
+        "full_width": false,
+        "subheading": "",
+        "title": "NOS GARANTIES",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "#f5f5f5",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "#000000",
+        "accordion_background": "#ffffff",
+        "accordion_text_color": "#000000"
       }
     },
     "featured_collection_BxBfpi": {
@@ -668,7 +668,7 @@
             "content": "<h2>Certifications</h2><p><strong>Certifié biologique</strong> par Ecocert Greenlife selon la norme COSMOS disponible sur :<br/><br/>http://COSMOS.ecocert.com</p><p><strong>Ecocert</strong> SAS MX BIO-154.</p><p><strong>Opérateur</strong> 161181</p><p><a href=\"https://www.ecocert.com/es/detaile-de-certification/cosmeticos-org%C3%A1nicos-o-naturales-cosmos-\" target=\"_blank\" title=\"https://certificat.ecocert.com/\"><strong><br/></strong></a>Cosmos Organic garantissent des produits biologiques et écologiques de haute qualité. Elles assurent la transparence concernant les ingrédients et les pratiques de fabrication durables, favorisant ainsi la préservation de la biodiversité et le bien-être des petits producteurs.</p><p><br/>En choisissant des produits certifiés, les consommateurs soutiennent une économie éthique et contribuent à un avenir durable, tout en prenant soin de leur santé et de la planète.</p>",
             "link_text": "LIEN OFFICIEL ECOCERT : VÉRIFIEZ L'AUTHENTICITÉ AVANT ACHAT",
             "link_url": "https://certificat.ecocert.com/",
-            "background": "#e1e6da",
+            "background": "#f4f8f1",
             "background_gradient": "",
             "text_color": "#000000",
             "text_gradient": "",
@@ -799,7 +799,7 @@
         "full_width": true,
         "remove_vertical_spacing": true,
         "remove_horizontal_spacing": true,
-        "liquid": "{% comment %}\n  L'alternative naturelle - Comparison Table Section\n  Custom Liquid section for Shopify\n{% endcomment %}\n\n<style>\n  .alternative-naturelle-section {\n    background-color: #ffffff;\n    padding: 80px 20px;\n  }\n\n  .alternative-container {\n    max-width: 800px;\n    margin: 0 auto;\n  }\n\n  .alternative-title {\n    font-size: 48px;\n    font-weight: 700;\n    color: #000000;\n    margin: 0 0 30px 0;\n    line-height: 1.2;\n    text-align: center;\n  }\n\n  .alternative-description {\n    font-size: 18px;\n    color: #333333;\n    line-height: 1.6;\n    margin: 0 0 50px 0;\n    text-align: center;\n  }\n\n  .comparison-table {\n    background-color: #f9f9f0;\n    border-radius: 20px;\n    overflow: hidden;\n    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);\n  }\n\n  .table-header {\n    display: grid;\n    grid-template-columns: 2fr 1fr 1fr;\n    background-color: #F5F1ED;\n    padding: 25px 30px;\n    gap: 20px;\n    align-items: center;\n  }\n\n  .header-title {\n    font-size: 18px;\n    font-weight: 600;\n    color: #000000;\n  }\n\n  .header-column {\n    text-align: center;\n    font-size: 16px;\n    font-weight: 600;\n    color: #000000;\n  }\n\n  .header-logo {\n    display: flex;\n    flex-direction: column;\n    align-items: center;\n    justify-content: center;\n    gap: 5px;\n  }\n\n  .logo-image {\n    max-width: 120px;\n    height: auto;\n  }\n\n  .table-row {\n    display: grid;\n    grid-template-columns: 2fr 1fr 1fr;\n    padding: 25px 30px;\n    gap: 20px;\n    align-items: center;\n    background-color: #ffffff;\n    border-bottom: 1px solid #e8e8e8;\n  }\n\n  .table-row:last-child {\n    border-bottom: none;\n    border-radius: 0 0 20px 20px;\n  }\n\n  .row-label {\n    font-size: 17px;\n    color: #000000;\n    font-weight: 400;\n  }\n\n  .row-icon {\n    display: flex;\n    justify-content: center;\n    align-items: center;\n  }\n\n  .icon-cross {\n    width: 28px;\n    height: 28px;\n  }\n\n  .icon-check {\n    width: 36px;\n    height: 36px;\n    background-color: #c8e600;\n    border-radius: 50%;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n  }\n\n  .icon-check svg {\n    width: 20px;\n    height: 20px;\n  }\n\n  @media (max-width: 768px) {\n    .alternative-naturelle-section {\n      padding: 50px 15px;\n    }\n\n    .alternative-title {\n      font-size: 32px;\n      margin-bottom: 20px;\n    }\n\n    .alternative-description {\n      font-size: 15px;\n      margin-bottom: 35px;\n    }\n\n    .table-header,\n    .table-row {\n      grid-template-columns: 2fr 1fr 1fr;\n      padding: 18px 15px;\n      gap: 10px;\n    }\n\n    .header-title {\n      font-size: 14px;\n    }\n\n    .header-column {\n      font-size: 12px;\n    }\n\n    .logo-image {\n      max-width: 80px;\n    }\n\n    .row-label {\n      font-size: 14px;\n    }\n\n    .icon-cross {\n      width: 22px;\n      height: 22px;\n    }\n\n    .icon-check {\n      width: 28px;\n      height: 28px;\n    }\n\n    .icon-check svg {\n      width: 16px;\n      height: 16px;\n    }\n  }\n</style>\n\n<div class=\"alternative-naturelle-section\">\n  <div class=\"alternative-container\">\n    <h2 class=\"alternative-title\">AUTHENTICITÉ ABSOLUE : POURQUOI ?</h2>\n    \n    <p class=\"alternative-description\">\n     PREUVE D’EXCELLENCE\n    </p>\n\n    <div class=\"comparison-table\">\n      <!-- Table Header -->\n      <div class=\"table-header\">\n        <div class=\"header-title\">CARACTERISTIQUES</div>\n        <div class=\"header-column\">LA MAJORITÉ  DES HUILES SUR LE MARCHÉ<br></div>\n        <div class=\"header-logo\">\n          <img src=\"https://cdn.shopify.com/s/files/1/0925/7697/3147/files/8c6d9bca-a277-4a6e-b016-b65f088eb021.png?v=1769554789\" alt=\"SEMYAS\" class=\"logo-image\">\n        </div>\n      </div>\n\n      <!-- Row 1 -->\n      <div class=\"table-row\">\n        <div class=\"row-label\">100% Pure Sauvage</div>\n        <div class=\"row-icon\">\n          <svg class=\"icon-cross\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <path d=\"M18 6L6 18M6 6L18 18\" stroke=\"#000000\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n          </svg>\n        </div>\n        <div class=\"row-icon\">\n          <div class=\"icon-check\">\n            <svg viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n              <path d=\"M20 6L9 17L4 12\" stroke=\"#000000\" stroke-width=\"3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n            </svg>\n          </div>\n        </div>\n      </div>\n\n      <!-- Row 2 -->\n      <div class=\"table-row\">\n        <div class=\"row-label\">Une seule Récolte Annuelle </div>\n        <div class=\"row-icon\">\n          <svg class=\"icon-cross\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <path d=\"M18 6L6 18M6 6L18 18\" stroke=\"#000000\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n          </svg>\n        </div>\n        <div class=\"row-icon\">\n          <div class=\"icon-check\">\n            <svg viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n              <path d=\"M20 6L9 17L4 12\" stroke=\"#000000\" stroke-width=\"3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n            </svg>\n          </div>\n        </div>\n      </div>\n\n      <!-- Row 3 -->\n      <div class=\"table-row\">\n        <div class=\"row-label\">Origine Mexique</div>\n        <div class=\"row-icon\">\n          <svg class=\"icon-cross\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <path d=\"M18 6L6 18M6 6L18 18\" stroke=\"#000000\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n          </svg>\n        </div>\n        <div class=\"row-icon\">\n          <div class=\"icon-check\">\n            <svg viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n              <path d=\"M20 6L9 17L4 12\" stroke=\"#000000\" stroke-width=\"3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n            </svg>\n          </div>\n        </div>\n      </div>\n\n      <!-- Row 4 -->\n      <div class=\"table-row\">\n        <div class=\"row-label\">Racines Ancestrales, Qualité Originelle</div>\n        <div class=\"row-icon\">\n          <svg class=\"icon-cross\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <path d=\"M18 6L6 18M6 6L18 18\" stroke=\"#000000\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n          </svg>\n        </div>\n        <div class=\"row-icon\">\n          <div class=\"icon-check\">\n            <svg viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n              <path d=\"M20 6L9 17L4 12\" stroke=\"#000000\" stroke-width=\"3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n            </svg>\n          </div>\n        </div>\n      </div>\n\n      <!-- Row 5 -->\n      <div class=\"table-row\">\n        <div class=\"row-label\">Non Cultivés, Non Irrigués</div>\n        <div class=\"row-icon\">\n          <svg class=\"icon-cross\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <path d=\"M18 6L6 18M6 6L18 18\" stroke=\"#000000\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n          </svg>\n        </div>\n        <div class=\"row-icon\">\n          <div class=\"icon-check\">\n            <svg viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n              <path d=\"M20 6L9 17L4 12\" stroke=\"#000000\" stroke-width=\"3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n            </svg>\n          </div>\n        </div>\n      </div>\n\n      <!-- Row 6 -->\n      <div class=\"table-row\">\n        <div class=\"row-label\">zéro intermédiaire, huile Produite par nos soins</div>\n        <div class=\"row-icon\">\n          <svg class=\"icon-cross\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <path d=\"M18 6L6 18M6 6L18 18\" stroke=\"#000000\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n          </svg>\n        </div>\n        <div class=\"row-icon\">\n          <div class=\"icon-check\">\n            <svg viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n              <path d=\"M20 6L9 17L4 12\" stroke=\"#000000\" stroke-width=\"3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n            </svg>\n          </div>\n        </div>\n      </div>\n    </div>\n  </div>\n</div>",
+        "liquid": "{% comment %}\n  L'alternative naturelle - Comparison Table Section\n  Custom Liquid section for Shopify\n{% endcomment %}\n\n<style>\n  .alternative-naturelle-section {\n    background-color: #ffffff;\n    padding: 80px 20px;\n  }\n\n  .alternative-container {\n    max-width: 800px;\n    margin: 0 auto;\n  }\n\n  .alternative-title {\n    font-size: 48px;\n    font-weight: 700;\n    color: #000000;\n    margin: 0 0 30px 0;\n    line-height: 1.2;\n    text-align: center;\n  }\n\n  .alternative-description {\n    font-size: 18px;\n    color: #333333;\n    line-height: 1.6;\n    margin: 0 0 50px 0;\n    text-align: center;\n  }\n\n  .comparison-table {\n    background-color: #f9f9f0;\n    border-radius: 20px;\n    overflow: hidden;\n    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);\n  }\n\n  .table-header {\n    display: grid;\n    grid-template-columns: 2fr 1fr 1fr;\n    background-color: #F5F5F5;\n    padding: 25px 30px;\n    gap: 20px;\n    align-items: center;\n  }\n\n  .header-title {\n    font-size: 18px;\n    font-weight: 600;\n    color: #000000;\n  }\n\n  .header-column {\n    text-align: center;\n    font-size: 16px;\n    font-weight: 600;\n    color: #000000;\n  }\n\n  .header-logo {\n    display: flex;\n    flex-direction: column;\n    align-items: center;\n    justify-content: center;\n    gap: 5px;\n  }\n\n  .logo-image {\n    max-width: 120px;\n    height: auto;\n  }\n\n  .table-row {\n    display: grid;\n    grid-template-columns: 2fr 1fr 1fr;\n    padding: 25px 30px;\n    gap: 20px;\n    align-items: center;\n    background-color: #ffffff;\n    border-bottom: 1px solid #e8e8e8;\n  }\n\n  .table-row:last-child {\n    border-bottom: none;\n    border-radius: 0 0 20px 20px;\n  }\n\n  .row-label {\n    font-size: 17px;\n    color: #000000;\n    font-weight: 400;\n  }\n\n  .row-icon {\n    display: flex;\n    justify-content: center;\n    align-items: center;\n  }\n\n  .icon-cross {\n    width: 28px;\n    height: 28px;\n  }\n\n  .icon-check {\n    width: 36px;\n    height: 36px;\n    background-color: #c8e600;\n    border-radius: 50%;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n  }\n\n  .icon-check svg {\n    width: 20px;\n    height: 20px;\n  }\n\n  @media (max-width: 768px) {\n    .alternative-naturelle-section {\n      padding: 50px 15px;\n    }\n\n    .alternative-title {\n      font-size: 32px;\n      margin-bottom: 20px;\n    }\n\n    .alternative-description {\n      font-size: 15px;\n      margin-bottom: 35px;\n    }\n\n    .table-header,\n    .table-row {\n      grid-template-columns: 2fr 1fr 1fr;\n      padding: 18px 15px;\n      gap: 10px;\n    }\n\n    .header-title {\n      font-size: 14px;\n    }\n\n    .header-column {\n      font-size: 12px;\n    }\n\n    .logo-image {\n      max-width: 80px;\n    }\n\n    .row-label {\n      font-size: 14px;\n    }\n\n    .icon-cross {\n      width: 22px;\n      height: 22px;\n    }\n\n    .icon-check {\n      width: 28px;\n      height: 28px;\n    }\n\n    .icon-check svg {\n      width: 16px;\n      height: 16px;\n    }\n  }\n</style>\n\n<div class=\"alternative-naturelle-section\">\n  <div class=\"alternative-container\">\n    <h2 class=\"alternative-title\">AUTHENTICITÉ ABSOLUE : POURQUOI ?</h2>\n    \n    <p class=\"alternative-description\">\n     PREUVE D’EXCELLENCE\n    </p>\n\n    <div class=\"comparison-table\">\n      <!-- Table Header -->\n      <div class=\"table-header\">\n        <div class=\"header-title\">CARACTERISTIQUES</div>\n        <div class=\"header-column\">LA MAJORITÉ  DES HUILES SUR LE MARCHÉ<br></div>\n        <div class=\"header-logo\">\n          <img src=\"https://cdn.shopify.com/s/files/1/0925/7697/3147/files/8c6d9bca-a277-4a6e-b016-b65f088eb021.png?v=1769554789\" alt=\"SEMYAS\" class=\"logo-image\">\n        </div>\n      </div>\n\n      <!-- Row 1 -->\n      <div class=\"table-row\">\n        <div class=\"row-label\">100% Pure Sauvage</div>\n        <div class=\"row-icon\">\n          <svg class=\"icon-cross\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <path d=\"M18 6L6 18M6 6L18 18\" stroke=\"#000000\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n          </svg>\n        </div>\n        <div class=\"row-icon\">\n          <div class=\"icon-check\">\n            <svg viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n              <path d=\"M20 6L9 17L4 12\" stroke=\"#000000\" stroke-width=\"3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n            </svg>\n          </div>\n        </div>\n      </div>\n\n      <!-- Row 2 -->\n      <div class=\"table-row\">\n        <div class=\"row-label\">Une seule Récolte Annuelle </div>\n        <div class=\"row-icon\">\n          <svg class=\"icon-cross\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <path d=\"M18 6L6 18M6 6L18 18\" stroke=\"#000000\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n          </svg>\n        </div>\n        <div class=\"row-icon\">\n          <div class=\"icon-check\">\n            <svg viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n              <path d=\"M20 6L9 17L4 12\" stroke=\"#000000\" stroke-width=\"3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n            </svg>\n          </div>\n        </div>\n      </div>\n\n      <!-- Row 3 -->\n      <div class=\"table-row\">\n        <div class=\"row-label\">Origine Mexique</div>\n        <div class=\"row-icon\">\n          <svg class=\"icon-cross\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <path d=\"M18 6L6 18M6 6L18 18\" stroke=\"#000000\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n          </svg>\n        </div>\n        <div class=\"row-icon\">\n          <div class=\"icon-check\">\n            <svg viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n              <path d=\"M20 6L9 17L4 12\" stroke=\"#000000\" stroke-width=\"3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n            </svg>\n          </div>\n        </div>\n      </div>\n\n      <!-- Row 4 -->\n      <div class=\"table-row\">\n        <div class=\"row-label\">Racines Ancestrales, Qualité Originelle</div>\n        <div class=\"row-icon\">\n          <svg class=\"icon-cross\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <path d=\"M18 6L6 18M6 6L18 18\" stroke=\"#000000\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n          </svg>\n        </div>\n        <div class=\"row-icon\">\n          <div class=\"icon-check\">\n            <svg viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n              <path d=\"M20 6L9 17L4 12\" stroke=\"#000000\" stroke-width=\"3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n            </svg>\n          </div>\n        </div>\n      </div>\n\n      <!-- Row 5 -->\n      <div class=\"table-row\">\n        <div class=\"row-label\">Non Cultivés, Non Irrigués</div>\n        <div class=\"row-icon\">\n          <svg class=\"icon-cross\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <path d=\"M18 6L6 18M6 6L18 18\" stroke=\"#000000\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n          </svg>\n        </div>\n        <div class=\"row-icon\">\n          <div class=\"icon-check\">\n            <svg viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n              <path d=\"M20 6L9 17L4 12\" stroke=\"#000000\" stroke-width=\"3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n            </svg>\n          </div>\n        </div>\n      </div>\n\n      <!-- Row 6 -->\n      <div class=\"table-row\">\n        <div class=\"row-label\">zéro intermédiaire, huile Produite par nos soins</div>\n        <div class=\"row-icon\">\n          <svg class=\"icon-cross\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n            <path d=\"M18 6L6 18M6 6L18 18\" stroke=\"#000000\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n          </svg>\n        </div>\n        <div class=\"row-icon\">\n          <div class=\"icon-check\">\n            <svg viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n              <path d=\"M20 6L9 17L4 12\" stroke=\"#000000\" stroke-width=\"3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n            </svg>\n          </div>\n        </div>\n      </div>\n    </div>\n  </div>\n</div>",
         "background": "#ffffff",
         "background_gradient": "",
         "text_color": ""
