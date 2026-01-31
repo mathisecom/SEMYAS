@@ -340,9 +340,9 @@
             "custom_icon": "shopify://shop_images/15_b44e7e9a-8cdb-4a6c-a785-8270ff060acb.png",
             "mobile_icon_width": 56,
             "icon_width": 68,
-            "icon_background_type": "none",
-            "icon_background": "#f5f5f5",
-            "icon_color": "#ffffff",
+            "icon_background_type": "circle",
+            "icon_background": "#e0e0e0",
+            "icon_color": "#e0e0e0",
             "title": "FIGUIERS SAUVAGES ORIGINELS",
             "content": "<p><strong>Ne pas confondre avec les figuiers dʼorigine cultivée</strong><br/><br/></p>"
           }
@@ -354,8 +354,8 @@
             "custom_icon": "shopify://shop_images/17_600500c1-6878-467c-8084-8b12c30b8e02.png",
             "mobile_icon_width": 56,
             "icon_width": 68,
-            "icon_background_type": "none",
-            "icon_background": "#ffffff",
+            "icon_background_type": "circle",
+            "icon_background": "#e0e0e0",
             "icon_color": "#ffffff",
             "title": "QUALITÉ PREMIUM SAUVAGE",
             "content": "<p><strong>Une authenticité et une qualité inégalées</strong><br/><br/></p>"
@@ -368,9 +368,9 @@
             "custom_icon": "shopify://shop_images/16.png",
             "mobile_icon_width": 56,
             "icon_width": 68,
-            "icon_background_type": "none",
-            "icon_background": "#000000",
-            "icon_color": "#ffffff",
+            "icon_background_type": "circle",
+            "icon_background": "#e0e0e0",
+            "icon_color": "#e0e0e0",
             "title": "100% PURE MEXIQUE",
             "content": "<p><strong>Le cœur de son territoire d’origine</strong><br/><br/></p>"
           }
@@ -389,7 +389,7 @@
         "heading_tag": "h5",
         "text_alignment": "center",
         "icon_spacing": "small",
-        "background": "#ffffff",
+        "background": "#f2f2f2",
         "background_gradient": "",
         "text_color": "#000000"
       }
