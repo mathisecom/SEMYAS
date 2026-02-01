@@ -669,6 +669,29 @@
             "button_text_color": "#ffffff"
           }
         },
+        "image_j6pxrK": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/PRODUCTION_METODE.png",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "custom_icon": "shopify://shop_images/Logo_35.png",
+            "icon_width": 120,
+            "subheading": "",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#f2f2f2",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        },
         "image_hK4fWB": {
           "type": "image",
           "settings": {
@@ -695,6 +718,7 @@
       },
       "block_order": [
         "image_HCcqcU",
+        "image_j6pxrK",
         "image_hK4fWB"
       ],
       "name": "Media with text",
