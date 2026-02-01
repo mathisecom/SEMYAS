@@ -42,7 +42,7 @@
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 3,
         "subheading": "",
-        "title": "Une Huile d’Exception de très Haute             Qualité, disponible en Exclusivité chez SEMYAS BIO.",
+        "title": "Une Huile d’Exception Sauvage de très Haute             Qualité, disponible en Exclusivité chez SEMYAS BIO.",
         "content": "<p>Découvrez notre Huile SAUVAGE<br/><br/></p>",
         "link_url": "",
         "link_text": "Meilleures Ventes",
@@ -595,6 +595,22 @@
         "button_text_color": "#000000",
         "accordion_background": "#ffffff",
         "accordion_text_color": "#000000"
+      }
+    },
+    "slideshow_bVABAg": {
+      "type": "slideshow",
+      "name": "Slideshow",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "show_initial_transition": false,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#F2F2F2",
+        "background_gradient": ""
       }
     },
     "featured_collection_BxBfpi": {
@@ -1191,6 +1207,7 @@
     "multi_column_WKdQNk",
     "logo_list_yDWyAJ",
     "faq",
+    "slideshow_bVABAg",
     "featured_collection_BxBfpi",
     "media_with_text_TFqrtK",
     "logo_list_L499tP",
