@@ -505,7 +505,7 @@
         "item_DrjFwF": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/35.png",
+            "image": "shopify://shop_images/35_4dcc414f-b841-42d2-828f-6f506154b63d.png",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -518,7 +518,33 @@
         "item_LKtzQe": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/36.png",
+            "image": "shopify://shop_images/36_89742020-6683-41fe-b11a-5e4d1d13c15f.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_dyNtmb": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/38.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_FbJNxi": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/37.png",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -532,7 +558,9 @@
       "block_order": [
         "item_cxBw4z",
         "item_DrjFwF",
-        "item_LKtzQe"
+        "item_LKtzQe",
+        "item_dyNtmb",
+        "item_FbJNxi"
       ],
       "name": "Image link blocks",
       "settings": {
@@ -736,12 +764,13 @@
         "image_7PWktd": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/33.png",
+            "image": "shopify://shop_images/33_5577779f-cb33-4ffc-b09e-579b0e99dce1.png",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
             "icon": "none",
-            "icon_width": 48,
+            "custom_icon": "shopify://shop_images/14.png",
+            "icon_width": 120,
             "subheading": "",
             "title": "",
             "content": "",
