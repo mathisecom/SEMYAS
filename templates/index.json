@@ -69,6 +69,82 @@
         "text_color": ""
       }
     },
+    "multi_column_WKdQNk": {
+      "type": "multi-column",
+      "blocks": {
+        "item_Cd6aUp": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/17_0640a9b8-bb93-44ad-8069-3199e7e7f441.png",
+            "column_size": "4",
+            "title": "Anti-Âge Intense & Antioxydant Puissant",
+            "heading_tag": "h3",
+            "content": "<p>Riche en vitamine E un taux record, cette huile aide à lutter contre le stress oxydatif, à préserver la jeunesse de la peau et à améliorer l’apparence des ridules tout en renforçant la barrière cutanée.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_3LTJMm": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/edition_MAuve_1.png",
+            "column_size": "4",
+            "title": "Hydratation Profonde & Nutrition Durable",
+            "heading_tag": "h3",
+            "content": "<p>Grâce à sa forte teneur en oméga-6 et oméga-9, elle nourrit intensément la peau, limite la déshydratation et laisse le teint plus souple, lumineux et confortable sans effet gras.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_TqaBmD": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/19.png",
+            "column_size": "4",
+            "title": "Réparation Ciblée & Éclat Uniforme",
+            "heading_tag": "h3",
+            "content": "<p>Idéale pour les cernes, taches et peaux à imperfections, elle favorise le renouvellement cellulaire, apaise la peau et aide à restaurer son équilibre naturel face aux agressions extérieures.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_yD4dR9": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/20.png",
+            "column_size": "4",
+            "title": "Soin Régénérant pour Cheveux Abîmés",
+            "heading_tag": "h3",
+            "content": "<p>Quelques gouttes suffisent pour nourrir la fibre capillaire, réduire frisottis et pointes sèches, renforcer la cuticule et redonner brillance, douceur et vitalité aux cheveux fragilisés.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_Cd6aUp",
+        "item_3LTJMm",
+        "item_TqaBmD",
+        "item_yD4dR9"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "#f5f5f5",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "text_with_icons_nHa4Qr": {
       "type": "text-with-icons",
       "blocks": {
@@ -315,7 +391,7 @@
         "content": "",
         "link_url": "",
         "link_text": "",
-        "background": "",
+        "background": "#f2f2f2",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
@@ -501,82 +577,6 @@
         "background_gradient": "",
         "text_color": "",
         "text_gradient": ""
-      }
-    },
-    "multi_column_WKdQNk": {
-      "type": "multi-column",
-      "blocks": {
-        "item_Cd6aUp": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/17_0640a9b8-bb93-44ad-8069-3199e7e7f441.png",
-            "column_size": "4",
-            "title": "Anti-Âge Intense & Antioxydant Puissant",
-            "heading_tag": "h3",
-            "content": "<p>Riche en vitamine E un taux record, cette huile aide à lutter contre le stress oxydatif, à préserver la jeunesse de la peau et à améliorer l’apparence des ridules tout en renforçant la barrière cutanée.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_3LTJMm": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/edition_MAuve_1.png",
-            "column_size": "4",
-            "title": "Hydratation Profonde & Nutrition Durable",
-            "heading_tag": "h3",
-            "content": "<p>Grâce à sa forte teneur en oméga-6 et oméga-9, elle nourrit intensément la peau, limite la déshydratation et laisse le teint plus souple, lumineux et confortable sans effet gras.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_TqaBmD": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/19.png",
-            "column_size": "4",
-            "title": "Réparation Ciblée & Éclat Uniforme",
-            "heading_tag": "h3",
-            "content": "<p>Idéale pour les cernes, taches et peaux à imperfections, elle favorise le renouvellement cellulaire, apaise la peau et aide à restaurer son équilibre naturel face aux agressions extérieures.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_yD4dR9": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/20.png",
-            "column_size": "4",
-            "title": "Soin Régénérant pour Cheveux Abîmés",
-            "heading_tag": "h3",
-            "content": "<p>Quelques gouttes suffisent pour nourrir la fibre capillaire, réduire frisottis et pointes sèches, renforcer la cuticule et redonner brillance, douceur et vitalité aux cheveux fragilisés.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_Cd6aUp",
-        "item_3LTJMm",
-        "item_TqaBmD",
-        "item_yD4dR9"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "background": "#f5f5f5",
-        "background_gradient": "",
-        "text_color": ""
       }
     },
     "logo_list_yDWyAJ": {
