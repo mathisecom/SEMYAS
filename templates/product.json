@@ -12,10 +12,18 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "description": {
+          "type": "description",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "collapse_content": false
+          }
+        },
         "liquid_DeWnWa": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div class=\"main-product__block main-product__block-custom_liquid\">\n          <div class=\"m-product-text\">\n            <div class=\"main-product__block main-product__block-custom_liquid\">\n          <div class=\"m-product-text\">\n            <div class=\"main-product__block main-product__block-custom_liquid\">\n  <div class=\"m-product-text\">\n    <div class=\"product-info__liquid\">\n      <a class=\"image-size\" style=\"display: flex; align-items: center; gap: 8px;\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0776/3751/7627/files/avis.png?v=1687213619\" alt=\"Étoiles\" width=\"63\" height=\"13\">\n        <span class=\"text-size\">Noté <b>4.8/5</b> sur la base de 3,380 avis</span>\n      </a>\n    </div>\n  </div>\n</div>\n          </div>\n        \n</div>\n          </div>\n        \n</div>"
+            "liquid": "<div class=\"main-product__block main-product__block-custom_liquid\">\n          <div class=\"m-product-text\">\n            <div class=\"main-product__block main-product__block-custom_liquid\">\n          <div class=\"m-product-text\">\n            <div class=\"main-product__block main-product__block-custom_liquid\">\n  <div class=\"m-product-text\">\n    <div class=\"product-info__liquid\">\n      <a class=\"image-size\" style=\"display: flex; align-items: center; gap: 8px;\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0776/3751/7627/files/avis.png?v=1687213619\" alt=\"Étoiles\" width=\"63\" height=\"13\">\n        <span class=\"text-size\">Noté <b>4.9/5</b> sur la base de +500 avis</span>\n      </a>\n    </div>\n  </div>\n</div>\n          </div>\n        \n</div>\n          </div>\n        \n</div>"
           }
         },
         "title": {
@@ -52,28 +60,17 @@
         },
         "rating": {
           "type": "rating",
-          "disabled": true,
           "settings": {
             "show_empty": false
           }
         },
         "payment_terms": {
           "type": "payment_terms",
-          "disabled": true,
           "settings": {}
         },
         "separator": {
           "type": "separator",
           "settings": {}
-        },
-        "description": {
-          "type": "description",
-          "disabled": true,
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "collapse_content": false
-          }
         },
         "variant_picker": {
           "type": "variant_picker",
@@ -144,6 +141,7 @@
         }
       },
       "block_order": [
+        "description",
         "liquid_DeWnWa",
         "title",
         "text_q9rUW9",
@@ -153,7 +151,6 @@
         "rating",
         "payment_terms",
         "separator",
-        "description",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
