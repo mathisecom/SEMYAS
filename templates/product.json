@@ -44,6 +44,7 @@
         },
         "kaching_bundles_app_block_bRqXij": {
           "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "disabled": true,
           "settings": {
             "product": "soin-intense-30ml-10ml",
             "manual_deal_block_id": ""
@@ -63,7 +64,6 @@
         },
         "separator": {
           "type": "separator",
-          "disabled": true,
           "settings": {}
         },
         "description": {
@@ -105,7 +105,7 @@
         "liquid_KfHkJh": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div class=\"atc-bundle-sor__stock-info\" data-stock-block=\"\">\n\n  <div class=\"atc-bundle-sor__stock-header\">\n    <div class=\"atc-bundle-sor__stock-left\">\n      <div class=\"atc-bundle-sor__stock-icon\">\n        <svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n          <rect class=\"pulse\" width=\"16\" height=\"16\" rx=\"8\" fill=\"#008255\" fill-opacity=\"0.25\"></rect>\n          <circle cx=\"8\" cy=\"8\" r=\"4\" fill=\"#008255\"></circle>\n        </svg>\n      </div>\n      <span>Stock :</span>\n      <span><strong>369</strong> / 2500 unités</span>\n    </div>\n\n    <div class=\"atc-bundle-sor__stock-percentage\">\n      85% réservé\n    </div>\n  </div>\n\n  <div class=\"atc-bundle-sor__stock-bar\">\n    <div class=\"atc-bundle-sor__stock-progress\" style=\"width: 85%;\"></div>\n  </div>\n\n  <div class=\"atc-bundle-sor__stock-message\">\n    <p>\n      <strong>Réservez avant la prochaine rupture&nbsp;!</strong>\n    </p>\n  </div>\n\n</div>"
+            "liquid": "<div class=\"atc-bundle-sor__stock-info\" data-stock-block=\"\">\n\n  <div class=\"atc-bundle-sor__stock-header\">\n    <div class=\"atc-bundle-sor__stock-left\">\n      <div class=\"atc-bundle-sor__stock-icon\">\n        <svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n          <rect class=\"pulse\" width=\"16\" height=\"16\" rx=\"8\" fill=\"#008255\" fill-opacity=\"0.25\"></rect>\n          <circle cx=\"8\" cy=\"8\" r=\"4\" fill=\"#008255\"></circle>\n        </svg>\n      </div>\n      <span>Stock :</span>\n      <span><strong>123</strong> / 500 stock total (tous produits confondus ) </span>\n    </div>\n\n    <div class=\"atc-bundle-sor__stock-percentage\">\n      85% réservé\n    </div>\n  </div>\n\n  <div class=\"atc-bundle-sor__stock-bar\">\n    <div class=\"atc-bundle-sor__stock-progress\" style=\"width: 85%;\"></div>\n  </div>\n\n  <div class=\"atc-bundle-sor__stock-message\">\n    <p>\n      <strong>Réservez avant la prochaine rupture&nbsp;!</strong>\n    </p>\n  </div>\n\n</div>"
           }
         },
         "liquid_RmtnDL": {
