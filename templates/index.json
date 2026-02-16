@@ -70,7 +70,7 @@
         "controls_type": "dots",
         "transition_type": "fade_with_text",
         "autoplay": false,
-        "cycle_speed": 6,
+        "cycle_speed": 4,
         "background": "#F2F2F2",
         "background_gradient": ""
       }
