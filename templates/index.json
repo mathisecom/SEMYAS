@@ -9,20 +9,68 @@
  */
 {
   "sections": {
-    "video_WNxceE": {
-      "type": "video",
-      "name": "Video",
+    "slideshow_9AjEtT": {
+      "type": "slideshow",
+      "blocks": {
+        "image_KGVA8a": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/SITE_ENTREE.png",
+            "mobile_image": "shopify://shop_images/SITE_ENTREE.png",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
+        },
+        "image_rDCU7e": {
+          "type": "image",
+          "settings": {
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "Slide 2",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_KGVA8a",
+        "image_rDCU7e"
+      ],
+      "name": "Slideshow",
       "settings": {
         "full_width": true,
         "allow_transparent_header": true,
-        "autoplay": true,
-        "video_size": "auto",
-        "video": "shopify://files/videos/VIDEO SITE sauvage.mp4",
-        "mobile_video": "shopify://files/videos/VIDEO sauvage (Couverture Wattpad).mp4",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 40
+        "show_initial_transition": false,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#F2F2F2",
+        "background_gradient": ""
       }
     },
     "featured_collection_r8npmj": {
@@ -54,6 +102,22 @@
         "heading_gradient": "",
         "product_card_background": "",
         "product_card_text_color": ""
+      }
+    },
+    "video_WNxceE": {
+      "type": "video",
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "autoplay": true,
+        "video_size": "auto",
+        "video": "shopify://files/videos/VIDEO SITE sauvage.mp4",
+        "mobile_video": "shopify://files/videos/VIDEO sauvage (Couverture Wattpad).mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 40
       }
     },
     "custom_liquid_tHjw9m": {
@@ -1311,8 +1375,9 @@
     }
   },
   "order": [
-    "video_WNxceE",
+    "slideshow_9AjEtT",
     "featured_collection_r8npmj",
+    "video_WNxceE",
     "custom_liquid_tHjw9m",
     "multi_column_WKdQNk",
     "text_with_icons_nHa4Qr",
