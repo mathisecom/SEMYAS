@@ -16,7 +16,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/SITE_ENTREE_f8c03c94-6f6e-4f22-a6d4-278ea0c5e6a5.png",
-            "mobile_image": "shopify://shop_images/SITE_ENTREE_f8c03c94-6f6e-4f22-a6d4-278ea0c5e6a5.png",
+            "mobile_image": "shopify://shop_images/Black_Publication_LinkedIn.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -73,6 +73,18 @@
         "cycle_speed": 4,
         "background": "#F2F2F2",
         "background_gradient": ""
+      }
+    },
+    "rich_text_9ghCzA": {
+      "type": "rich-text",
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "featured_collection_r8npmj": {
@@ -1387,6 +1399,7 @@
   },
   "order": [
     "slideshow_9AjEtT",
+    "rich_text_9ghCzA",
     "featured_collection_r8npmj",
     "video_RRw9Va",
     "custom_liquid_tHjw9m",
