@@ -143,6 +143,54 @@
         "overlay_opacity": 30
       }
     },
+    "tabs_F9akK7": {
+      "type": "tabs",
+      "blocks": {
+        "tab_wHKjrK": {
+          "type": "tab",
+          "settings": {
+            "title": "PUISSANT ANTI-ÂGE NATUREL",
+            "content": "<p><strong>TAUX RECORD Vitamine E</strong> : Antioxydant puissant, protège la peau des radicaux libres<br/><br/></p>",
+            "page": ""
+          }
+        },
+        "tab_ReQ3tz": {
+          "type": "tab",
+          "settings": {
+            "title": "HYDRATATION INTENSE",
+            "content": "<p><strong>RICHES Acides gras essentiels</strong> (oméga-6 et oméga-9) : Maintiennent l'hydratation et améliorent l’élasticité de la peau.<br/><br/></p>",
+            "page": ""
+          }
+        },
+        "tab_7M6bRy": {
+          "type": "tab",
+          "settings": {
+            "title": "REPARATRICE",
+            "content": "<p><strong>Vitamine K</strong> : Favorise la cicatrisation et aide à apaiser les irritations.</p><p><strong>Vitamine A</strong> : Aide au renouvellement cellulaire et au maintien de la santé cutanée.</p><p><strong>Vitamine D</strong> : Renforce la barrière cutanée et améliore la protection naturelle.<br/><br/><br/><br/><br/><br/><br/><br/></p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_wHKjrK",
+        "tab_ReQ3tz",
+        "tab_7M6bRy"
+      ],
+      "name": "Tabs",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "HUILE DE GRAINES DE FIGUE DE BARBARIE SAUVAGE BIO",
+        "title": "SAUVAGEMENT EFFICACE  & NATURELLEMENT PUISSANTE",
+        "text_alignment": "center",
+        "first_tab_open": false,
+        "background": "#f5f5f5",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "#1a1a1a",
+        "heading_gradient": ""
+      }
+    },
     "custom_liquid_tHjw9m": {
       "type": "custom-liquid",
       "disabled": true,
@@ -296,55 +344,6 @@
         "background": "#f2f2f2",
         "background_gradient": "",
         "text_color": "#000000"
-      }
-    },
-    "tabs_F9akK7": {
-      "type": "tabs",
-      "blocks": {
-        "tab_wHKjrK": {
-          "type": "tab",
-          "settings": {
-            "title": "PUISSANT ANTI-RIDES NATUREL",
-            "content": "<p><strong>TAUX RECORD Vitamine E</strong> : Antioxydant puissant, protège la peau des radicaux libres<br/><br/></p>",
-            "page": ""
-          }
-        },
-        "tab_ReQ3tz": {
-          "type": "tab",
-          "settings": {
-            "title": "HYDRATATION PROFONDE",
-            "content": "<p><strong>RICHES Acides gras essentiels</strong> (oméga-6 et oméga-9) : Maintiennent l'hydratation et améliorent l’élasticité de la peau.<br/><br/></p>",
-            "page": ""
-          }
-        },
-        "tab_7M6bRy": {
-          "type": "tab",
-          "settings": {
-            "title": "REPARATRICE",
-            "content": "<p><strong>Vitamine K</strong> : Favorise la cicatrisation et aide à apaiser les irritations.</p><p><strong>Vitamine A</strong> : Aide au renouvellement cellulaire et au maintien de la santé cutanée.</p><p><strong>Vitamine D</strong> : Renforce la barrière cutanée et améliore la protection naturelle.<br/><br/><br/><br/><br/><br/><br/><br/></p>",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "tab_wHKjrK",
-        "tab_ReQ3tz",
-        "tab_7M6bRy"
-      ],
-      "disabled": true,
-      "name": "Tabs",
-      "settings": {
-        "full_width": true,
-        "content_size": "medium",
-        "subheading": "LA QUINTESSENCE SAUVAGE — PUISSANT ANTI‑RIDES, AUTHENTICITÉ NATURELLE",
-        "title": "Ce trésor, issu d’un terroir préservé et ancestral, cette huile puise ses origines au cœur d’un récit millénaire.",
-        "text_alignment": "center",
-        "first_tab_open": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
       }
     },
     "multi_column_afBimq": {
@@ -576,7 +575,6 @@
         "heading_xQNeKq",
         "richtext_dpXgEq"
       ],
-      "disabled": true,
       "name": "Rich text",
       "settings": {
         "full_width": true,
@@ -1403,10 +1401,10 @@
     "rich_text_9ghCzA",
     "featured_collection_r8npmj",
     "video_RRw9Va",
+    "tabs_F9akK7",
     "custom_liquid_tHjw9m",
     "multi_column_WKdQNk",
     "text_with_icons_nHa4Qr",
-    "tabs_F9akK7",
     "multi_column_afBimq",
     "image_link_blocks_kTR48m",
     "text_with_icons_tphdMT",
