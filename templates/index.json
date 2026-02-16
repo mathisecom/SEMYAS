@@ -15,8 +15,8 @@
         "image_KGVA8a": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/SITE_ENTREE.png",
-            "mobile_image": "shopify://shop_images/Black_Publication_LinkedIn.png",
+            "image": "shopify://shop_images/SITE_ENTREE_d8de675c-3858-4a4b-9b38-8fadca7e2802.png",
+            "mobile_image": "shopify://shop_images/SITE_ENTREE_d8de675c-3858-4a4b-9b38-8fadca7e2802.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
