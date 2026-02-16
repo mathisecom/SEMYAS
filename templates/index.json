@@ -71,7 +71,7 @@
         "transition_type": "fade_with_text",
         "autoplay": true,
         "cycle_speed": 4,
-        "background": "#F2F2F2",
+        "background": "#f2f2f2",
         "background_gradient": ""
       }
     },
@@ -145,6 +145,7 @@
     },
     "custom_liquid_tHjw9m": {
       "type": "custom-liquid",
+      "disabled": true,
       "name": "Custom Liquid",
       "settings": {
         "full_width": true,
@@ -474,7 +475,7 @@
         "full_width": false,
         "block_size": "medium",
         "subheading": "",
-        "title": "",
+        "title": "PRINCIPAUX ACTIFS NATURELS",
         "content": "",
         "link_url": "",
         "link_text": "",
@@ -597,8 +598,8 @@
             "mobile_icon_width": 56,
             "icon_width": 68,
             "icon_background_type": "circle",
-            "icon_background": "#f2f2f2",
-            "icon_color": "#e0e0e0",
+            "icon_background": "#e0e0e0",
+            "icon_color": "#ffffff",
             "title": "FIGUIERS SAUVAGES ORIGINELS",
             "content": "<p><strong>Ne pas confondre avec les figuiers dʼorigine cultivée</strong><br/><br/></p>"
           }
@@ -611,7 +612,7 @@
             "mobile_icon_width": 56,
             "icon_width": 68,
             "icon_background_type": "circle",
-            "icon_background": "#f2f2f2",
+            "icon_background": "#e0e0e0",
             "icon_color": "#ffffff",
             "title": "QUALITÉ PREMIUM SAUVAGE",
             "content": "<p><strong>Une authenticité et une qualité inégalées</strong><br/><br/></p>"
@@ -625,7 +626,7 @@
             "mobile_icon_width": 56,
             "icon_width": 68,
             "icon_background_type": "circle",
-            "icon_background": "#f2f2f2",
+            "icon_background": "#e0e0e0",
             "icon_color": "#e0e0e0",
             "title": "100% PURE MEXIQUE",
             "content": "<p><strong>Le cœur de son territoire d’origine</strong><br/><br/></p>"
@@ -645,7 +646,7 @@
         "heading_tag": "h5",
         "text_alignment": "center",
         "icon_spacing": "small",
-        "background": "#ffffff",
+        "background": "#f2f2f2",
         "background_gradient": "",
         "text_color": "#000000"
       }
