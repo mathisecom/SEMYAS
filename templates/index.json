@@ -143,6 +143,46 @@
         "overlay_opacity": 30
       }
     },
+    "rich_text_UaMAVr": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Yg69Tx": {
+          "type": "heading",
+          "settings": {
+            "text": "HUILE ORIGINELLE DE GRAINES DE FIGUE DE BARBARIE SAUVAGE BIO",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_yDwcDY": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><br/>Huile incomparable*, issue de son terroir natal d'exception — un terroir préservé où chaque goutte concentre la force d’un savoir-faire ancestral. Sa qualité, intacte depuis des générations, révèle des notes profondes et une texture veloutée qui caresse la peau et l’âme. Inspirée par les rituels et les soins des lignées royales aztèques, cette huile célèbre le lien entre nature et cérémonie : gestes précis, respect des matières premières, attention sacrée au détail. Utilisée en offrande ou en soin, elle invite à un moment de recueillement et de beauté authentique, comme une transmission vivante d’héritage et d’élégance. Pure, noble et rare, elle transforme l’ordinaire en un rituel précieux.<br/><br/></p>"
+          }
+        },
+        "richtext_dpXgEq": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><br/>*À distinguer des huiles vendues couramment, souvent cultivées à 99 % pour maximiser le rendement au détriment de la qualité.<br/><br/></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Yg69Tx",
+        "richtext_yDwcDY",
+        "richtext_dpXgEq"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "tabs_F9akK7": {
       "type": "tabs",
       "blocks": {
@@ -176,6 +216,7 @@
         "tab_ReQ3tz",
         "tab_7M6bRy"
       ],
+      "disabled": true,
       "name": "Tabs",
       "settings": {
         "full_width": true,
@@ -531,56 +572,6 @@
         "text_alignment": "center",
         "icon_spacing": "medium",
         "background": "#f5f5f5",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "rich_text_UaMAVr": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_Yg69Tx": {
-          "type": "heading",
-          "settings": {
-            "text": "Heading",
-            "heading_tag": "h1",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "richtext_yDwcDY": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        },
-        "heading_xQNeKq": {
-          "type": "heading",
-          "settings": {
-            "text": "Heading",
-            "heading_tag": "h1",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "richtext_dpXgEq": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_Yg69Tx",
-        "richtext_yDwcDY",
-        "heading_xQNeKq",
-        "richtext_dpXgEq"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
         "background_gradient": "",
         "text_color": ""
       }
@@ -1401,6 +1392,7 @@
     "rich_text_9ghCzA",
     "featured_collection_r8npmj",
     "video_RRw9Va",
+    "rich_text_UaMAVr",
     "tabs_F9akK7",
     "custom_liquid_tHjw9m",
     "multi_column_WKdQNk",
@@ -1408,7 +1400,6 @@
     "multi_column_afBimq",
     "image_link_blocks_kTR48m",
     "text_with_icons_tphdMT",
-    "rich_text_UaMAVr",
     "text_with_icons_Xj6edW",
     "scrolling_text_D4NLHg",
     "logo_list_yDWyAJ",
