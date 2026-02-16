@@ -16,7 +16,7 @@
         "full_width": true,
         "allow_transparent_header": true,
         "autoplay": true,
-        "video_size": "lg",
+        "video_size": "auto",
         "video": "shopify://files/videos/VIDEO SITE sauvage.mp4",
         "mobile_video": "shopify://files/videos/VIDEO sauvage (Couverture Wattpad).mp4",
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
