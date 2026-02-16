@@ -15,8 +15,8 @@
         "image_KGVA8a": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/SITE_ENTREE_d8de675c-3858-4a4b-9b38-8fadca7e2802.png",
-            "mobile_image": "shopify://shop_images/SITE_ENTREE_d8de675c-3858-4a4b-9b38-8fadca7e2802.png",
+            "image": "shopify://shop_images/SITE_ENTREE_f8c03c94-6f6e-4f22-a6d4-278ea0c5e6a5.png",
+            "mobile_image": "shopify://shop_images/SITE_ENTREE_f8c03c94-6f6e-4f22-a6d4-278ea0c5e6a5.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
