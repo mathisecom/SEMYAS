@@ -178,6 +178,65 @@
         "input_text_color": ""
       }
     },
+    "logo_list_dhE7LM": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_a8WwBV": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/CREA_1080X1080_-_2026-01-22T221013.611.jpg",
+            "logo_width": 180,
+            "link": ""
+          }
+        },
+        "logo_LHqTQz": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/CREA_1080X1080_-_2026-01-22T221226.730.jpg",
+            "logo_width": 180,
+            "link": ""
+          }
+        },
+        "logo_qBK9i4": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/CREA_1080X1080_-_2026-01-22T221136.650.jpg",
+            "logo_width": 180,
+            "link": ""
+          }
+        },
+        "logo_zJJxWG": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/CREA_1080X1080_-_2026-01-22T221156.570.jpg",
+            "logo_width": 180,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_a8WwBV",
+        "logo_LHqTQz",
+        "logo_qBK9i4",
+        "logo_zJJxWG"
+      ],
+      "name": "Logo list",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "title": "RÉSULTATS VISIBLES DÈS 28 JOURS*",
+        "content": "<p><em>*Études menées pendant 28 jours sur 60 femmes de 45 à 65 ans. Application 1 fois par jour. Mesures effectuées par des experts en tests cliniques des produits cosmétiques et mis en œuvre par l’Organisation des Nations Unies pour le Développement Industriel.</em></p>",
+        "text_alignment": "center",
+        "items_per_row": 5,
+        "background": "#f5f5f5",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "#f2f2f2",
+        "logo_item_border": ""
+      }
+    },
     "logo_list_9cHiKh": {
       "type": "logo-list",
       "blocks": {
@@ -253,6 +312,171 @@
         "heading_gradient": "",
         "logo_item_background": "#ffffff",
         "logo_item_border": ""
+      }
+    },
+    "faq_NqjfP9": {
+      "type": "faq",
+      "blocks": {
+        "item_XYJxMM": {
+          "type": "item",
+          "settings": {
+            "title": "LISSE LES RIDES ET RIDULES",
+            "content": "<p>Véritable élixir anti-âge, l’huile précieuse de graines de figue de Barbarie sauvage, saturée en vitamine E et en acides gras essentiels, stimule le renouvellement cellulaire et préserve la jeunesse cutanée. Application après application, elle raffermit la peau et estompe rides et ridules, révélant un teint lisse et éclatant.<br/><br/></p>"
+          }
+        },
+        "item_3jFVQX": {
+          "type": "item",
+          "settings": {
+            "title": "ATTÉNUE LES TACHES BRUNES",
+            "content": "<p>Gorgée d’antioxydants, elle érige un bouclier contre le stress oxydatif, retardant l’apparition des taches pigmentaires et de l’hyperpigmentation. En modulant subtilement la production de mélanine, elle atténue les marques existantes et révèle, jour après jour, un teint uniformisé et lumineux.<br/><br/></p>"
+          }
+        },
+        "item_RnhPxd": {
+          "type": "item",
+          "settings": {
+            "title": "AMÉLIORE LA FERMETÉ",
+            "content": "<p>Concentrée en acides gras essentiels et en vitamine E, l’huile de graines de figue de Barbarie sauvage sublime la fermeté et la tonicité cutanées. Elle booste l’élasticité, prévient le relâchement et révèle une peau visiblement plus lisse, plus dense et parfaitement raffermie.<br/><br/></p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_XYJxMM",
+        "item_3jFVQX",
+        "item_RnhPxd"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "",
+        "content": "<h5><strong>UN SOIN D'EXCEPTION POUR SUBLIMER VOTRE PEAU</strong></h5>",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
+    "media_with_text_ryVKU6": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_7qi6Gy": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/routine.png",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "",
+            "content": "<p><br/></p>",
+            "link_text": "",
+            "link_url": "#shopify-section-template--27623632863579__main",
+            "background": "#f2f2f2",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "image_7qi6Gy"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": true,
+        "alternate_media_position": false,
+        "spacing": "none"
+      }
+    },
+    "multi_column_mpfiR4": {
+      "type": "multi-column",
+      "blocks": {
+        "item_VtngKV": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/17_0640a9b8-bb93-44ad-8069-3199e7e7f441.png",
+            "column_size": "4",
+            "title": "Anti-Âge Intense & Antioxydant Puissant",
+            "heading_tag": "h3",
+            "content": "<p>Riche en vitamine E, cette huile aide à lutter contre le stress oxydatif, à réduire les ridules et à renforcer la barrière cutanée.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_mrzieU": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/edition_MAuve_1.png",
+            "column_size": "4",
+            "title": "Hydratation Profonde & Nutrition Durable",
+            "heading_tag": "h3",
+            "content": "<p>Grâce aux oméga-6 et oméga-9, elle nourrit intensément, limite la déshydratation et laisse la peau souple et lumineuse, sans effet gras.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_aJFrWj": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/19.png",
+            "column_size": "4",
+            "title": "Réparation Ciblée & Éclat Uniforme",
+            "heading_tag": "h3",
+            "content": "<p>Idéale pour cernes, taches et imperfections, elle favorise le renouvellement cellulaire et restaure l’équilibre naturel de la peau.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_GcCF4Y": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/20.png",
+            "column_size": "4",
+            "title": "Soin Régénérant pour Cheveux Abîmés",
+            "heading_tag": "h3",
+            "content": "<p>Quelques gouttes suffisent pour nourrir, lisser et renforcer cheveux et pointes sèches, tout en apportant brillance et douceur.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_VtngKV",
+        "item_mrzieU",
+        "item_aJFrWj",
+        "item_GcCF4Y"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "#f5f5f5",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "press_AXKJmx": {
@@ -340,6 +564,7 @@
         "logo_JjUG3J",
         "logo_Akw6Hi"
       ],
+      "disabled": true,
       "name": "Logo list",
       "settings": {
         "full_width": true,
@@ -393,82 +618,6 @@
         "spacing": "none"
       }
     },
-    "multi_column_mpfiR4": {
-      "type": "multi-column",
-      "blocks": {
-        "item_VtngKV": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/17_0640a9b8-bb93-44ad-8069-3199e7e7f441.png",
-            "column_size": "4",
-            "title": "Anti-Âge Intense & Antioxydant Puissant",
-            "heading_tag": "h3",
-            "content": "<p>Riche en vitamine E, cette huile aide à lutter contre le stress oxydatif, à réduire les ridules et à renforcer la barrière cutanée.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_mrzieU": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/edition_MAuve_1.png",
-            "column_size": "4",
-            "title": "Hydratation Profonde & Nutrition Durable",
-            "heading_tag": "h3",
-            "content": "<p>Grâce aux oméga-6 et oméga-9, elle nourrit intensément, limite la déshydratation et laisse la peau souple et lumineuse, sans effet gras.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_aJFrWj": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/19.png",
-            "column_size": "4",
-            "title": "Réparation Ciblée & Éclat Uniforme",
-            "heading_tag": "h3",
-            "content": "<p>Idéale pour cernes, taches et imperfections, elle favorise le renouvellement cellulaire et restaure l’équilibre naturel de la peau.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_GcCF4Y": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/20.png",
-            "column_size": "4",
-            "title": "Soin Régénérant pour Cheveux Abîmés",
-            "heading_tag": "h3",
-            "content": "<p>Quelques gouttes suffisent pour nourrir, lisser et renforcer cheveux et pointes sèches, tout en apportant brillance et douceur.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_VtngKV",
-        "item_mrzieU",
-        "item_aJFrWj",
-        "item_GcCF4Y"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "background": "#f5f5f5",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "custom_liquid_bRw4Wj": {
       "type": "custom-liquid",
       "disabled": true,
@@ -488,7 +637,7 @@
       "name": "Scrolling text",
       "settings": {
         "full_width": true,
-        "text": "✓ Non comédogène‎ ‎ ‎ ‎ ✓ Testé en laboratoire ‎ ‎ ‎ ✓ Végan et bio  ‎ ‎ ‎ ✓ Efficacité Prouvée",
+        "text": "✓ Non comédogène‎ ‎ ‎ ‎ ✓ Testé en laboratoire ‎ ‎ ‎ ✓ Végan et bio  ‎ ‎ ‎ ✓ Efficacité",
         "text_size": "xsmall",
         "text_style": "fill",
         "scrolling_mode": "auto",
@@ -497,154 +646,6 @@
         "background_gradient": "",
         "text_color": "",
         "text_gradient": ""
-      }
-    },
-    "faq_NqjfP9": {
-      "type": "faq",
-      "blocks": {
-        "item_XYJxMM": {
-          "type": "item",
-          "settings": {
-            "title": "LISSE LES RIDES ET RIDULES",
-            "content": "<p>Véritable élixir anti-âge, l’huile précieuse de graines de figue de Barbarie sauvage, saturée en vitamine E et en acides gras essentiels, stimule le renouvellement cellulaire et préserve la jeunesse cutanée. Application après application, elle raffermit la peau et estompe rides et ridules, révélant un teint lisse et éclatant.<br/><br/></p>"
-          }
-        },
-        "item_3jFVQX": {
-          "type": "item",
-          "settings": {
-            "title": "ATTÉNUE LES TACHES BRUNES",
-            "content": "<p>Gorgée d’antioxydants, elle érige un bouclier contre le stress oxydatif, retardant l’apparition des taches pigmentaires et de l’hyperpigmentation. En modulant subtilement la production de mélanine, elle atténue les marques existantes et révèle, jour après jour, un teint uniformisé et lumineux.<br/><br/></p>"
-          }
-        },
-        "item_RnhPxd": {
-          "type": "item",
-          "settings": {
-            "title": "AMÉLIORE LA FERMETÉ",
-            "content": "<p>Concentrée en acides gras essentiels et en vitamine E, l’huile de graines de figue de Barbarie sauvage sublime la fermeté et la tonicité cutanées. Elle booste l’élasticité, prévient le relâchement et révèle une peau visiblement plus lisse, plus dense et parfaitement raffermie.<br/><br/></p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_XYJxMM",
-        "item_3jFVQX",
-        "item_RnhPxd"
-      ],
-      "name": "FAQ",
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "",
-        "content": "<h5><strong>UN SOIN D'EXCEPTION POUR SUBLIMER VOTRE PEAU</strong></h5>",
-        "team_avatar_width": 160,
-        "support_hours": "",
-        "answer_time": "",
-        "button_text": "",
-        "button_url": "",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "button_background": "",
-        "button_text_color": "",
-        "accordion_background": "",
-        "accordion_text_color": ""
-      }
-    },
-    "logo_list_dhE7LM": {
-      "type": "logo-list",
-      "blocks": {
-        "logo_a8WwBV": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/CREA_1080X1080_-_2026-01-22T221013.611.jpg",
-            "logo_width": 180,
-            "link": ""
-          }
-        },
-        "logo_LHqTQz": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/CREA_1080X1080_-_2026-01-22T221226.730.jpg",
-            "logo_width": 180,
-            "link": ""
-          }
-        },
-        "logo_qBK9i4": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/CREA_1080X1080_-_2026-01-22T221136.650.jpg",
-            "logo_width": 180,
-            "link": ""
-          }
-        },
-        "logo_zJJxWG": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/CREA_1080X1080_-_2026-01-22T221156.570.jpg",
-            "logo_width": 180,
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "logo_a8WwBV",
-        "logo_LHqTQz",
-        "logo_qBK9i4",
-        "logo_zJJxWG"
-      ],
-      "name": "Logo list",
-      "settings": {
-        "full_width": true,
-        "stack_mobile": true,
-        "title": "RÉSULTATS VISIBLES DÈS 28 JOURS*",
-        "content": "<p><em>*Études menées pendant 28 jours sur 60 femmes de 45 à 65 ans. Application 1 fois par jour. Mesures effectuées par des experts en tests cliniques des produits cosmétiques et mis en œuvre par l’Organisation des Nations Unies pour le Développement Industriel.</em></p>",
-        "text_alignment": "center",
-        "items_per_row": 5,
-        "background": "#f5f5f5",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "logo_item_background": "#f2f2f2",
-        "logo_item_border": ""
-      }
-    },
-    "media_with_text_ryVKU6": {
-      "type": "media-with-text",
-      "blocks": {
-        "image_7qi6Gy": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/DES_FIGUIERS_HUILES_SONT_CULTIVES.jpg",
-            "media_width": 50,
-            "media_position": "start",
-            "text_position": "place-self-center text-center",
-            "icon": "none",
-            "icon_width": 48,
-            "subheading": "99 % des huiles sont produites à partir de cultures intensives visant un rendement élevé",
-            "title": "SEMYAS, LA QUALITÉ SAUVAGE, AUTHENTIQUE, EST NOTRE ENGAGEMENT",
-            "content": "<p><br/>QUALITÉ EXCEPTIONNELLE, INCOMPARABLE SUR LE MARCHÉ<br/><br/></p>",
-            "link_text": "OBTENIR MAINTENANT",
-            "link_url": "#shopify-section-template--27623632863579__main",
-            "background": "#f2f2f2",
-            "background_gradient": "",
-            "text_color": "#1a1a1a",
-            "text_gradient": "",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000"
-          }
-        }
-      },
-      "block_order": [
-        "image_7qi6Gy"
-      ],
-      "name": "Media with text",
-      "settings": {
-        "full_width": true,
-        "alternate_media_position": false,
-        "spacing": "none"
       }
     },
     "rich_text_wdbnQJ": {
@@ -836,16 +837,16 @@
   },
   "order": [
     "main",
+    "scrolling_text_4KBGbi",
+    "logo_list_dhE7LM",
     "logo_list_9cHiKh",
+    "faq_NqjfP9",
+    "media_with_text_ryVKU6",
+    "multi_column_mpfiR4",
     "press_AXKJmx",
     "logo_list_tTF4MY",
     "media_with_text_jifPhK",
-    "multi_column_mpfiR4",
     "custom_liquid_bRw4Wj",
-    "scrolling_text_4KBGbi",
-    "faq_NqjfP9",
-    "logo_list_dhE7LM",
-    "media_with_text_ryVKU6",
     "rich_text_wdbnQJ",
     "testimonials_wWCtPD",
     "faq_4hjUnK",
