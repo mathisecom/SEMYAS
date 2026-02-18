@@ -20,9 +20,9 @@
       "type": "contact",
       "settings": {
         "full_width": true,
-        "subheading": "PROPOSEZ À VOS CLIENTS UNE COSMÉTIQUE DE LUXE, BIO ET SAUVAGE. NOUS OFFRONS DES CONDITIONS COMMERCIALES ATTRACTIVES",
-        "title": "",
-        "content": "",
+        "subheading": "RÉSERVÉ AUX PROFESSIONNELS",
+        "title": "PROPOSEZ À VOS CLIENTS UNE COSMÉTIQUE DE LUXE, BIO ET SAUVAGE. NOUS OFFRONS DES CONDITIONS COMMERCIALES ATTRACTIVES",
+        "content": "<h4>SI VOUS ÊTES DÉSIREUX D’OFFRIR UNE EXPÉRIENCE AVEC UN PRODUIT D’EXCEPTION, CONTACTEZ-NOUS <br/><br/><br/><br/></h4>",
         "text_position": "center",
         "contact_form_size": "large",
         "background": "",
