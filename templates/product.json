@@ -363,12 +363,11 @@
         "image_acTDUx": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/FOTO_FLACON_DANS_LA_NATURE2.jpg",
+            "image": "shopify://shop_images/foto_site_10.png",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
             "icon": "none",
-            "custom_icon": "shopify://shop_images/CREA_1080X1080_-_2026-01-26T150031.760.png",
             "icon_width": 76,
             "subheading": "",
             "title": "Ici, pas de photos avant/après.",
@@ -465,7 +464,7 @@
         "subheading": "",
         "title": "",
         "content": "",
-        "background": "#f9f6f3",
+        "background": "#f5f5f5",
         "background_gradient": "",
         "text_color": ""
       }
