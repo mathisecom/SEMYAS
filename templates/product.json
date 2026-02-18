@@ -607,7 +607,7 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
-        "logo_item_background": "#ffffff",
+        "logo_item_background": "#f2f2f2",
         "logo_item_border": ""
       }
     },
@@ -668,7 +668,7 @@
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
-        "background": "#f9f6f3",
+        "background": "#ececec",
         "background_gradient": "",
         "text_color": ""
       }
@@ -748,7 +748,7 @@
         "content": "",
         "link_url": "",
         "link_text": "",
-        "background": "#f9f6f3",
+        "background": "#f5f5f5",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
