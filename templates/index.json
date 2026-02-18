@@ -118,33 +118,6 @@
         "product_card_text_color": ""
       }
     },
-    "before_after_image_iTUhE8": {
-      "type": "before-after-image",
-      "name": "Before/after image",
-      "settings": {
-        "full_width": true,
-        "subheading": "QUALITÉ EXCEPTIONNELLE, INCOMPARABLE SUR LE MARCHÉ",
-        "title": "SEMYAS, LA QUALITÉ SAUVAGE & AUTHENTIQUE EST NOTRE ENGAGEMENT",
-        "content": "<p><br/></p>",
-        "before_image": "shopify://shop_images/4_09d9f336-ea97-4246-ad16-ef6c64abffc2.png",
-        "before_image_mobile": "shopify://shop_images/4_fe5e46f3-b299-4755-8edf-cb02a71fc011.png",
-        "after_image": "shopify://shop_images/3_4ede4e83-8d72-44b3-8b21-6927067c087f.png",
-        "after_image_mobile": "shopify://shop_images/3_d4d0dc15-4ac7-4213-bc1a-c568e82c2421.png",
-        "expand_image": false,
-        "text_position": "start",
-        "before_after_text_position": "top",
-        "before_text": "99 % CULTURE",
-        "after_text": "1% SAUVAGE",
-        "drag_initial_position": 50,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "before_text_color": "#f83a3a",
-        "after_text_color": "#00a341",
-        "drag_cursor_background": "#ffffff",
-        "drag_cursor_color": "#000000"
-      }
-    },
     "video_RRw9Va": {
       "type": "video",
       "blocks": {
@@ -205,7 +178,7 @@
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
-        "background": "#f5f5f5",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": ""
       }
@@ -556,70 +529,6 @@
         "text_color": ""
       }
     },
-    "text_with_icons_Xj6edW": {
-      "type": "text-with-icons",
-      "blocks": {
-        "item_hRmCEr": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/15_b44e7e9a-8cdb-4a6c-a785-8270ff060acb.png",
-            "mobile_icon_width": 56,
-            "icon_width": 68,
-            "icon_background_type": "circle",
-            "icon_background": "#e0e0e0",
-            "icon_color": "#ffffff",
-            "title": "FIGUIERS SAUVAGES ORIGINELS",
-            "content": "<p><strong>Ne pas confondre avec les figuiers dʼorigine cultivée</strong><br/><br/></p>"
-          }
-        },
-        "item_rwVgYd": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/17_600500c1-6878-467c-8084-8b12c30b8e02.png",
-            "mobile_icon_width": 56,
-            "icon_width": 68,
-            "icon_background_type": "circle",
-            "icon_background": "#e0e0e0",
-            "icon_color": "#ffffff",
-            "title": "QUALITÉ PREMIUM SAUVAGE",
-            "content": "<p><strong>Une authenticité et une qualité inégalées</strong><br/><br/></p>"
-          }
-        },
-        "item_j8tgXW": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/16.png",
-            "mobile_icon_width": 56,
-            "icon_width": 68,
-            "icon_background_type": "circle",
-            "icon_background": "#e0e0e0",
-            "icon_color": "#e0e0e0",
-            "title": "100% PURE MEXIQUE",
-            "content": "<p><strong>Le cœur de son territoire d’origine</strong><br/><br/></p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_hRmCEr",
-        "item_rwVgYd",
-        "item_j8tgXW"
-      ],
-      "name": "Text with icons",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "title": "",
-        "heading_tag": "h5",
-        "text_alignment": "center",
-        "icon_spacing": "small",
-        "background": "#f2f2f2",
-        "background_gradient": "",
-        "text_color": "#000000"
-      }
-    },
     "scrolling_text_D4NLHg": {
       "type": "scrolling-text",
       "name": "Scrolling text",
@@ -686,13 +595,40 @@
         "content": "<h6><em>*Études menées pendant 28 jours sur 60 femmes de 45 à 65 ans. Application 1 fois par jour. Mesures effectuées par des experts en tests cliniques des produits cosmétiques et mis en œuvre par l’Organisation des Nations Unies pour le Développement Industriel.</em></h6>",
         "text_alignment": "center",
         "items_per_row": 5,
-        "background": "#ffffff",
+        "background": "#f2f2f2",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
         "logo_item_background": "#ececec",
         "logo_item_border": ""
+      }
+    },
+    "before_after_image_iTUhE8": {
+      "type": "before-after-image",
+      "name": "Before/after image",
+      "settings": {
+        "full_width": true,
+        "subheading": "QUALITÉ AUTHENTIQUE, UNIQUE SUR LE MARCHÉ",
+        "title": "SEMYAS, LA QUALITÉ SAUVAGE & AUTHENTIQUE EST NOTRE ENGAGEMENT",
+        "content": "<p><br/></p>",
+        "before_image": "shopify://shop_images/4_09d9f336-ea97-4246-ad16-ef6c64abffc2.png",
+        "before_image_mobile": "shopify://shop_images/4_fe5e46f3-b299-4755-8edf-cb02a71fc011.png",
+        "after_image": "shopify://shop_images/3_4ede4e83-8d72-44b3-8b21-6927067c087f.png",
+        "after_image_mobile": "shopify://shop_images/3_d4d0dc15-4ac7-4213-bc1a-c568e82c2421.png",
+        "expand_image": false,
+        "text_position": "center",
+        "before_after_text_position": "top",
+        "before_text": "99 % CULTURES",
+        "after_text": "1% SAUVAGE",
+        "drag_initial_position": 49,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "before_text_color": "#f83a3a",
+        "after_text_color": "#00a341",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
       }
     },
     "faq": {
@@ -745,6 +681,70 @@
         "button_text_color": "#000000",
         "accordion_background": "#ffffff",
         "accordion_text_color": "#000000"
+      }
+    },
+    "text_with_icons_Xj6edW": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_hRmCEr": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/15_b44e7e9a-8cdb-4a6c-a785-8270ff060acb.png",
+            "mobile_icon_width": 56,
+            "icon_width": 68,
+            "icon_background_type": "circle",
+            "icon_background": "#e0e0e0",
+            "icon_color": "#ffffff",
+            "title": "FIGUIERS SAUVAGES ORIGINELS",
+            "content": "<p><strong>Ne pas confondre avec les figuiers dʼorigine cultivée</strong><br/><br/></p>"
+          }
+        },
+        "item_rwVgYd": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/17_600500c1-6878-467c-8084-8b12c30b8e02.png",
+            "mobile_icon_width": 56,
+            "icon_width": 68,
+            "icon_background_type": "circle",
+            "icon_background": "#e0e0e0",
+            "icon_color": "#ffffff",
+            "title": "QUALITÉ PREMIUM SAUVAGE",
+            "content": "<p><strong>Une authenticité et une qualité inégalées</strong><br/><br/></p>"
+          }
+        },
+        "item_j8tgXW": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/16.png",
+            "mobile_icon_width": 56,
+            "icon_width": 68,
+            "icon_background_type": "circle",
+            "icon_background": "#e0e0e0",
+            "icon_color": "#e0e0e0",
+            "title": "100% PURE MEXIQUE",
+            "content": "<p><strong>Le cœur de son territoire d’origine</strong><br/><br/></p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_hRmCEr",
+        "item_rwVgYd",
+        "item_j8tgXW"
+      ],
+      "name": "Text with icons",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "title": "",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "small",
+        "background": "#f2f2f2",
+        "background_gradient": "",
+        "text_color": "#000000"
       }
     },
     "slideshow_bVABAg": {
@@ -835,7 +835,7 @@
             "content": "<h2>Certifications</h2><p><strong>Certifié biologique</strong> par Ecocert Greenlife selon la norme COSMOS disponible sur :<br/><br/>http://COSMOS.ecocert.com</p><p><strong>Ecocert</strong> SAS MX BIO-154.</p><p><strong>Opérateur</strong> 161181</p><p><a href=\"https://www.ecocert.com/es/detaile-de-certification/cosmeticos-org%C3%A1nicos-o-naturales-cosmos-\" target=\"_blank\" title=\"https://certificat.ecocert.com/\"><strong><br/></strong></a>Cosmos Organic garantissent des produits biologiques et écologiques de haute qualité. Elles assurent la transparence concernant les ingrédients et les pratiques de fabrication durables, favorisant ainsi la préservation de la biodiversité et le bien-être des petits producteurs.</p><p><br/>En choisissant des produits certifiés, les consommateurs soutiennent une économie éthique et contribuent à un avenir durable, tout en prenant soin de leur santé et de la planète.</p>",
             "link_text": "LIEN OFFICIEL ECOCERT : VÉRIFIEZ L'AUTHENTICITÉ AVANT ACHAT",
             "link_url": "https://certificat.ecocert.com/",
-            "background": "#f4f8f1",
+            "background": "#ececec",
             "background_gradient": "",
             "text_color": "#000000",
             "text_gradient": "",
@@ -1348,7 +1348,6 @@
     "slideshow_9AjEtT",
     "rich_text_9ghCzA",
     "featured_collection_r8npmj",
-    "before_after_image_iTUhE8",
     "video_RRw9Va",
     "rich_text_UaMAVr",
     "tabs_F9akK7",
@@ -1357,10 +1356,11 @@
     "text_with_icons_nHa4Qr",
     "image_link_blocks_kTR48m",
     "text_with_icons_tphdMT",
-    "text_with_icons_Xj6edW",
     "scrolling_text_D4NLHg",
     "logo_list_yDWyAJ",
+    "before_after_image_iTUhE8",
     "faq",
+    "text_with_icons_Xj6edW",
     "slideshow_bVABAg",
     "featured_collection_BxBfpi",
     "media_with_text_TFqrtK",
