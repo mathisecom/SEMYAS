@@ -252,7 +252,7 @@
         "item_Cd6aUp": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/17_0640a9b8-bb93-44ad-8069-3199e7e7f441.png",
+            "image": "shopify://shop_images/18_02b6a570-7aab-40ac-bcd4-cec54f9fb0ce.png",
             "column_size": "4",
             "title": "Anti-Âge Intense & Antioxydant Puissant",
             "heading_tag": "h3",
@@ -265,7 +265,7 @@
         "item_3LTJMm": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/edition_MAuve_1.png",
+            "image": "shopify://shop_images/19_2563b8e5-8423-4182-bf85-108e5972e2ca.png",
             "column_size": "4",
             "title": "Hydratation Profonde & Nutrition Durable",
             "heading_tag": "h3",
@@ -278,7 +278,7 @@
         "item_TqaBmD": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/19.png",
+            "image": "shopify://shop_images/20_6c85413c-38fd-4f7c-874a-58a8584131a9.png",
             "column_size": "4",
             "title": "Réparation Ciblée & Éclat Uniforme",
             "heading_tag": "h3",
@@ -291,7 +291,7 @@
         "item_yD4dR9": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/20.png",
+            "image": "shopify://shop_images/21.png",
             "column_size": "4",
             "title": "Soin Régénérant pour Cheveux Abîmés",
             "heading_tag": "h3",
@@ -611,7 +611,7 @@
         "full_width": true,
         "subheading": "QUALITÉ AUTHENTIQUE, UNIQUE SUR LE MARCHÉ",
         "title": "SEMYAS, LA QUALITÉ SAUVAGE & AUTHENTIQUE EST NOTRE ENGAGEMENT",
-        "content": "<p><br/></p>",
+        "content": "<p><strong>TANDIS QUE 99 % DU MARCHÉ EXPLOITE DES FIGUIERS CULTIVÉS POUR LE RENDEMENT,</strong></p><h4><strong> SEMYAS  A CHOISIT L’ 1 % SAUVAGE — RARE, INTENSE, D’EXCEPTION. </strong><br/><br/></h4>",
         "before_image": "shopify://shop_images/4_09d9f336-ea97-4246-ad16-ef6c64abffc2.png",
         "before_image_mobile": "shopify://shop_images/4_fe5e46f3-b299-4755-8edf-cb02a71fc011.png",
         "after_image": "shopify://shop_images/3_4ede4e83-8d72-44b3-8b21-6927067c087f.png",
@@ -619,8 +619,8 @@
         "expand_image": false,
         "text_position": "center",
         "before_after_text_position": "top",
-        "before_text": "99 % CULTURES",
-        "after_text": "1% SAUVAGE",
+        "before_text": "99 %",
+        "after_text": "1%",
         "drag_initial_position": 49,
         "background": "",
         "background_gradient": "",
