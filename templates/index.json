@@ -466,10 +466,10 @@
       "name": "Image link blocks",
       "settings": {
         "full_width": false,
-        "block_size": "medium",
+        "block_size": "large",
         "subheading": "",
         "title": "PRINCIPAUX ACTIFS NATURELS",
-        "content": "",
+        "content": "<h4><strong><br/><br/></strong></h4>",
         "link_url": "",
         "link_text": "",
         "background": "#ffffff",
