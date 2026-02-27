@@ -163,7 +163,7 @@
         "item_yD4dR9": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/21_3da81111-4d44-41ca-9e1a-8f823fe713b5.png",
+            "image": "shopify://shop_images/21_ca32d5c5-d295-4e03-b1c4-fa534a19d540.png",
             "column_size": "4",
             "title": "Soin Régénérant pour Cheveux Abîmés",
             "heading_tag": "h3",
@@ -286,39 +286,6 @@
         "heading_gradient": ""
       }
     },
-    "video_RRw9Va": {
-      "type": "video",
-      "blocks": {
-        "heading_dfnrrL": {
-          "type": "heading",
-          "settings": {
-            "text": "",
-            "heading_tag": "h1"
-          }
-        },
-        "play_6NVVMx": {
-          "type": "play",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "heading_dfnrrL",
-        "play_6NVVMx"
-      ],
-      "name": "Video",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "autoplay": true,
-        "video_size": "auto",
-        "video": "shopify://files/videos/VIDEO SITE sauvage.mp4",
-        "mobile_video": "shopify://files/videos/VIDEO SITE sauvage.mp4",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
-      }
-    },
     "rich_text_UaMAVr": {
       "type": "rich-text",
       "blocks": {
@@ -357,6 +324,39 @@
         "background": "#ffffff",
         "background_gradient": "",
         "text_color": ""
+      }
+    },
+    "video_RRw9Va": {
+      "type": "video",
+      "blocks": {
+        "heading_dfnrrL": {
+          "type": "heading",
+          "settings": {
+            "text": "",
+            "heading_tag": "h1"
+          }
+        },
+        "play_6NVVMx": {
+          "type": "play",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "heading_dfnrrL",
+        "play_6NVVMx"
+      ],
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "auto",
+        "video": "shopify://files/videos/VIDEO SITE sauvage.mp4",
+        "mobile_video": "shopify://files/videos/VIDEO SITE sauvage.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
       }
     },
     "tabs_F9akK7": {
