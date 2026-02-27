@@ -163,7 +163,7 @@
         "item_yD4dR9": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/21_fa71c471-a97c-4206-827e-0be5c4e5a3d9.png",
+            "image": "shopify://shop_images/21_3da81111-4d44-41ca-9e1a-8f823fe713b5.png",
             "column_size": "4",
             "title": "Soin Régénérant pour Cheveux Abîmés",
             "heading_tag": "h3",
@@ -289,12 +289,20 @@
     "video_RRw9Va": {
       "type": "video",
       "blocks": {
+        "heading_dfnrrL": {
+          "type": "heading",
+          "settings": {
+            "text": "",
+            "heading_tag": "h1"
+          }
+        },
         "play_6NVVMx": {
           "type": "play",
           "settings": {}
         }
       },
       "block_order": [
+        "heading_dfnrrL",
         "play_6NVVMx"
       ],
       "name": "Video",
@@ -1350,8 +1358,8 @@
     "featured_collection_r8npmj",
     "multi_column_WKdQNk",
     "image_link_blocks_kTR48m",
-    "video_RRw9Va",
     "rich_text_UaMAVr",
+    "video_RRw9Va",
     "tabs_F9akK7",
     "custom_liquid_tHjw9m",
     "text_with_icons_nHa4Qr",
