@@ -104,7 +104,7 @@
         "products_count": 6,
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 3,
-        "subheading": "",
+        "subheading": "HUILE ORIGINELLE DE GRAINES DE FIGUE DE BARBARIE SAUVAGE BIO",
         "title": "SOIN ANTI-ÂGE D'EXCEPTION À L'ÉTAT SAUVAGE   disponible uniquement chez SEMYAS BIO",
         "content": "",
         "link_url": "",
@@ -420,6 +420,110 @@
         "background": "#ffffff",
         "background_gradient": "",
         "text_color": ""
+      }
+    },
+    "logo_list_L499tP": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_kfdDag": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/CREA_1080X1080_-_2026-01-22T164414.706.jpg",
+            "logo_width": 140,
+            "link": ""
+          }
+        },
+        "logo_JTfFri": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/4.jpg",
+            "logo_width": 140,
+            "link": ""
+          }
+        },
+        "logo_QqtkmX": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/13.jpg",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_fLdjXE": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/3_13924c81-65cc-4e1f-8828-2aaa0735d1c2.jpg",
+            "logo_width": 140,
+            "link": ""
+          }
+        },
+        "logo_4dpTrV": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/9.png",
+            "logo_width": 140,
+            "link": ""
+          }
+        },
+        "logo_K7VfBj": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/12.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_tHfdWe": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/12_f6b8dada-cce1-49b2-addb-0e5ea3f78cc0.jpg",
+            "logo_width": 140,
+            "link": ""
+          }
+        },
+        "logo_QhrQ4b": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/2_ed7d1930-b6a1-4380-bfa8-9e2ac965cf08.png",
+            "logo_width": 140,
+            "link": ""
+          }
+        },
+        "logo_4A3pXd": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/9_1c65c6d8-c651-4740-93df-d3bfac963dcf.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_kfdDag",
+        "logo_JTfFri",
+        "logo_QqtkmX",
+        "logo_fLdjXE",
+        "logo_4dpTrV",
+        "logo_K7VfBj",
+        "logo_tHfdWe",
+        "logo_QhrQ4b",
+        "logo_4A3pXd"
+      ],
+      "name": "Logo list",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": false,
+        "title": "EN QUOI NOTRE HUILE SE DISTINGUE-T-ELLE ?",
+        "content": "<h3><em><strong>Ce trésor, issu d’un terroir préservé et ancestral, cette huile puise ses origines au cœur d’un récit millénaire</strong></em></h3>",
+        "text_alignment": "center",
+        "items_per_row": 7,
+        "background": "#f5f5f5",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "#ffffff",
+        "logo_item_border": ""
       }
     },
     "text_with_icons_nHa4Qr": {
@@ -863,110 +967,6 @@
         "spacing": "none"
       }
     },
-    "logo_list_L499tP": {
-      "type": "logo-list",
-      "blocks": {
-        "logo_kfdDag": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/CREA_1080X1080_-_2026-01-22T164414.706.jpg",
-            "logo_width": 140,
-            "link": ""
-          }
-        },
-        "logo_JTfFri": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/4.jpg",
-            "logo_width": 140,
-            "link": ""
-          }
-        },
-        "logo_QqtkmX": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/13.jpg",
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_fLdjXE": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/3_13924c81-65cc-4e1f-8828-2aaa0735d1c2.jpg",
-            "logo_width": 140,
-            "link": ""
-          }
-        },
-        "logo_4dpTrV": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/9.png",
-            "logo_width": 140,
-            "link": ""
-          }
-        },
-        "logo_K7VfBj": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/12.png",
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_tHfdWe": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/12_f6b8dada-cce1-49b2-addb-0e5ea3f78cc0.jpg",
-            "logo_width": 140,
-            "link": ""
-          }
-        },
-        "logo_QhrQ4b": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/2_ed7d1930-b6a1-4380-bfa8-9e2ac965cf08.png",
-            "logo_width": 140,
-            "link": ""
-          }
-        },
-        "logo_4A3pXd": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/9_1c65c6d8-c651-4740-93df-d3bfac963dcf.png",
-            "logo_width": 120,
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "logo_kfdDag",
-        "logo_JTfFri",
-        "logo_QqtkmX",
-        "logo_fLdjXE",
-        "logo_4dpTrV",
-        "logo_K7VfBj",
-        "logo_tHfdWe",
-        "logo_QhrQ4b",
-        "logo_4A3pXd"
-      ],
-      "name": "Logo list",
-      "settings": {
-        "full_width": true,
-        "stack_mobile": false,
-        "title": "EN QUOI NOTRE HUILE SE DISTINGUE-T-ELLE ?",
-        "content": "<h3><em><strong>Ce trésor, issu d’un terroir préservé et ancestral, cette huile puise ses origines au cœur d’un récit millénaire</strong></em></h3>",
-        "text_alignment": "center",
-        "items_per_row": 7,
-        "background": "#f5f5f5",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "logo_item_background": "#ffffff",
-        "logo_item_border": ""
-      }
-    },
     "custom_liquid_aU9EFA": {
       "type": "custom-liquid",
       "name": "Custom Liquid",
@@ -1362,6 +1362,7 @@
     "video_RRw9Va",
     "tabs_F9akK7",
     "custom_liquid_tHjw9m",
+    "logo_list_L499tP",
     "text_with_icons_nHa4Qr",
     "text_with_icons_tphdMT",
     "scrolling_text_D4NLHg",
@@ -1372,7 +1373,6 @@
     "slideshow_bVABAg",
     "featured_collection_BxBfpi",
     "media_with_text_TFqrtK",
-    "logo_list_L499tP",
     "custom_liquid_aU9EFA",
     "ss_comparison_table_29_K333qh",
     "rich_text_QGpEBt",
