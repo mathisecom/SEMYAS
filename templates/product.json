@@ -15,9 +15,9 @@
         "description": {
           "type": "description",
           "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "collapse_content": false
+            "icon": "picto-leaf",
+            "icon_width": 16,
+            "collapse_content": true
           }
         },
         "liquid_DeWnWa": {
@@ -176,6 +176,22 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
+      }
+    },
+    "scrolling_text_4KBGbi": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "✓ Non comédogène‎ ‎ ‎ ‎ ✓ Testé en laboratoire ‎ ‎ ‎ ✓ Végan et bio  ‎ ‎ ‎ ✓ Efficacité",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 4,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "text_gradient": ""
       }
     },
     "logo_list_dhE7LM": {
@@ -630,22 +646,6 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
-      }
-    },
-    "scrolling_text_4KBGbi": {
-      "type": "scrolling-text",
-      "name": "Scrolling text",
-      "settings": {
-        "full_width": true,
-        "text": "✓ Non comédogène‎ ‎ ‎ ‎ ✓ Testé en laboratoire ‎ ‎ ‎ ✓ Végan et bio  ‎ ‎ ‎ ✓ Efficacité",
-        "text_size": "xsmall",
-        "text_style": "fill",
-        "scrolling_mode": "auto",
-        "scrolling_speed": 4,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "text_gradient": ""
       }
     },
     "rich_text_wdbnQJ": {
