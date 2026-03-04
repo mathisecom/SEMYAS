@@ -12,14 +12,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "description": {
-          "type": "description",
-          "settings": {
-            "icon": "picto-leaf",
-            "icon_width": 16,
-            "collapse_content": true
-          }
-        },
         "liquid_DeWnWa": {
           "type": "liquid",
           "settings": {
@@ -141,7 +133,6 @@
         }
       },
       "block_order": [
-        "description",
         "liquid_DeWnWa",
         "title",
         "text_q9rUW9",
