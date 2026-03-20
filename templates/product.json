@@ -128,7 +128,7 @@
           "settings": {
             "image": "shopify://shop_images/bandeau_site2_98d16503-dcec-46ca-877d-bf05674fcf2a.png",
             "alignment": "center",
-            "max_width": 400
+            "max_width": 270
           }
         }
       },
