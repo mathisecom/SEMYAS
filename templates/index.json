@@ -301,13 +301,13 @@
         "richtext_yDwcDY": {
           "type": "richtext",
           "settings": {
-            "content": "<p><br/>Huile incomparable*, issue de son terroir natal d'exception — un terroir préservé où chaque goutte concentre la force d’un savoir-faire ancestral. Sa qualité, intacte depuis des générations, révèle des notes profondes et une texture veloutée qui caresse la peau et l’âme. Inspirée par les rituels et les soins des lignées royales aztèques, cette huile célèbre le lien entre nature et cérémonie : gestes précis, respect des matières premières, attention sacrée au détail. Utilisée en offrande ou en soin, elle invite à un moment de recueillement et de beauté authentique, comme une transmission vivante d’héritage et d’élégance. Pure, noble et rare, elle transforme l’ordinaire en un rituel précieux.<br/><br/></p>"
+            "content": "<p><br/>Huile incomparable<strong>*</strong>, issue de son terroir natal d'exception — un terroir préservé où chaque goutte concentre la force d’un savoir-faire ancestral. Sa qualité, intacte depuis des générations, révèle des notes profondes et une texture veloutée qui caresse la peau et l’âme. Inspirée par les rituels et les soins des lignées royales aztèques, cette huile célèbre le lien entre nature et cérémonie : gestes précis, respect des matières premières, attention sacrée au détail. Utilisée en offrande ou en soin, elle invite à un moment de recueillement et de beauté authentique, comme une transmission vivante d’héritage et d’élégance. Pure, noble et rare, elle transforme l’ordinaire en un rituel précieux.<br/><br/></p>"
           }
         },
         "richtext_dpXgEq": {
           "type": "richtext",
           "settings": {
-            "content": "<p><br/>*À distinguer des huiles vendues couramment, souvent cultivées à 99 % pour maximiser le rendement au détriment de la qualité.<br/><br/></p>"
+            "content": "<p><em><br/></em><em><strong>*À distinguer des huiles vendues couramment, souvent cultivées à 99 % pour maximiser le rendement au détriment de la qualité.</strong></em><em><br/><br/></em></p>"
           }
         }
       },
@@ -723,7 +723,7 @@
         "full_width": true,
         "subheading": "QUALITÉ AUTHENTIQUE, UNIQUE SUR LE MARCHÉ",
         "title": "SEMYAS, LA QUALITÉ SAUVAGE & AUTHENTIQUE EST NOTRE ENGAGEMENT",
-        "content": "<p><strong>TANDIS QUE 99 % DU MARCHÉ EXPLOITE DES FIGUIERS CULTIVÉS POUR LE RENDEMENT,</strong></p><h4><strong> SEMYAS  A CHOISIT L’ 1 % SAUVAGE — RARE ANCESTRALE</strong></h4><h4></h4><h4></h4><h4> <br/></h4>",
+        "content": "<p><em>TANDIS QUE </em><em><strong>99 % </strong></em><em>DU MARCHÉ EXPLOITE DES </em><em><strong>FIGUIERS CULTIVÉS </strong></em><em>POUR LE RENDEMENT,</em></p><h4><strong> </strong>SEMYAS  A CHOISIT L’ <strong>1 % SAUVAGE</strong> PLUS  RARE & ANCESTRAL</h4><h4></h4><h4></h4><h4> <br/></h4>",
         "before_image": "shopify://shop_images/4_09d9f336-ea97-4246-ad16-ef6c64abffc2.png",
         "before_image_mobile": "shopify://shop_images/4_fe5e46f3-b299-4755-8edf-cb02a71fc011.png",
         "after_image": "shopify://shop_images/3_4ede4e83-8d72-44b3-8b21-6927067c087f.png",
@@ -919,11 +919,11 @@
             "icon": "none",
             "custom_icon": "shopify://shop_images/8c6d9bca-a277-4a6e-b016-b65f088eb021.png",
             "icon_width": 120,
-            "subheading": "PURE ET NATURELLE, ELLE VOUS EST LIVRÉE DANS UNE AUTHENTICITÉ ABSOLUE.",
-            "title": "NOTRE HUILE DE FIGUE DE BARBARIE EST OBTENUE À PARTIR D'UNE TONNE DE FRUITS SAUVAGES CUEILLIS À LA MAIN, LES GRAINES SONT SÉPARÉES PUIS SÉCHÉES AU SOLEIL NATAL AVANT D'ÊTRE PRESSÉES UNE SEULE FOIS À FROID, SANS SOLVANTS NI HEXANE.",
-            "content": "",
-            "link_text": "",
-            "link_url": "",
+            "subheading": "",
+            "title": "PURE ET NATURELLE, ELLE VOUS EST LIVRÉE DANS UNE AUTHENTICITÉ ABSOLUE.",
+            "content": "<h2><br/>0% SOLVANTS 0% HEXANE 0% PESTICIDES <br/><br/></h2>",
+            "link_text": "BOUTIQUE",
+            "link_url": "shopify://collections/all",
             "background": "#f5f5f5",
             "background_gradient": "",
             "text_color": "#000000",
