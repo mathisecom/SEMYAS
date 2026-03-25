@@ -286,46 +286,6 @@
         "heading_gradient": ""
       }
     },
-    "rich_text_UaMAVr": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_Yg69Tx": {
-          "type": "heading",
-          "settings": {
-            "text": "HUILE ORIGINELLE DE GRAINES DE FIGUE DE BARBARIE SAUVAGE BIO",
-            "heading_tag": "h3",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "richtext_yDwcDY": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p><br/>Huile incomparable<strong>*</strong>, issue de son terroir natal d'exception — un terroir préservé où chaque goutte concentre la force d’un savoir-faire ancestral. Sa qualité, intacte depuis des générations, révèle des notes profondes et une texture veloutée qui caresse la peau et l’âme. Inspirée par les rituels et les soins des lignées royales aztèques, cette huile célèbre le lien entre nature et cérémonie : gestes précis, respect des matières premières, attention sacrée au détail. Utilisée en offrande ou en soin, elle invite à un moment de recueillement et de beauté authentique, comme une transmission vivante d’héritage et d’élégance. Pure, noble et rare, elle transforme l’ordinaire en un rituel précieux.<br/><br/></p>"
-          }
-        },
-        "richtext_dpXgEq": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p><em><br/></em><em><strong>*À distinguer des huiles de figues de barbarie vendues couramment, souvent cultivées à 99 % pour maximiser le rendement au détriment de la qualité.</strong></em><em><br/><br/></em></p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_Yg69Tx",
-        "richtext_yDwcDY",
-        "richtext_dpXgEq"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "large",
-        "text_position": "center",
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "video_RRw9Va": {
       "type": "video",
       "blocks": {
@@ -406,6 +366,46 @@
         "text_color": "",
         "heading_color": "#1a1a1a",
         "heading_gradient": ""
+      }
+    },
+    "rich_text_UaMAVr": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Yg69Tx": {
+          "type": "heading",
+          "settings": {
+            "text": "HUILE ORIGINELLE DE GRAINES DE FIGUE DE BARBARIE SAUVAGE BIO",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_yDwcDY": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><br/>Huile incomparable<strong>*</strong>, issue de son terroir natal d'exception — un terroir préservé où chaque goutte concentre la force d’un savoir-faire ancestral. Sa qualité, intacte depuis des générations, révèle des notes profondes et une texture veloutée qui caresse la peau et l’âme. Inspirée par les rituels et les soins des lignées royales aztèques, cette huile célèbre le lien entre nature et cérémonie : gestes précis, respect des matières premières, attention sacrée au détail. Utilisée en offrande ou en soin, elle invite à un moment de recueillement et de beauté authentique, comme une transmission vivante d’héritage et d’élégance. Pure, noble et rare, elle transforme l’ordinaire en un rituel précieux.<br/><br/></p>"
+          }
+        },
+        "richtext_dpXgEq": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><em><br/></em><em><strong>*À distinguer des huiles de figues de barbarie vendues couramment, souvent cultivées à 99 % pour maximiser le rendement au détriment de la qualité.</strong></em><em><br/><br/></em></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Yg69Tx",
+        "richtext_yDwcDY",
+        "richtext_dpXgEq"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "large",
+        "text_position": "center",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "custom_liquid_tHjw9m": {
@@ -909,6 +909,30 @@
     "media_with_text_TFqrtK": {
       "type": "media-with-text",
       "blocks": {
+        "video_PP3qtT": {
+          "type": "video",
+          "settings": {
+            "video": "shopify://files/videos/VIDEO SITE 3.mp4",
+            "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "autoplay": true,
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "background": "#f2f2f2",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        },
         "image_7PWktd": {
           "type": "image",
           "settings": {
@@ -957,6 +981,7 @@
         }
       },
       "block_order": [
+        "video_PP3qtT",
         "image_7PWktd",
         "image_hK4fWB"
       ],
@@ -1358,9 +1383,9 @@
     "featured_collection_r8npmj",
     "multi_column_WKdQNk",
     "image_link_blocks_kTR48m",
-    "rich_text_UaMAVr",
     "video_RRw9Va",
     "tabs_F9akK7",
+    "rich_text_UaMAVr",
     "custom_liquid_tHjw9m",
     "logo_list_L499tP",
     "text_with_icons_nHa4Qr",
