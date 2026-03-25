@@ -909,30 +909,6 @@
     "media_with_text_TFqrtK": {
       "type": "media-with-text",
       "blocks": {
-        "video_PP3qtT": {
-          "type": "video",
-          "settings": {
-            "video": "shopify://files/videos/VIDEO SITE 3.mp4",
-            "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "autoplay": true,
-            "media_width": 50,
-            "media_position": "start",
-            "text_position": "place-self-center text-center",
-            "icon": "none",
-            "icon_width": 48,
-            "subheading": "",
-            "title": "",
-            "content": "",
-            "link_text": "",
-            "link_url": "",
-            "background": "#f2f2f2",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
-          }
-        },
         "image_7PWktd": {
           "type": "image",
           "settings": {
@@ -981,7 +957,6 @@
         }
       },
       "block_order": [
-        "video_PP3qtT",
         "image_7PWktd",
         "image_hK4fWB"
       ],
