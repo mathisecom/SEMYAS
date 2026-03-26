@@ -15,8 +15,8 @@
         "image_KGVA8a": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/GALA_SITE.png",
-            "mobile_image": "shopify://shop_images/GALA_SITE_Publication_LinkedIn.png",
+            "image": "shopify://shop_images/GALA_SITE_280940e3-9561-41fa-9832-1e750660c07d.png",
+            "mobile_image": "shopify://shop_images/GALA_SITE_Publication_LinkedIn_109db5ed-043b-4efe-9b2c-518c80607a80.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
