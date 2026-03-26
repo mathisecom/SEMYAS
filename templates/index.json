@@ -15,8 +15,8 @@
         "image_KGVA8a": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/SITE_ENTREEcosmebio_e5e3a899-756e-4ec3-a5a5-a2eb97f8418f.png",
-            "mobile_image": "shopify://shop_images/Black_2_Publication_LinkedIn_32369f74-4eba-4268-8a14-c75fbea68547.png",
+            "image": "shopify://shop_images/GALA_SITE.png",
+            "mobile_image": "shopify://shop_images/GALA_SITE_Publication_LinkedIn.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
