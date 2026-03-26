@@ -24,22 +24,14 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "LIVRAISON OFFERTE",
-            "url": ""
-          }
-        },
-        "message_WW6kxQ": {
-          "type": "message",
-          "settings": {
-            "text": "HUILE BIO SAUVAGE ET PURE MEXIQUE",
+            "text": "LIVRAISON GRATUITE",
             "url": ""
           }
         }
       },
       "block_order": [
         "message_MdKPjQ",
-        "message",
-        "message_WW6kxQ"
+        "message"
       ],
       "settings": {
         "enable_sticky": false,
@@ -50,7 +42,7 @@
         "scrolling_speed": 10,
         "background": "#ffffff",
         "background_gradient": "",
-        "text_color": "#000000"
+        "text_color": "#0a4d17"
       }
     },
     "header": {
