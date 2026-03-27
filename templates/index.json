@@ -25,11 +25,11 @@
             "heading_tag": "h0",
             "button_text": "",
             "button_link": "",
-            "text_color": "#ffffff",
+            "text_color": "#f5f5f5",
             "button_background": "#ffffff",
             "button_text_color": "#000000",
             "overlay_color": "#000000",
-            "overlay_opacity": 0,
+            "overlay_opacity": 30,
             "background": "",
             "background_gradient": ""
           }
@@ -86,7 +86,7 @@
         "content": "",
         "link_url": "",
         "link_text": "Meilleures Ventes",
-        "background": "#ffffff",
+        "background": "#f5f5f5",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
