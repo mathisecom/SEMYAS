@@ -12,28 +12,6 @@
     "slideshow_9AjEtT": {
       "type": "slideshow",
       "blocks": {
-        "image_KGVA8a": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/GALA_SITE_e5c29804-7776-4c8a-a334-170bec879eb6.png",
-            "mobile_image": "shopify://shop_images/site_HERITAGE_Publication_LinkedIn_0f31fc71-2f1d-4210-9932-a13b5ae1278b.png",
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "",
-            "title": "",
-            "heading_tag": "h0",
-            "button_text": "",
-            "button_link": "",
-            "text_color": "#f5f5f5",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30,
-            "background": "",
-            "background_gradient": ""
-          }
-        },
         "video_akaHqQ": {
           "type": "video",
           "settings": {
@@ -58,7 +36,6 @@
         }
       },
       "block_order": [
-        "image_KGVA8a",
         "video_akaHqQ"
       ],
       "name": "Slideshow",
