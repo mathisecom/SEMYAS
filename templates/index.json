@@ -16,7 +16,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/GALA_SITE_e5c29804-7776-4c8a-a334-170bec879eb6.png",
-            "mobile_image": "shopify://shop_images/site_HERITAGE_Publication_LinkedIn.png",
+            "mobile_image": "shopify://shop_images/site_HERITAGE_Publication_LinkedIn_ed29facf-6109-4e9b-95e8-a59b34cc845f.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -29,7 +29,7 @@
             "button_background": "#ffffff",
             "button_text_color": "#000000",
             "overlay_color": "#000000",
-            "overlay_opacity": 30,
+            "overlay_opacity": 0,
             "background": "",
             "background_gradient": ""
           }
@@ -86,7 +86,7 @@
         "content": "",
         "link_url": "",
         "link_text": "Meilleures Ventes",
-        "background": "#f5f5f5",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
