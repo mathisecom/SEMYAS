@@ -12,11 +12,11 @@
     "slideshow_9AjEtT": {
       "type": "slideshow",
       "blocks": {
-        "video_akaHqQ": {
-          "type": "video",
+        "image_DTBRnW": {
+          "type": "image",
           "settings": {
-            "video": "shopify://files/videos/Black (Publication LinkedIn).mp4",
-            "mobile_video": "shopify://files/videos/Black (Publication LinkedIn).mp4",
+            "image": "shopify://shop_images/GALA_SITE_e5c29804-7776-4c8a-a334-170bec879eb6.png",
+            "mobile_image": "shopify://shop_images/GALA_SITE_Publication_LinkedIn_fbbda56c-ea02-498b-a873-93431ea55c84.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -36,7 +36,7 @@
         }
       },
       "block_order": [
-        "video_akaHqQ"
+        "image_DTBRnW"
       ],
       "name": "Slideshow",
       "settings": {
