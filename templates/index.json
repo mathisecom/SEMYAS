@@ -362,6 +362,33 @@
         "overlay_opacity": 30
       }
     },
+    "before_after_image_iTUhE8": {
+      "type": "before-after-image",
+      "name": "Before/after image",
+      "settings": {
+        "full_width": true,
+        "subheading": "QUALITÉ AUTHENTIQUE, UNIQUE SUR LE MARCHÉ",
+        "title": "SEMYAS, LA QUALITÉ SAUVAGE & AUTHENTIQUE EST NOTRE ENGAGEMENT",
+        "content": "<p><em>TANDIS QUE </em><em><strong>99 % </strong></em><em>DU MARCHÉ EXPLOITE DES </em><em><strong>FIGUIERS CULTIVÉS </strong></em><em>POUR LE RENDEMENT,</em></p><h4><strong> </strong>SEMYAS  A CHOISIT L’ <strong>1 % SAUVAGE</strong> PLUS  RARE & ANCESTRAL</h4><h4></h4><h4></h4><h4> <br/></h4>",
+        "before_image": "shopify://shop_images/4_09d9f336-ea97-4246-ad16-ef6c64abffc2.png",
+        "before_image_mobile": "shopify://shop_images/4_fe5e46f3-b299-4755-8edf-cb02a71fc011.png",
+        "after_image": "shopify://shop_images/3_4ede4e83-8d72-44b3-8b21-6927067c087f.png",
+        "after_image_mobile": "shopify://shop_images/3_d4d0dc15-4ac7-4213-bc1a-c568e82c2421.png",
+        "expand_image": false,
+        "text_position": "center",
+        "before_after_text_position": "top",
+        "before_text": "99 %",
+        "after_text": "1%",
+        "drag_initial_position": 49,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "before_text_color": "#f83a3a",
+        "after_text_color": "#00a341",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
+      }
+    },
     "tabs_F9akK7": {
       "type": "tabs",
       "blocks": {
@@ -682,33 +709,6 @@
         "background": "#f5f5f5",
         "background_gradient": "",
         "text_color": ""
-      }
-    },
-    "before_after_image_iTUhE8": {
-      "type": "before-after-image",
-      "name": "Before/after image",
-      "settings": {
-        "full_width": true,
-        "subheading": "QUALITÉ AUTHENTIQUE, UNIQUE SUR LE MARCHÉ",
-        "title": "SEMYAS, LA QUALITÉ SAUVAGE & AUTHENTIQUE EST NOTRE ENGAGEMENT",
-        "content": "<p><em>TANDIS QUE </em><em><strong>99 % </strong></em><em>DU MARCHÉ EXPLOITE DES </em><em><strong>FIGUIERS CULTIVÉS </strong></em><em>POUR LE RENDEMENT,</em></p><h4><strong> </strong>SEMYAS  A CHOISIT L’ <strong>1 % SAUVAGE</strong> PLUS  RARE & ANCESTRAL</h4><h4></h4><h4></h4><h4> <br/></h4>",
-        "before_image": "shopify://shop_images/4_09d9f336-ea97-4246-ad16-ef6c64abffc2.png",
-        "before_image_mobile": "shopify://shop_images/4_fe5e46f3-b299-4755-8edf-cb02a71fc011.png",
-        "after_image": "shopify://shop_images/3_4ede4e83-8d72-44b3-8b21-6927067c087f.png",
-        "after_image_mobile": "shopify://shop_images/3_d4d0dc15-4ac7-4213-bc1a-c568e82c2421.png",
-        "expand_image": false,
-        "text_position": "center",
-        "before_after_text_position": "top",
-        "before_text": "99 %",
-        "after_text": "1%",
-        "drag_initial_position": 49,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "before_text_color": "#f83a3a",
-        "after_text_color": "#00a341",
-        "drag_cursor_background": "#ffffff",
-        "drag_cursor_color": "#000000"
       }
     },
     "faq": {
@@ -1327,18 +1327,18 @@
     "slideshow_9AjEtT",
     "rich_text_9ghCzA",
     "featured_collection_r8npmj",
+    "rich_text_UaMAVr",
     "scrolling_text_D4NLHg",
     "logo_list_yDWyAJ",
     "multi_column_WKdQNk",
     "image_link_blocks_kTR48m",
     "video_RRw9Va",
+    "before_after_image_iTUhE8",
     "tabs_F9akK7",
-    "rich_text_UaMAVr",
     "custom_liquid_tHjw9m",
     "logo_list_L499tP",
     "text_with_icons_nHa4Qr",
     "text_with_icons_tphdMT",
-    "before_after_image_iTUhE8",
     "faq",
     "text_with_icons_Xj6edW",
     "slideshow_bVABAg",
