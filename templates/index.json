@@ -716,54 +716,59 @@
         "text_color": "#000000"
       }
     },
-    "text_with_icons_tphdMT": {
-      "type": "text-with-icons",
+    "press_ywHeRN": {
+      "type": "press",
       "blocks": {
-        "item_AcqXNN": {
-          "type": "item",
+        "quote_wyWUcc": {
+          "type": "quote",
           "settings": {
-            "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/CREA_1080X1080_-_2026-01-26T145050.070.png",
-            "mobile_icon_width": 52,
-            "icon_width": 52,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Le Problème",
-            "content": "<p>Avec le temps, la <strong>peau perd en fermeté</strong> et <strong>en éclat</strong>. Rides, ridules, taches et déshydratation apparaissent sous l’effet du <strong>vieillissement et du stress oxydatif.</strong></p>"
+            "logo": "shopify://shop_images/GALA_LOGO_cfad5bd3-385b-4cde-bf4b-97cb2f9e2183.png",
+            "logo_width": 100,
+            "author": "les essentiels Printemps 2026",
+            "content": "découvrez une huile précieuse sauvage bio anti-âge régénérante",
+            "show_rating": true,
+            "rating": 5
           }
         },
-        "item_BU6xVq": {
-          "type": "item",
+        "quote_jfyhd9": {
+          "type": "quote",
           "settings": {
-            "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/CREA_1080X1080_-_2026-01-26T145229.343.png",
-            "mobile_icon_width": 52,
-            "icon_width": 52,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Notre Solution",
-            "content": "<p>L’huile Originelle de graines de figue de barbarie sauvage, taux record en vitamine E ( antioxydants) et acides gras essentiels, aide à régénérer la peau, <strong>renforcer sa barrière naturelle et lisser visiblement les signes de l’âge.</strong></p>"
+            "logo": "shopify://shop_images/LOGO_TF1.png",
+            "logo_width": 100,
+            "author": "",
+            "content": "Une huile rare et la plus chère au monde.",
+            "show_rating": true,
+            "rating": 5
+          }
+        },
+        "quote_B77JVY": {
+          "type": "quote",
+          "settings": {
+            "logo": "shopify://shop_images/LOGO_ELLE.png",
+            "logo_width": 100,
+            "author": "",
+            "content": "Huile de graine de figue de barbarie soin anti‑âge naturel.",
+            "show_rating": true,
+            "rating": 5
           }
         }
       },
       "block_order": [
-        "item_AcqXNN",
-        "item_BU6xVq"
+        "quote_wyWUcc",
+        "quote_jfyhd9",
+        "quote_B77JVY"
       ],
-      "disabled": true,
-      "name": "Text with icons",
+      "name": "Press",
       "settings": {
         "full_width": true,
-        "stack_on_mobile": false,
-        "title": "L’HUILE SEMYAS BIO",
-        "heading_tag": "h1",
-        "text_alignment": "center",
-        "icon_spacing": "medium",
-        "background": "#f5f5f5",
+        "content_size": "medium",
+        "background": "",
         "background_gradient": "",
-        "text_color": ""
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
       }
     },
     "faq": {
@@ -1396,7 +1401,7 @@
     "custom_liquid_tHjw9m",
     "logo_list_L499tP",
     "text_with_icons_nHa4Qr",
-    "text_with_icons_tphdMT",
+    "press_ywHeRN",
     "faq",
     "text_with_icons_Xj6edW",
     "slideshow_bVABAg",
