@@ -46,7 +46,7 @@
             "title": "taux exceptionnel en antioxydant",
             "heading_tag": "h3",
             "button_text": "Je découvre",
-            "button_link": "shopify://collections",
+            "button_link": "shopify://collections/all",
             "text_color": "#ffffff",
             "button_background": "#ffffff",
             "button_text_color": "#000000",
