@@ -38,13 +38,35 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/PHOTO_REELE1.jpg",
-            "mobile_image": "shopify://shop_images/PHOTO_REELE1.jpg",
+            "mobile_image": "shopify://shop_images/9_c007aecf-7f61-4e3d-947d-d0a6b25e1080.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "Huile de graines de figue de Barbarie SAUVAGE",
             "title": "taux exceptionnel en antioxydant",
-            "heading_tag": "h0",
+            "heading_tag": "h3",
+            "button_text": "testez",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
+        },
+        "image_4dALLy": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/7_a89cdd36-c858-4b0a-8aac-acb7f56ba09f.png",
+            "mobile_image": "shopify://shop_images/7_24cddd7a-7e16-4308-9216-d95ec6117830.png",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "Quand la nature révèle l’excellence                                 puissance sauvage, efficacité naturelle",
+            "heading_tag": "h3",
             "button_text": "",
             "button_link": "",
             "text_color": "#ffffff",
@@ -59,7 +81,8 @@
       },
       "block_order": [
         "image_DTBRnW",
-        "image_JjWznA"
+        "image_JjWznA",
+        "image_4dALLy"
       ],
       "name": "Slideshow",
       "settings": {
@@ -67,9 +90,9 @@
         "allow_transparent_header": true,
         "show_initial_transition": false,
         "image_size": "auto",
-        "controls_type": "none",
+        "controls_type": "dots",
         "transition_type": "fade_with_text",
-        "autoplay": true,
+        "autoplay": false,
         "cycle_speed": 4,
         "background": "#f2f2f2",
         "background_gradient": ""
