@@ -796,6 +796,7 @@
         "166442457738b23caf-1",
         "166442457738b23caf-2"
       ],
+      "disabled": true,
       "settings": {
         "full_width": false,
         "subheading": "",
@@ -872,6 +873,7 @@
         "item_rwVgYd",
         "item_j8tgXW"
       ],
+      "disabled": true,
       "name": "Text with icons",
       "settings": {
         "full_width": true,
@@ -1354,6 +1356,7 @@
         "item_iACx9b",
         "item_pekqeU"
       ],
+      "disabled": true,
       "name": "FAQ",
       "settings": {
         "full_width": true,
