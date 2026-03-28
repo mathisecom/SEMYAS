@@ -554,7 +554,7 @@
           "type": "quote",
           "settings": {
             "logo": "shopify://shop_images/GALA_LOGO_cfad5bd3-385b-4cde-bf4b-97cb2f9e2183.png",
-            "logo_width": 100,
+            "logo_width": 150,
             "author": "les essentiels Printemps 2026",
             "content": "découvrez SEMYAS BIO une huile précieuse sauvage bio anti-âge régénérante",
             "show_rating": false,
@@ -565,7 +565,7 @@
           "type": "quote",
           "settings": {
             "logo": "shopify://shop_images/LOGO_TF1.png",
-            "logo_width": 100,
+            "logo_width": 150,
             "author": "",
             "content": "Une huile anti-âges rare et la plus chère au monde.",
             "show_rating": false,
@@ -576,7 +576,7 @@
           "type": "quote",
           "settings": {
             "logo": "shopify://shop_images/LOGO_ELLE.png",
-            "logo_width": 100,
+            "logo_width": 150,
             "author": "",
             "content": "Huile de graines de figue de barbarie soin anti‑âge naturel.",
             "show_rating": false,
