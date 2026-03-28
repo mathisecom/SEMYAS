@@ -591,8 +591,8 @@
       ],
       "name": "Press",
       "settings": {
-        "full_width": true,
-        "content_size": "fill",
+        "full_width": false,
+        "content_size": "medium",
         "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
