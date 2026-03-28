@@ -15,11 +15,11 @@
         "image_DTBRnW": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/GALA_SITE_e5c29804-7776-4c8a-a334-170bec879eb6.png",
+            "image": "shopify://shop_images/1_de89186c-6e51-4372-b2fb-6c3a50d3983d.png",
             "mobile_image": "shopify://shop_images/site_HERITAGE_Publication_LinkedIn_42234e65-d965-4bf1-b391-8b0dc3cd69ba.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-end-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "desktop_text_position": "sm:place-self-end-center sm:text-center",
             "subheading": "",
             "title": "",
             "heading_tag": "h6",
@@ -37,7 +37,7 @@
         "image_JjWznA": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/4_a56d774e-6eae-4bd1-b54e-281d569e6f5d.png",
+            "image": "shopify://shop_images/2_536b7831-d3ba-4bab-b72e-d569140058df.png",
             "mobile_image": "shopify://shop_images/9_c007aecf-7f61-4e3d-947d-d0a6b25e1080.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
