@@ -33,10 +33,33 @@
             "background": "",
             "background_gradient": ""
           }
+        },
+        "image_JjWznA": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/PHOTO_REELE1.jpg",
+            "mobile_image": "shopify://shop_images/PHOTO_REELE1.jpg",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "Huile de graines de figue de Barbarie SAUVAGE",
+            "title": "taux exceptionnel en antioxydant",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
         }
       },
       "block_order": [
-        "image_DTBRnW"
+        "image_DTBRnW",
+        "image_JjWznA"
       ],
       "name": "Slideshow",
       "settings": {
