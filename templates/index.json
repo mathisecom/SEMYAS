@@ -37,7 +37,7 @@
         "image_JjWznA": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/PHOTO_REELE1.jpg",
+            "image": "shopify://shop_images/4_a56d774e-6eae-4bd1-b54e-281d569e6f5d.png",
             "mobile_image": "shopify://shop_images/9_c007aecf-7f61-4e3d-947d-d0a6b25e1080.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
@@ -59,7 +59,7 @@
         "image_4dALLy": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/7_a89cdd36-c858-4b0a-8aac-acb7f56ba09f.png",
+            "image": "shopify://shop_images/4_96d45503-451c-4185-b3a8-ae834752059b.png",
             "mobile_image": "shopify://shop_images/7_24cddd7a-7e16-4308-9216-d95ec6117830.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
@@ -67,8 +67,8 @@
             "subheading": "",
             "title": "Quand la nature révèle l’excellence                                 puissance sauvage, efficacité naturelle",
             "heading_tag": "h3",
-            "button_text": "",
-            "button_link": "",
+            "button_text": "BOUTIQUE SAUVAGE",
+            "button_link": "shopify://collections/all",
             "text_color": "#ffffff",
             "button_background": "#ffffff",
             "button_text_color": "#000000",
