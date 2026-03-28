@@ -547,6 +547,61 @@
         "text_color": ""
       }
     },
+    "press_ywHeRN": {
+      "type": "press",
+      "blocks": {
+        "quote_wyWUcc": {
+          "type": "quote",
+          "settings": {
+            "logo": "shopify://shop_images/GALA_LOGO_cfad5bd3-385b-4cde-bf4b-97cb2f9e2183.png",
+            "logo_width": 100,
+            "author": "les essentiels Printemps 2026",
+            "content": "découvrez une huile précieuse sauvage bio anti-âge régénérante",
+            "show_rating": false,
+            "rating": 5
+          }
+        },
+        "quote_jfyhd9": {
+          "type": "quote",
+          "settings": {
+            "logo": "shopify://shop_images/LOGO_TF1.png",
+            "logo_width": 100,
+            "author": "",
+            "content": "Une huile anti-âges rare et la plus chère au monde.",
+            "show_rating": false,
+            "rating": 5
+          }
+        },
+        "quote_B77JVY": {
+          "type": "quote",
+          "settings": {
+            "logo": "shopify://shop_images/LOGO_ELLE.png",
+            "logo_width": 100,
+            "author": "",
+            "content": "Huile de graine de figue de barbarie soin anti‑âge naturel.",
+            "show_rating": true,
+            "rating": 5
+          }
+        }
+      },
+      "block_order": [
+        "quote_wyWUcc",
+        "quote_jfyhd9",
+        "quote_B77JVY"
+      ],
+      "name": "Press",
+      "settings": {
+        "full_width": true,
+        "content_size": "fill",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
     "logo_list_L499tP": {
       "type": "logo-list",
       "blocks": {
@@ -714,61 +769,6 @@
         "background": "#f2f2f2",
         "background_gradient": "",
         "text_color": "#000000"
-      }
-    },
-    "press_ywHeRN": {
-      "type": "press",
-      "blocks": {
-        "quote_wyWUcc": {
-          "type": "quote",
-          "settings": {
-            "logo": "shopify://shop_images/GALA_LOGO_cfad5bd3-385b-4cde-bf4b-97cb2f9e2183.png",
-            "logo_width": 100,
-            "author": "les essentiels Printemps 2026",
-            "content": "découvrez une huile précieuse sauvage bio anti-âge régénérante",
-            "show_rating": true,
-            "rating": 5
-          }
-        },
-        "quote_jfyhd9": {
-          "type": "quote",
-          "settings": {
-            "logo": "shopify://shop_images/LOGO_TF1.png",
-            "logo_width": 100,
-            "author": "",
-            "content": "Une huile rare et la plus chère au monde.",
-            "show_rating": true,
-            "rating": 5
-          }
-        },
-        "quote_B77JVY": {
-          "type": "quote",
-          "settings": {
-            "logo": "shopify://shop_images/LOGO_ELLE.png",
-            "logo_width": 100,
-            "author": "",
-            "content": "Huile de graine de figue de barbarie soin anti‑âge naturel.",
-            "show_rating": true,
-            "rating": 5
-          }
-        }
-      },
-      "block_order": [
-        "quote_wyWUcc",
-        "quote_jfyhd9",
-        "quote_B77JVY"
-      ],
-      "name": "Press",
-      "settings": {
-        "full_width": true,
-        "content_size": "fill",
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "logo_item_background": "",
-        "logo_item_border": ""
       }
     },
     "faq": {
