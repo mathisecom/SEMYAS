@@ -95,6 +95,46 @@
         "product_card_text_color": ""
       }
     },
+    "rich_text_UaMAVr": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Yg69Tx": {
+          "type": "heading",
+          "settings": {
+            "text": "HUILE ORIGINELLE DE GRAINES DE FIGUE DE BARBARIE SAUVAGE BIO",
+            "heading_tag": "h4",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_yDwcDY": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><br/>Huile incomparable<strong>*</strong>, issue de son terroir natal d'exception — un terroir préservé où chaque goutte concentre la force d’un savoir-faire ancestral. Sa qualité, intacte depuis des générations, révèle des notes profondes et une texture veloutée qui caresse la peau et l’âme. Inspirée par les rituels et les soins des lignées royales aztèques, cette huile célèbre le lien entre nature et cérémonie : gestes précis, respect des matières premières, attention sacrée au détail. Utilisée en offrande ou en soin, elle invite à un moment de recueillement et de beauté authentique, comme une transmission vivante d’héritage et d’élégance. Pure, noble et rare, elle transforme l’ordinaire en un rituel précieux.<br/><br/></p>"
+          }
+        },
+        "richtext_dpXgEq": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><em><br/></em><em><strong>*À distinguer des huiles de figues de barbarie vendues couramment, souvent cultivées à 99 % pour maximiser le rendement au détriment de la qualité.</strong></em><em><br/><br/></em></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Yg69Tx",
+        "richtext_yDwcDY",
+        "richtext_dpXgEq"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "large",
+        "text_position": "center",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "scrolling_text_D4NLHg": {
       "type": "scrolling-text",
       "name": "Scrolling text",
@@ -137,12 +177,21 @@
             "logo_width": 300,
             "link": ""
           }
+        },
+        "logo_9GGATD": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/CREA_1080X1080_-_2026-01-22T221136.650.jpg",
+            "logo_width": 120,
+            "link": ""
+          }
         }
       },
       "block_order": [
         "logo_f9RRfM",
         "logo_fnNHJm",
-        "logo_XTkKEY"
+        "logo_XTkKEY",
+        "logo_9GGATD"
       ],
       "name": "Logo list",
       "settings": {
@@ -436,46 +485,6 @@
         "text_color": "",
         "heading_color": "#1a1a1a",
         "heading_gradient": ""
-      }
-    },
-    "rich_text_UaMAVr": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_Yg69Tx": {
-          "type": "heading",
-          "settings": {
-            "text": "HUILE ORIGINELLE DE GRAINES DE FIGUE DE BARBARIE SAUVAGE BIO",
-            "heading_tag": "h4",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "richtext_yDwcDY": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p><br/>Huile incomparable<strong>*</strong>, issue de son terroir natal d'exception — un terroir préservé où chaque goutte concentre la force d’un savoir-faire ancestral. Sa qualité, intacte depuis des générations, révèle des notes profondes et une texture veloutée qui caresse la peau et l’âme. Inspirée par les rituels et les soins des lignées royales aztèques, cette huile célèbre le lien entre nature et cérémonie : gestes précis, respect des matières premières, attention sacrée au détail. Utilisée en offrande ou en soin, elle invite à un moment de recueillement et de beauté authentique, comme une transmission vivante d’héritage et d’élégance. Pure, noble et rare, elle transforme l’ordinaire en un rituel précieux.<br/><br/></p>"
-          }
-        },
-        "richtext_dpXgEq": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p><em><br/></em><em><strong>*À distinguer des huiles de figues de barbarie vendues couramment, souvent cultivées à 99 % pour maximiser le rendement au détriment de la qualité.</strong></em><em><br/><br/></em></p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_Yg69Tx",
-        "richtext_yDwcDY",
-        "richtext_dpXgEq"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "large",
-        "text_position": "center",
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": ""
       }
     },
     "custom_liquid_tHjw9m": {
