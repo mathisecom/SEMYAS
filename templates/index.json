@@ -12,6 +12,27 @@
     "slideshow_9AjEtT": {
       "type": "slideshow",
       "blocks": {
+        "video_FdaHKb": {
+          "type": "video",
+          "settings": {
+            "mobile_video": "shopify://files/videos/heritage sauvage site video mobile.mp4",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "Tell your story",
+            "title": "Slide title",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
+        },
         "image_DTBRnW": {
           "type": "image",
           "settings": {
@@ -80,6 +101,7 @@
         }
       },
       "block_order": [
+        "video_FdaHKb",
         "image_DTBRnW",
         "image_JjWznA",
         "image_4dALLy"
