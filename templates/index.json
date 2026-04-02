@@ -34,28 +34,6 @@
             "background_gradient": ""
           }
         },
-        "image_DTBRnW": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/1_de89186c-6e51-4372-b2fb-6c3a50d3983d.png",
-            "mobile_image": "shopify://shop_images/site_HERITAGE_Publication_LinkedIn_42234e65-d965-4bf1-b391-8b0dc3cd69ba.png",
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-end-center text-center",
-            "desktop_text_position": "sm:place-self-end-center sm:text-center",
-            "subheading": "",
-            "title": "",
-            "heading_tag": "h6",
-            "button_text": "Boutique Sauvage",
-            "button_link": "shopify://collections/all",
-            "text_color": "#dc3107",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#404040",
-            "overlay_opacity": 30,
-            "background": "#f2f2f2",
-            "background_gradient": ""
-          }
-        },
         "image_JjWznA": {
           "type": "image",
           "settings": {
@@ -99,13 +77,35 @@
             "background": "",
             "background_gradient": ""
           }
+        },
+        "image_DTBRnW": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1_de89186c-6e51-4372-b2fb-6c3a50d3983d.png",
+            "mobile_image": "shopify://shop_images/site_HERITAGE_Publication_LinkedIn_42234e65-d965-4bf1-b391-8b0dc3cd69ba.png",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-end-center text-center",
+            "desktop_text_position": "sm:place-self-end-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h6",
+            "button_text": "Boutique Sauvage",
+            "button_link": "shopify://collections/all",
+            "text_color": "#dc3107",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#404040",
+            "overlay_opacity": 30,
+            "background": "#f2f2f2",
+            "background_gradient": ""
+          }
         }
       },
       "block_order": [
         "video_FdaHKb",
-        "image_DTBRnW",
         "image_JjWznA",
-        "image_4dALLy"
+        "image_4dALLy",
+        "image_DTBRnW"
       ],
       "name": "Slideshow",
       "settings": {
