@@ -371,6 +371,39 @@
         "text_gradient": ""
       }
     },
+    "video_RRw9Va": {
+      "type": "video",
+      "blocks": {
+        "heading_dfnrrL": {
+          "type": "heading",
+          "settings": {
+            "text": "",
+            "heading_tag": "h1"
+          }
+        },
+        "play_6NVVMx": {
+          "type": "play",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "heading_dfnrrL",
+        "play_6NVVMx"
+      ],
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "auto",
+        "video": "shopify://files/videos/VIDEO SITE sauvage.mp4",
+        "mobile_video": "shopify://files/videos/VIDEO SITE sauvage.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
     "image_link_blocks_kTR48m": {
       "type": "image-link-blocks",
       "blocks": {
@@ -461,39 +494,6 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": ""
-      }
-    },
-    "video_RRw9Va": {
-      "type": "video",
-      "blocks": {
-        "heading_dfnrrL": {
-          "type": "heading",
-          "settings": {
-            "text": "",
-            "heading_tag": "h1"
-          }
-        },
-        "play_6NVVMx": {
-          "type": "play",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "heading_dfnrrL",
-        "play_6NVVMx"
-      ],
-      "name": "Video",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "autoplay": true,
-        "video_size": "auto",
-        "video": "shopify://files/videos/VIDEO SITE sauvage.mp4",
-        "mobile_video": "shopify://files/videos/VIDEO SITE sauvage.mp4",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
       }
     },
     "before_after_image_iTUhE8": {
@@ -1249,8 +1249,8 @@
     "logo_list_yDWyAJ",
     "rich_text_UaMAVr",
     "scrolling_text_D4NLHg",
-    "image_link_blocks_kTR48m",
     "video_RRw9Va",
+    "image_link_blocks_kTR48m",
     "before_after_image_iTUhE8",
     "tabs_F9akK7",
     "custom_liquid_tHjw9m",
