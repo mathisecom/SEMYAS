@@ -27,7 +27,7 @@
         "text_q9rUW9": {
           "type": "text",
           "settings": {
-            "text": "<p>*4/ 5 GouttesSoin   Huile Sèche Bio par nature </p>"
+            "text": "<p>*4/ 5  Gouttes Soin   Huile Sèche Bio par nature </p>"
           }
         },
         "liquid_HjcQtb": {
@@ -167,6 +167,29 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
+      }
+    },
+    "related_products_HX4qfW": {
+      "type": "related-products",
+      "name": "Related products",
+      "settings": {
+        "recommendations_count": 6,
+        "products": [],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
       }
     },
     "scrolling_text_4KBGbi": {
@@ -828,6 +851,7 @@
   },
   "order": [
     "main",
+    "related_products_HX4qfW",
     "scrolling_text_4KBGbi",
     "media_with_text_ryVKU6",
     "logo_list_dhE7LM",
