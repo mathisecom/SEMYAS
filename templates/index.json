@@ -256,6 +256,22 @@
         "text_color": ""
       }
     },
+    "scrolling_text_D4NLHg": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "✓    Non comédogène‎ ‎ ‎ ‎  ‎ ✓    Végan et Bio  ‎ ‎ ‎ ✓    Efficacité Naturelle",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 8,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "text_gradient": ""
+      }
+    },
     "logo_list_yDWyAJ": {
       "type": "logo-list",
       "blocks": {
@@ -353,22 +369,6 @@
         "background": "#ffffff",
         "background_gradient": "",
         "text_color": ""
-      }
-    },
-    "scrolling_text_D4NLHg": {
-      "type": "scrolling-text",
-      "name": "Scrolling text",
-      "settings": {
-        "full_width": true,
-        "text": "✓    Non comédogène‎ ‎ ‎ ‎  ‎ ✓    Végan et Bio  ‎ ‎ ‎ ✓    Efficacité Naturelle",
-        "text_size": "xsmall",
-        "text_style": "fill",
-        "scrolling_mode": "auto",
-        "scrolling_speed": 8,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "text_gradient": ""
       }
     },
     "video_RRw9Va": {
@@ -1246,9 +1246,9 @@
     "scrolling_text_7j4eMw",
     "featured_collection_r8npmj",
     "multi_column_WKdQNk",
+    "scrolling_text_D4NLHg",
     "logo_list_yDWyAJ",
     "rich_text_UaMAVr",
-    "scrolling_text_D4NLHg",
     "video_RRw9Va",
     "image_link_blocks_kTR48m",
     "before_after_image_iTUhE8",
