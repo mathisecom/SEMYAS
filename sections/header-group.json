@@ -24,7 +24,7 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Livraison Offerte ! -15% boutique code GALAZTEC15",
+            "text": "Livraison Offerte !",
             "url": ""
           }
         }
@@ -48,7 +48,7 @@
     "header": {
       "type": "header",
       "blocks": {
-        "mega_menu_gKztjG": {
+        "mega_menu_DrULgi": {
           "type": "mega_menu",
           "settings": {
             "menu_item": "",
@@ -73,7 +73,7 @@
         }
       },
       "block_order": [
-        "mega_menu_gKztjG"
+        "mega_menu_DrULgi"
       ],
       "settings": {
         "enable_sticky": true,
