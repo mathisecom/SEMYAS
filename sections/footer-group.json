@@ -74,16 +74,6 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "newsletter": {
-          "type": "newsletter",
-          "settings": {
-            "image": "shopify://shop_images/SEMYAS_LOGO_2.png",
-            "image_width": 280,
-            "heading_size": "h3",
-            "title": "Newsletters",
-            "content": ""
-          }
-        },
         "text_PFqg4Q": {
           "type": "text",
           "settings": {
@@ -110,7 +100,6 @@
         }
       },
       "block_order": [
-        "newsletter",
         "text_PFqg4Q",
         "links_YCCW4z",
         "text"
