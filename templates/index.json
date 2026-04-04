@@ -180,6 +180,82 @@
         "product_card_text_color": ""
       }
     },
+    "multi_column_WKdQNk": {
+      "type": "multi-column",
+      "blocks": {
+        "item_Cd6aUp": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/22_8f1663b8-d873-4b18-a814-838a0396b79a.png",
+            "column_size": "4",
+            "title": "Anti-Âge Intense & Antioxydant Puissant",
+            "heading_tag": "h3",
+            "content": "<p>Riche en <em><strong>VITAMINE E un taux record</strong></em><em>,</em> cette huile aide à lutter contre le stress oxydatif, à préserver la jeunesse de la peau et à améliorer l’apparence des ridules tout en renforçant la barrière cutanée.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_TqaBmD": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/20_ff051061-378c-4eff-bdd2-a979bad9c1f3.png",
+            "column_size": "4",
+            "title": "Réparation Ciblée & Éclat Uniforme",
+            "heading_tag": "h3",
+            "content": "<p>Idéale pour les <em><strong>CERNES</strong></em>,<em><strong>TACHES </strong></em>et peaux à <em><strong>IMPERFECTIONS</strong></em>, elle favorise le renouvellement cellulaire, apaise la peau et aide à restaurer son équilibre naturel face aux agressions extérieures.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_3LTJMm": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/19_949f80ae-8790-469a-a1d5-2fbea34ad0b4.png",
+            "column_size": "4",
+            "title": "Hydratation Profonde & Nutrition Durable",
+            "heading_tag": "h3",
+            "content": "<p>Grâce à sa forte teneur en oméga-6 et oméga-9, elle<em> </em><em><strong>NOURRIT INTENSEMENT</strong></em> la peau, limite la déshydratation et laisse le teint plus souple, lumineux et confortable sans effet gras.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_yD4dR9": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/21_ca32d5c5-d295-4e03-b1c4-fa534a19d540.png",
+            "column_size": "4",
+            "title": "Soin Régénérant pour Cheveux Abîmés",
+            "heading_tag": "h3",
+            "content": "<p>Quelques gouttes suffisent pour <strong>nourrir la fibre capillaire,</strong> réduire frisottis et pointes sèches, renforcer la cuticule et redonner brillance, douceur et vitalité aux cheveux fragilisés.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_Cd6aUp",
+        "item_TqaBmD",
+        "item_3LTJMm",
+        "item_yD4dR9"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Quand la Nature Offre l'Excellence                                   PUISSANCE SAUVAGE,                                           EFFICACITÉ NATURELLE",
+        "content": "<p><strong>formulé exclusivement par la nature</strong></p><p>Elle rassemble avec intelligence des <em>actifs puissants</em>, complémentaires et profondément<em> respectueux de la peau</em>.Cette synergie se révèle en une chorégraphie harmonieuse : chaque actif                                                                                                                               <em>Antioxydant, Apaisant ou Restructurant </em>— apporte sa spécificité et potentialise naturellement l’action des autres.<br/><em>huile ultra‑concentrée biologique</em>, riche en vitamines E, C, D et K, en acides gras, en tocophérols et en stérols naturels, qui nourrit et répare la peau et les cheveux ; formulée pour tous types de peaux et de cheveux.<br/><br/></p>",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "rich_text_UaMAVr": {
       "type": "rich-text",
       "blocks": {
@@ -215,7 +291,7 @@
         "full_width": true,
         "content_width": "large",
         "text_position": "center",
-        "background": "#ffffff",
+        "background": "#f2f2f2",
         "background_gradient": "",
         "text_color": ""
       }
@@ -293,82 +369,6 @@
         "heading_gradient": "",
         "logo_item_background": "#ececec",
         "logo_item_border": ""
-      }
-    },
-    "multi_column_WKdQNk": {
-      "type": "multi-column",
-      "blocks": {
-        "item_Cd6aUp": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/22_8f1663b8-d873-4b18-a814-838a0396b79a.png",
-            "column_size": "4",
-            "title": "Anti-Âge Intense & Antioxydant Puissant",
-            "heading_tag": "h3",
-            "content": "<p>Riche en <em><strong>VITAMINE E un taux record</strong></em><em>,</em> cette huile aide à lutter contre le stress oxydatif, à préserver la jeunesse de la peau et à améliorer l’apparence des ridules tout en renforçant la barrière cutanée.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_TqaBmD": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/20_ff051061-378c-4eff-bdd2-a979bad9c1f3.png",
-            "column_size": "4",
-            "title": "Réparation Ciblée & Éclat Uniforme",
-            "heading_tag": "h3",
-            "content": "<p>Idéale pour les <em><strong>CERNES</strong></em>,<em><strong>TACHES </strong></em>et peaux à <em><strong>IMPERFECTIONS</strong></em>, elle favorise le renouvellement cellulaire, apaise la peau et aide à restaurer son équilibre naturel face aux agressions extérieures.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_3LTJMm": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/19_949f80ae-8790-469a-a1d5-2fbea34ad0b4.png",
-            "column_size": "4",
-            "title": "Hydratation Profonde & Nutrition Durable",
-            "heading_tag": "h3",
-            "content": "<p>Grâce à sa forte teneur en oméga-6 et oméga-9, elle<em> </em><em><strong>NOURRIT INTENSEMENT</strong></em> la peau, limite la déshydratation et laisse le teint plus souple, lumineux et confortable sans effet gras.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_yD4dR9": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/21_ca32d5c5-d295-4e03-b1c4-fa534a19d540.png",
-            "column_size": "4",
-            "title": "Soin Régénérant pour Cheveux Abîmés",
-            "heading_tag": "h3",
-            "content": "<p>Quelques gouttes suffisent pour <strong>nourrir la fibre capillaire,</strong> réduire frisottis et pointes sèches, renforcer la cuticule et redonner brillance, douceur et vitalité aux cheveux fragilisés.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_Cd6aUp",
-        "item_TqaBmD",
-        "item_3LTJMm",
-        "item_yD4dR9"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "Quand la Nature Offre l'Excellence                                   PUISSANCE SAUVAGE,                                           EFFICACITÉ NATURELLE",
-        "content": "<p><strong>formulé exclusivement par la nature</strong></p><p>Elle rassemble avec intelligence des <em>actifs puissants</em>, complémentaires et profondément<em> respectueux de la peau</em>.Cette synergie se révèle en une chorégraphie harmonieuse : chaque actif                                                                                                                               <em>Antioxydant, Apaisant ou Restructurant </em>— apporte sa spécificité et potentialise naturellement l’action des autres.<br/><em>huile ultra‑concentrée biologique</em>, riche en vitamines E, C, D et K, en acides gras, en tocophérols et en stérols naturels, qui nourrit et répare la peau et les cheveux ; formulée pour tous types de peaux et de cheveux.<br/><br/></p>",
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": ""
       }
     },
     "image_link_blocks_kTR48m": {
@@ -1245,10 +1245,10 @@
     "rich_text_9ghCzA",
     "scrolling_text_7j4eMw",
     "featured_collection_r8npmj",
+    "multi_column_WKdQNk",
     "rich_text_UaMAVr",
     "scrolling_text_D4NLHg",
     "logo_list_yDWyAJ",
-    "multi_column_WKdQNk",
     "image_link_blocks_kTR48m",
     "video_RRw9Va",
     "before_after_image_iTUhE8",
