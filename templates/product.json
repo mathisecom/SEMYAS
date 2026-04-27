@@ -169,6 +169,70 @@
         "input_text_color": ""
       }
     },
+    "slideshow_bmrfiw": {
+      "type": "slideshow",
+      "blocks": {
+        "image_xHFjRz": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ecocert_cosmos_v4_site.png",
+            "mobile_image": "shopify://shop_images/ecocert_cosmos_v4_site.png",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
+        },
+        "image_ET3QqR": {
+          "type": "image",
+          "settings": {
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "Tell your story",
+            "title": "Slide 2",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_xHFjRz",
+        "image_ET3QqR"
+      ],
+      "name": "Slideshow",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "show_initial_transition": false,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#F2F2F2",
+        "background_gradient": ""
+      }
+    },
     "related_products_HX4qfW": {
       "type": "related-products",
       "name": "Related products",
@@ -851,6 +915,7 @@
   },
   "order": [
     "main",
+    "slideshow_bmrfiw",
     "related_products_HX4qfW",
     "scrolling_text_4KBGbi",
     "media_with_text_ryVKU6",
