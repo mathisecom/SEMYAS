@@ -167,11 +167,11 @@
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 3,
         "subheading": "",
-        "title": "SOIN ANTI-ÂGE D'EXCEPTION À L'ÉTAT SAUVAGE   disponible uniquement chez SEMYAS BIO",
+        "title": "SOIN PUISSANT ANTI-ÂGE D'EXCEPTION À L'ÉTAT SAUVAGE   disponible uniquement chez SEMYAS bio",
         "content": "<h6><em>huile </em>sèche<em> ultra concentrée 4/5 gouttes </em><em><strong><br/></strong></em></h6>",
         "link_url": "",
         "link_text": "Meilleures Ventes",
-        "background": "#f5f5f5",
+        "background": "#FDFDFD",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
@@ -1003,34 +1003,10 @@
             "button_background": "#000000",
             "button_text_color": "#ffffff"
           }
-        },
-        "image_hK4fWB": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/ecocert_cosmos_v4_site.png",
-            "media_width": 50,
-            "media_position": "start",
-            "text_position": "place-self-center text-center",
-            "icon": "none",
-            "custom_icon": "shopify://shop_images/1_70dd26f6-9b59-438b-85ae-1fa246df8504.png",
-            "icon_width": 76,
-            "subheading": "",
-            "title": "MEFIEZ-VOUS : FAUSSE CERTIFICATION — CONTRÔLEZ L'ORIGINE ET L'AUTHENTICITÉ",
-            "content": "<h2>Certifications</h2><p><strong>Certifié biologique</strong> par Ecocert Greenlife selon la norme COSMOS disponible sur :<br/><br/>http://COSMOS.ecocert.com</p><p><strong>Ecocert</strong> SAS MX BIO-154.</p><p><strong>Opérateur</strong> 161181</p><p><a href=\"https://www.ecocert.com/es/detaile-de-certification/cosmeticos-org%C3%A1nicos-o-naturales-cosmos-\" target=\"_blank\" title=\"https://certificat.ecocert.com/\"><strong><br/></strong></a>Cosmos Organic garantissent des produits biologiques et écologiques de haute qualité. Elles assurent la transparence concernant les ingrédients et les pratiques de fabrication durables, favorisant ainsi la préservation de la biodiversité et le bien-être des petits producteurs.</p><p><br/>En choisissant des produits certifiés, les consommateurs soutiennent une économie éthique et contribuent à un avenir durable, tout en prenant soin de leur santé et de la planète.</p>",
-            "link_text": "LIEN OFFICIEL ECOCERT : VÉRIFIEZ L'AUTHENTICITÉ AVANT ACHAT",
-            "link_url": "https://certificat.ecocert.com/",
-            "background": "#ececec",
-            "background_gradient": "",
-            "text_color": "#000000",
-            "text_gradient": "",
-            "button_background": "#1a1a1a",
-            "button_text_color": "#f83a3a"
-          }
         }
       },
       "block_order": [
-        "image_7PWktd",
-        "image_hK4fWB"
+        "image_7PWktd"
       ],
       "name": "Media with text",
       "settings": {
