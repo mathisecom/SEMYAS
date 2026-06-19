@@ -77,35 +77,12 @@
             "background": "",
             "background_gradient": ""
           }
-        },
-        "image_yQ36bx": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/DRAPEAU_MEXIQUE.png",
-            "mobile_image": "shopify://shop_images/DRAPEAU_MEXIQUE.png",
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "",
-            "title": "",
-            "heading_tag": "h0",
-            "button_text": "",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30,
-            "background": "",
-            "background_gradient": ""
-          }
         }
       },
       "block_order": [
         "video_FdaHKb",
         "image_JjWznA",
-        "image_4dALLy",
-        "image_yQ36bx"
+        "image_4dALLy"
       ],
       "name": "Slideshow",
       "settings": {
