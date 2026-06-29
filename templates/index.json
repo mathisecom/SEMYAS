@@ -115,14 +115,14 @@
       "name": "Scrolling text",
       "settings": {
         "full_width": true,
-        "text": "DÉCOUVREZ L'EXCEPTION -15 % avec le code GALAZTEC15 Offre limitée.",
+        "text": "Récolte sauvage • Stocks naturellement limités",
         "text_size": "xsmall",
         "text_style": "fill",
         "scrolling_mode": "auto",
         "scrolling_speed": 10,
         "background": "#ffffff",
         "background_gradient": "",
-        "text_color": "#a29005",
+        "text_color": "#0F6402",
         "text_gradient": ""
       }
     },
