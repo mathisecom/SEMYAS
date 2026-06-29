@@ -17,7 +17,7 @@
         "message_MdKPjQ": {
           "type": "message",
           "settings": {
-            "text": "HUILE SAUVAGE DES AZTÈQUES UNE RÉCOLTE D'EXCEPTION • DES STOCKS NATURELLEMENT LIMITÉS",
+            "text": "Offre découverte • -15 % avec le code GALAZTEC15",
             "url": "shopify://collections/all"
           }
         },
@@ -42,7 +42,7 @@
         "scrolling_speed": 10,
         "background": "#d8d19b",
         "background_gradient": "",
-        "text_color": "#ffffff"
+        "text_color": "#0F6402"
       }
     },
     "header": {
