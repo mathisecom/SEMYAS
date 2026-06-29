@@ -17,7 +17,7 @@
         "message_MdKPjQ": {
           "type": "message",
           "settings": {
-            "text": "Huile Sauvage Aztèques— Unique sur le marché · Stocks limités",
+            "text": "HUILE SAUVAGE DES AZTÈQUES UNE RÉCOLTE D'EXCEPTION • DES STOCKS NATURELLEMENT LIMITÉS",
             "url": "shopify://collections/all"
           }
         },
@@ -40,7 +40,7 @@
         "text_size": "text-base",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#D8D19B",
+        "background": "#d8d19b",
         "background_gradient": "",
         "text_color": "#ffffff"
       }

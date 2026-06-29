@@ -122,7 +122,7 @@
         "scrolling_speed": 10,
         "background": "#ffffff",
         "background_gradient": "",
-        "text_color": "#A29005",
+        "text_color": "#a29005",
         "text_gradient": ""
       }
     },
@@ -144,11 +144,11 @@
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 3,
         "subheading": "",
-        "title": "PUISSANT SOIN  ANTI-ÂGE D’EXCEPTION À L’ÉTAT SAUVAGE",
-        "content": "<h6>Formulé exclusivement par la nature sauvage Né au cœur du Mexique et inspiré de la sagesse millénaire des Aztèques</h6><h6><br/><em>huile </em>sèche<em> ultra concentrée 4/5 gouttes </em><em><strong><br/></strong></em></h6>",
+        "title": "L'ANTI-ÂGE SAUVAGE. L'ESSENCE D'UN SAVOIR ANCESTRAL",
+        "content": "<p><strong>FORMULÉ EXCLUSIVEMENT PAR LA NATURE SAUVAGE. NÉ AU CŒUR DU MEXIQUE. INSPIRÉ D'UN HÉRITAGE AZTÈQUE MILLÉNAIRE</strong></p><h6><br/><em>huile </em>sèche<em> ultra concentrée 4/5 gouttes </em><em><strong><br/></strong></em></h6>",
         "link_url": "",
         "link_text": "Meilleures Ventes",
-        "background": "#FDFDFD",
+        "background": "#fdfdfd",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
