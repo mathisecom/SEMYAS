@@ -40,7 +40,7 @@
         "text_size": "text-base",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#d8d19b",
+        "background": "#FDFDFD",
         "background_gradient": "",
         "text_color": "#0F6402"
       }
