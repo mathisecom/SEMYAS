@@ -126,8 +126,8 @@
           "type": "button",
           "settings": {
             "style": "outline",
-            "size": "base",
-            "text": "LA COLLECTION ORIGINELLE",
+            "size": "lg",
+            "text": "LA COLLECTION",
             "url": "shopify://collections/all",
             "background": "#3F3D3D",
             "text_color": "#3F3D3D"
