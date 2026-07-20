@@ -15,7 +15,7 @@
         "video_FdaHKb": {
           "type": "video",
           "settings": {
-            "video": "shopify://files/videos/SITE sauvage (Vidéo mobile).mp4",
+            "video": "shopify://files/videos/SITE sauvage (Vidéo).mp4",
             "mobile_video": "shopify://files/videos/SITE sauvage (Vidéo mobile).mp4",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center-end text-end",
