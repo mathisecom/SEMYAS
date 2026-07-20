@@ -104,14 +104,14 @@
         "subheading_JURnC8": {
           "type": "subheading",
           "settings": {
-            "text": "Unique sur Marché"
+            "text": ""
           }
         },
         "heading_QwxTYe": {
           "type": "heading",
           "settings": {
-            "text": "Huile Originelle de Graines de Figue de Barbarie Sauvage 100 % Pure  Origine Mexique Issue de la souche ancestrale",
-            "heading_tag": "h2",
+            "text": "",
+            "heading_tag": "h4",
             "text_color": "",
             "gradient": ""
           }
@@ -119,7 +119,7 @@
         "richtext_8xkMYJ": {
           "type": "richtext",
           "settings": {
-            "content": ""
+            "content": "<h4><strong>Huile Originelle de Graines de Figue de Barbarie Sauvage         </strong></h4><h4><em>100 % Pure  Origine Mexique Issue de la souche ancestrale</em></h4>"
           }
         }
       },
