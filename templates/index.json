@@ -157,7 +157,7 @@
         "products_per_row_desktop": 3,
         "subheading": "",
         "title": "",
-        "content": "<h2><strong>L'ANTI-ÂGE D'EXCEPTION</strong></h2><h4><em>L'ESSENCE D'UN SAVOIR ANCESTRAL</em></h4><h4><em>Héritière d'un savoir millénaire des civilisations Aztèque et Maya.</em></h4><p><em>huile sèche ultra concentrée 4/5 gouttes </em><em><strong><br/></strong></em></p>",
+        "content": "<h2><strong>L'ANTI-ÂGE D'EXCEPTION</strong></h2><p><em><strong>L'héritage millénaire des civilisations aztèque et maya</strong></em><br/><em>huile sèche ultra concentrée 4/5 gouttes </em><em><strong><br/></strong></em></p>",
         "link_url": "",
         "link_text": "Meilleures Ventes",
         "background": "#fdfdfd",
@@ -235,7 +235,7 @@
       "settings": {
         "full_width": false,
         "stack_on_mobile": false,
-        "gap": "medium",
+        "gap": "small",
         "text_alignment": "center",
         "subheading": "",
         "title": "Huile Originelle de Graines de Figue de Barbarie Sauvage Bio",

@@ -24,7 +24,7 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Livraison Offerte",
+            "text": "Livraison Offerte !",
             "url": ""
           }
         }
@@ -40,9 +40,9 @@
         "text_size": "text-base",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#FDFDFD",
+        "background": "#fdfdfd",
         "background_gradient": "",
-        "text_color": "#0F6402"
+        "text_color": "#0f6402"
       }
     },
     "header": {
