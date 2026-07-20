@@ -16,7 +16,7 @@
           "type": "video",
           "settings": {
             "video": "shopify://files/videos/heritage sauvage site (Vidéo)_ce64271a-95f1-4d4e-8b00-75abf3269731.mp4",
-            "mobile_video": "shopify://files/videos/site heritage sauvage (Vidéo mobile).mp4",
+            "mobile_video": "shopify://files/videos/SITE sauvage (Vidéo mobile).mp4",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center-end text-end",
             "desktop_text_position": "sm:place-self-end-center sm:text-center",
