@@ -129,8 +129,8 @@
             "size": "base",
             "text": "LA COLLECTION ORIGINELLE",
             "url": "shopify://collections/all",
-            "background": "#F1F1F1",
-            "text_color": "#3F3D3D"
+            "background": "#3F3D3D",
+            "text_color": "#FDFDFD"
           }
         }
       },
