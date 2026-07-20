@@ -245,6 +245,61 @@
         "text_color": ""
       }
     },
+    "press_ywHeRN": {
+      "type": "press",
+      "blocks": {
+        "quote_wyWUcc": {
+          "type": "quote",
+          "settings": {
+            "logo": "shopify://shop_images/GALA_LOGO_cfad5bd3-385b-4cde-bf4b-97cb2f9e2183.png",
+            "logo_width": 150,
+            "author": "les essentiels Printemps 2026",
+            "content": "découvrez SEMYAS BIO une huile précieuse sauvage bio anti-âge régénérante",
+            "show_rating": false,
+            "rating": 5
+          }
+        },
+        "quote_jfyhd9": {
+          "type": "quote",
+          "settings": {
+            "logo": "shopify://shop_images/LOGO_TF1.png",
+            "logo_width": 150,
+            "author": "",
+            "content": "Une huile anti-âge rare et la plus chère au monde.",
+            "show_rating": false,
+            "rating": 5
+          }
+        },
+        "quote_B77JVY": {
+          "type": "quote",
+          "settings": {
+            "logo": "shopify://shop_images/LOGO_ELLE.png",
+            "logo_width": 150,
+            "author": "",
+            "content": "Huile de graines de figue de barbarie soin anti‑âge naturel.",
+            "show_rating": false,
+            "rating": 5
+          }
+        }
+      },
+      "block_order": [
+        "quote_wyWUcc",
+        "quote_jfyhd9",
+        "quote_B77JVY"
+      ],
+      "name": "Press",
+      "settings": {
+        "full_width": false,
+        "content_size": "medium",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
     "before_after_image_iTUhE8": {
       "type": "before-after-image",
       "name": "Before/after image",
@@ -419,61 +474,6 @@
         "background": "#ffffff",
         "background_gradient": "",
         "text_color": ""
-      }
-    },
-    "press_ywHeRN": {
-      "type": "press",
-      "blocks": {
-        "quote_wyWUcc": {
-          "type": "quote",
-          "settings": {
-            "logo": "shopify://shop_images/GALA_LOGO_cfad5bd3-385b-4cde-bf4b-97cb2f9e2183.png",
-            "logo_width": 150,
-            "author": "les essentiels Printemps 2026",
-            "content": "découvrez SEMYAS BIO une huile précieuse sauvage bio anti-âge régénérante",
-            "show_rating": false,
-            "rating": 5
-          }
-        },
-        "quote_jfyhd9": {
-          "type": "quote",
-          "settings": {
-            "logo": "shopify://shop_images/LOGO_TF1.png",
-            "logo_width": 150,
-            "author": "",
-            "content": "Une huile anti-âge rare et la plus chère au monde.",
-            "show_rating": false,
-            "rating": 5
-          }
-        },
-        "quote_B77JVY": {
-          "type": "quote",
-          "settings": {
-            "logo": "shopify://shop_images/LOGO_ELLE.png",
-            "logo_width": 150,
-            "author": "",
-            "content": "Huile de graines de figue de barbarie soin anti‑âge naturel.",
-            "show_rating": false,
-            "rating": 5
-          }
-        }
-      },
-      "block_order": [
-        "quote_wyWUcc",
-        "quote_jfyhd9",
-        "quote_B77JVY"
-      ],
-      "name": "Press",
-      "settings": {
-        "full_width": false,
-        "content_size": "medium",
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "logo_item_background": "",
-        "logo_item_border": ""
       }
     },
     "image_link_blocks_kTR48m": {
@@ -1212,12 +1212,12 @@
     "rich_text_CgLXqj",
     "featured_collection_r8npmj",
     "multi_column_WKdQNk",
+    "press_ywHeRN",
     "before_after_image_iTUhE8",
     "video_RRw9Va",
     "scrolling_text_D4NLHg",
     "logo_list_yDWyAJ",
     "rich_text_UaMAVr",
-    "press_ywHeRN",
     "image_link_blocks_kTR48m",
     "tabs_F9akK7",
     "custom_liquid_tHjw9m",
