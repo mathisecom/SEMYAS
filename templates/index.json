@@ -121,12 +121,24 @@
           "settings": {
             "content": "<h4><strong>L'Huile Originelle de Graines de Figue de Barbarie Sauvage</strong><br/><strong>  </strong><em>100 % Pure  Origine Mexique Issue de la Souche Ancestrale               </em></h4><h4><strong>La plus haute concentration en vitamine E sur le marché</strong></h4>"
           }
+        },
+        "button_Bbmf9d": {
+          "type": "button",
+          "settings": {
+            "style": "fill",
+            "size": "xl",
+            "text": "LA COLLECTION ORIGINELLE",
+            "url": "shopify://collections",
+            "background": "#9A9999",
+            "text_color": "#FDFDFD"
+          }
         }
       },
       "block_order": [
         "subheading_JURnC8",
         "heading_QwxTYe",
-        "richtext_8xkMYJ"
+        "richtext_8xkMYJ",
+        "button_Bbmf9d"
       ],
       "name": "Rich text",
       "settings": {
