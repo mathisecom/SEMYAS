@@ -157,39 +157,6 @@
         "product_card_text_color": ""
       }
     },
-    "video_RRw9Va": {
-      "type": "video",
-      "blocks": {
-        "heading_dfnrrL": {
-          "type": "heading",
-          "settings": {
-            "text": "",
-            "heading_tag": "h1"
-          }
-        },
-        "play_6NVVMx": {
-          "type": "play",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "heading_dfnrrL",
-        "play_6NVVMx"
-      ],
-      "name": "Video",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "autoplay": true,
-        "video_size": "auto",
-        "video": "shopify://files/videos/VIDEO SITE sauvage.mp4",
-        "mobile_video": "shopify://files/videos/VIDEO SITE sauvage.mp4",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
-      }
-    },
     "multi_column_WKdQNk": {
       "type": "multi-column",
       "blocks": {
@@ -264,6 +231,66 @@
         "background": "#ffffff",
         "background_gradient": "",
         "text_color": ""
+      }
+    },
+    "before_after_image_iTUhE8": {
+      "type": "before-after-image",
+      "name": "Before/after image",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "",
+        "content": "<h6>SEMYAS, LA QUALITÉ SAUVAGE & AUTHENTIQUE EST NOTRE ENGAGEMENT<br/><em>PURE ET NATURELLE, ELLE VOUS EST LIVRÉE DANS UNE AUTHENTICITÉ ABSOLUE.</em></h6><h5>0%<strong> SOLVANTS <br/></strong>0% <strong>HEXANE</strong> 0% <strong>PESTICIDES</strong> </h5><p>QUALITÉ AUTHENTIQUE, UNIQUE SUR LE MARCHÉ<br/><br/><em><strong>HUILE DE GRAINES DE FIGUE DDE BARBARIE SAUVAGE  MEXIQUE </strong></em></p>",
+        "before_image": "shopify://shop_images/7_24cddd7a-7e16-4308-9216-d95ec6117830.png",
+        "before_image_mobile": "shopify://shop_images/7_24cddd7a-7e16-4308-9216-d95ec6117830.png",
+        "after_image": "shopify://shop_images/22.png",
+        "after_image_mobile": "shopify://shop_images/22.png",
+        "expand_image": false,
+        "text_position": "center",
+        "before_after_text_position": "top",
+        "before_text": "",
+        "after_text": "",
+        "drag_initial_position": 50,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "before_text_color": "#f83a3a",
+        "after_text_color": "#00a341",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
+      }
+    },
+    "video_RRw9Va": {
+      "type": "video",
+      "blocks": {
+        "heading_dfnrrL": {
+          "type": "heading",
+          "settings": {
+            "text": "",
+            "heading_tag": "h1"
+          }
+        },
+        "play_6NVVMx": {
+          "type": "play",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "heading_dfnrrL",
+        "play_6NVVMx"
+      ],
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "auto",
+        "video": "shopify://files/videos/VIDEO SITE sauvage.mp4",
+        "mobile_video": "shopify://files/videos/VIDEO SITE sauvage.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
       }
     },
     "scrolling_text_D4NLHg": {
@@ -527,33 +554,6 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": ""
-      }
-    },
-    "before_after_image_iTUhE8": {
-      "type": "before-after-image",
-      "name": "Before/after image",
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "",
-        "content": "<h5><strong>SEMYAS, LA QUALITÉ SAUVAGE & AUTHENTIQUE EST NOTRE ENGAGEMENT</strong><br/></h5><h4>PURE ET NATURELLE, ELLE VOUS EST LIVRÉE DANS UNE AUTHENTICITÉ ABSOLUE.<br/><br/><br/>0% SOLVANTS 0% HEXANE    0% PESTICIDES </h4><p><strong>QUALITÉ AUTHENTIQUE, UNIQUE SUR LE MARCHÉ</strong><br/><br/></p>",
-        "before_image": "shopify://shop_images/7_24cddd7a-7e16-4308-9216-d95ec6117830.png",
-        "before_image_mobile": "shopify://shop_images/7_24cddd7a-7e16-4308-9216-d95ec6117830.png",
-        "after_image": "shopify://shop_images/22.png",
-        "after_image_mobile": "shopify://shop_images/22.png",
-        "expand_image": false,
-        "text_position": "center",
-        "before_after_text_position": "top",
-        "before_text": "",
-        "after_text": "",
-        "drag_initial_position": 49,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "before_text_color": "#f83a3a",
-        "after_text_color": "#00a341",
-        "drag_cursor_background": "#ffffff",
-        "drag_cursor_color": "#000000"
       }
     },
     "tabs_F9akK7": {
@@ -1199,14 +1199,14 @@
     "rich_text_9ghCzA",
     "scrolling_text_7j4eMw",
     "featured_collection_r8npmj",
-    "video_RRw9Va",
     "multi_column_WKdQNk",
+    "before_after_image_iTUhE8",
+    "video_RRw9Va",
     "scrolling_text_D4NLHg",
     "logo_list_yDWyAJ",
     "rich_text_UaMAVr",
     "press_ywHeRN",
     "image_link_blocks_kTR48m",
-    "before_after_image_iTUhE8",
     "tabs_F9akK7",
     "custom_liquid_tHjw9m",
     "logo_list_L499tP",
