@@ -104,14 +104,14 @@
         "subheading_JURnC8": {
           "type": "subheading",
           "settings": {
-            "text": "Unique sur le marché, avec la plus haute concentration en vitamine E"
+            "text": "Unique sur Marché"
           }
         },
         "heading_QwxTYe": {
           "type": "heading",
           "settings": {
-            "text": "Huile Originelle de Graines de Figue de Barbarie Sauvage 100% Pure Mexique Bio",
-            "heading_tag": "h4",
+            "text": "Huile Originelle de Graines de Figue de Barbarie Sauvage 100 % Pure  Origine Mexique Issue de la souche ancestrale",
+            "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
           }
@@ -119,7 +119,7 @@
         "richtext_8xkMYJ": {
           "type": "richtext",
           "settings": {
-            "content": "<h3><strong>L'ANTI-ÂGE SAUVAGE</strong></h3><h3><strong>L'ESSENCE D'UN SAVOIR ANCESTRAL</strong></h3>"
+            "content": "<h2><strong>L'Anti-Âge d'Exception L'Essence d'un Savoir Ancestral</strong></h2>"
           }
         }
       },
@@ -131,8 +131,8 @@
       "name": "Rich text",
       "settings": {
         "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
+        "content_width": "medium",
+        "text_position": "start",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -157,7 +157,7 @@
         "products_per_row_desktop": 3,
         "subheading": "",
         "title": "",
-        "content": "<p><em><strong>FORMULÉ EXCLUSIVEMENT PAR LA NATURE SAUVAGE. NÉ AU CŒUR DU MEXIQUE. INSPIRÉ D'UN HÉRITAGE AZTÈQUE MILLÉNAIRE</strong></em></p><p><em>huile sèche ultra concentrée 4/5 gouttes </em><em><strong><br/></strong></em></p>",
+        "content": "<p><strong>Forgée exclusivement par la nature sauvage.Née sur les terres originelles du Mexique.</strong></p><p><strong>Héritière d'un savoir millénaire des civilisations Aztèque et Maya.</strong></p><p><em>huile sèche ultra concentrée 4/5 gouttes </em><em><strong><br/></strong></em></p>",
         "link_url": "",
         "link_text": "Meilleures Ventes",
         "background": "#fdfdfd",
@@ -237,9 +237,9 @@
         "stack_on_mobile": false,
         "gap": "medium",
         "text_alignment": "center",
-        "subheading": "QUAND LA NATURE ATTEINT L’EXCELLENCE EFFICACITÉ NATURELLE",
+        "subheading": "",
         "title": "Huile Originelle de Graines de Figue de Barbarie Sauvage Bio",
-        "content": "<p></p><p>Issue de figues de Barbarie sauvages récoltées au cœur du Mexique, cette huile d'exception est formulée exclusivement par la nature. D'une rare concentration en vitamine E, en acides gras essentiels, en tocophérols et en stérols végétaux, elle offre à la peau un rituel de régénération d'une rare intensité.</p><p>Chaque goutte nourrit, revitalise et sublime la peau tout en révélant son éclat naturel. Sa texture précieuse enveloppe le visage d'un voile de douceur, laissant une sensation de confort absolu et une peau visiblement plus lumineuse, souple et rayonnante.</p><p>Héritière de la sagesse millénaire des Aztèques, cette huile rare incarne l'alliance parfaite entre la puissance originelle de la nature sauvage et l'excellence d'un soin d'exception.</p><h4><strong>100 % PURE • 100 % SAUVAGE </strong></h4><h4><strong> 100% ANCESTRALE</strong><br/><em><br/></em><em><strong>*</strong></em><em>À distinguer des huiles de figues de barbarie vendues couramment, souvent cultivées à 99 % pour maximiser le rendement au détriment de la qualité.<br/><br/></em><br/></h4>",
+        "content": "<p>Au cœur des <strong>terres sauvages au Mexique, berceau originel</strong> de la figue de Barbarie depuis les civilisations maya et aztèque, pousse la souche ancestrale originelle. Préservée de toute culture intensive, sans irrigation ni intervention humaine, elle exprime la force intacte de la nature dans sa forme la plus pure.</p><h6>De cette origine unique naît une huile d'exception, issue exclusivement de figues de Barbarie sauvages, bénéficiant d'une triple certification biologique Ecocert Cosmos organic & Cosmebio. Sa richesse naturelle lui confère la plus haute concentration en vitamine E du marché, ainsi qu'une teneur exceptionnelle en tocophérols, acides gras essentiels et stérols végétaux.</h6><p>Véritable élixir de jeunesse, <strong>chaque goutte nourrit intensément</strong>, <strong>régénère</strong>, <strong>raffermit et illumine la peau</strong>. Sa texture précieuse fusionne instantanément avec l'épiderme pour révéler un teint éclatant, une peau plus souple, plus lisse et visiblement sublimée.</p><p>Rare par son origine. Exceptionnelle par sa composition. Incomparable par son efficacité.</p><p><strong>100 % PURE • 100 % SAUVAGE • 100 % ANCESTRALE</strong></p><h6><strong>La plus haute concentration en vitamine E du marché. L'huile originelle de figue de Barbarie, dans son expression la plus noble.</strong><br/><em><br/></em><em><strong>*</strong></em><em>À distinguer des huiles de figues de barbarie vendues couramment, souvent cultivées à 99 % pour maximiser le rendement au détriment de la qualité.<br/><br/></em><br/></h6>",
         "background": "#ffffff",
         "background_gradient": "",
         "text_color": ""
@@ -252,7 +252,7 @@
         "full_width": true,
         "subheading": "",
         "title": "",
-        "content": "<h6>SEMYAS, LA QUALITÉ SAUVAGE & AUTHENTIQUE EST NOTRE ENGAGEMENT<br/><em>PURE ET NATURELLE, ELLE VOUS EST LIVRÉE DANS UNE AUTHENTICITÉ ABSOLUE.</em></h6><h5>0%<strong> SOLVANTS <br/></strong>0% <strong>HEXANE</strong> 0% <strong>PESTICIDES</strong> </h5><p>QUALITÉ AUTHENTIQUE, UNIQUE SUR LE MARCHÉ<br/><br/><em><strong>HUILE DE GRAINES DE FIGUE DDE BARBARIE SAUVAGE  MEXIQUE </strong></em></p>",
+        "content": "<h6>SEMYAS, LA QUALITÉ SAUVAGE & AUTHENTIQUE EST NOTRE ENGAGEMENT<br/><em>PURE ET NATURELLE, ELLE VOUS EST LIVRÉE DANS UNE AUTHENTICITÉ ABSOLUE.</em></h6><h5>0%<strong> SOLVANTS <br/></strong>0% <strong>HEXANE</strong> 0% <strong>PESTICIDES</strong> </h5><p>QUALITÉ AUTHENTIQUE, UNIQUE SUR LE MARCHÉ<br/><br/><em><strong>HUILE DE GRAINES DE FIGUE DE BARBARIE SAUVAGE  MEXIQUE </strong></em></p>",
         "before_image": "shopify://shop_images/7_24cddd7a-7e16-4308-9216-d95ec6117830.png",
         "before_image_mobile": "shopify://shop_images/7_24cddd7a-7e16-4308-9216-d95ec6117830.png",
         "after_image": "shopify://shop_images/22.png",
@@ -263,7 +263,7 @@
         "before_text": "",
         "after_text": "",
         "drag_initial_position": 50,
-        "background": "",
+        "background": "#F3F3F3",
         "background_gradient": "",
         "text_color": "",
         "before_text_color": "#f83a3a",
@@ -552,6 +552,7 @@
         "item_dyNtmb",
         "item_FbJNxi"
       ],
+      "disabled": true,
       "name": "Image link blocks",
       "settings": {
         "full_width": false,
