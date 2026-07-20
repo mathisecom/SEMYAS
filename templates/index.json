@@ -125,12 +125,12 @@
         "button_Bbmf9d": {
           "type": "button",
           "settings": {
-            "style": "fill",
-            "size": "xl",
+            "style": "outline",
+            "size": "base",
             "text": "LA COLLECTION ORIGINELLE",
-            "url": "shopify://collections",
-            "background": "#9A9999",
-            "text_color": "#FDFDFD"
+            "url": "shopify://collections/all",
+            "background": "#F1F1F1",
+            "text_color": "#3F3D3D"
           }
         }
       },
