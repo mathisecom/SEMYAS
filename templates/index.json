@@ -100,6 +100,17 @@
     },
     "rich_text_9ghCzA": {
       "type": "rich-text",
+      "blocks": {
+        "liquid_CP4DdR": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<p>Huile Originelle de Graines de Figue de Barbarie Sauvage Mexique  Bio\n</p>"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_CP4DdR"
+      ],
       "name": "Rich text",
       "settings": {
         "full_width": true,
