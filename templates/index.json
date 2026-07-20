@@ -348,16 +348,16 @@
       ],
       "name": "Video",
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "allow_transparent_header": false,
         "autoplay": true,
         "video_size": "auto",
         "video": "shopify://files/videos/VIDEO SITE sauvage.mp4",
         "mobile_video": "shopify://files/videos/VIDEO SITE sauvage.mp4",
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "text_color": "#F1F1F1",
+        "overlay_color": "#F1F1F1",
+        "overlay_opacity": 0
       }
     },
     "scrolling_text_D4NLHg": {
