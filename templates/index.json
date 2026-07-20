@@ -122,7 +122,7 @@
         "scrolling_speed": 10,
         "background": "#ffffff",
         "background_gradient": "",
-        "text_color": "#0F6402",
+        "text_color": "#0f6402",
         "text_gradient": ""
       }
     },
@@ -963,7 +963,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/PROD.png",
-            "media_width": 50,
+            "media_width": 30,
             "media_position": "start",
             "text_position": "place-self-center text-center",
             "icon": "none",
