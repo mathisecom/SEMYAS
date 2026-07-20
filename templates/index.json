@@ -119,7 +119,7 @@
         "richtext_8xkMYJ": {
           "type": "richtext",
           "settings": {
-            "content": "<h2><strong>L'Anti-Âge d'Exception L'Essence d'un Savoir Ancestral</strong></h2>"
+            "content": ""
           }
         }
       },
@@ -132,7 +132,7 @@
       "settings": {
         "full_width": true,
         "content_width": "medium",
-        "text_position": "start",
+        "text_position": "center",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -157,7 +157,7 @@
         "products_per_row_desktop": 3,
         "subheading": "",
         "title": "",
-        "content": "<p><strong>Forgée exclusivement par la nature sauvage.Née sur les terres originelles du Mexique.</strong></p><p><strong>Héritière d'un savoir millénaire des civilisations Aztèque et Maya.</strong></p><p><em>huile sèche ultra concentrée 4/5 gouttes </em><em><strong><br/></strong></em></p>",
+        "content": "<h2><strong>L'ANTI-ÂGE D'EXCEPTION</strong></h2><h4><em>L'ESSENCE D'UN SAVOIR ANCESTRAL</em></h4><h4><em>Héritière d'un savoir millénaire des civilisations Aztèque et Maya.</em></h4><p><em>huile sèche ultra concentrée 4/5 gouttes </em><em><strong><br/></strong></em></p>",
         "link_url": "",
         "link_text": "Meilleures Ventes",
         "background": "#fdfdfd",
@@ -240,7 +240,7 @@
         "subheading": "",
         "title": "Huile Originelle de Graines de Figue de Barbarie Sauvage Bio",
         "content": "<p>Au cœur des <strong>terres sauvages au Mexique, berceau originel</strong> de la figue de Barbarie depuis les civilisations maya et aztèque, pousse la souche ancestrale originelle. Préservée de toute culture intensive, sans irrigation ni intervention humaine, elle exprime la force intacte de la nature dans sa forme la plus pure.</p><h6>De cette origine unique naît une huile d'exception, issue exclusivement de figues de Barbarie sauvages, bénéficiant d'une triple certification biologique Ecocert Cosmos organic & Cosmebio. Sa richesse naturelle lui confère la plus haute concentration en vitamine E du marché, ainsi qu'une teneur exceptionnelle en tocophérols, acides gras essentiels et stérols végétaux.</h6><p>Véritable élixir de jeunesse, <strong>chaque goutte nourrit intensément</strong>, <strong>régénère</strong>, <strong>raffermit et illumine la peau</strong>. Sa texture précieuse fusionne instantanément avec l'épiderme pour révéler un teint éclatant, une peau plus souple, plus lisse et visiblement sublimée.</p><p>Rare par son origine. Exceptionnelle par sa composition. Incomparable par son efficacité.</p><p><strong>100 % PURE • 100 % SAUVAGE • 100 % ANCESTRALE</strong></p><h6><strong>La plus haute concentration en vitamine E du marché. L'huile originelle de figue de Barbarie, dans son expression la plus noble.</strong><br/><em><br/></em><em><strong>*</strong></em><em>À distinguer des huiles de figues de barbarie vendues couramment, souvent cultivées à 99 % pour maximiser le rendement au détriment de la qualité.<br/><br/></em><br/></h6>",
-        "background": "#F1F1F1",
+        "background": "#f1f1f1",
         "background_gradient": "",
         "text_color": ""
       }
@@ -307,7 +307,7 @@
         "full_width": true,
         "subheading": "",
         "title": "",
-        "content": "<h6>SEMYAS, LA QUALITÉ SAUVAGE & AUTHENTIQUE EST NOTRE ENGAGEMENT<br/><em>PURE ET NATURELLE, ELLE VOUS EST LIVRÉE DANS UNE AUTHENTICITÉ ABSOLUE.</em></h6><h5>0%<strong> SOLVANTS <br/></strong>0% <strong>HEXANE</strong> 0% <strong>PESTICIDES</strong> </h5><p>QUALITÉ AUTHENTIQUE, UNIQUE SUR LE MARCHÉ<br/><br/><em><strong>HUILE DE GRAINES DE FIGUE DE BARBARIE SAUVAGE  MEXIQUE </strong></em></p>",
+        "content": "<h6>SEMYAS, LA QUALITÉ SAUVAGE & AUTHENTIQUE EST NOTRE ENGAGEMENT<br/><em>PURE ET NATURELLE, ELLE VOUS EST LIVRÉE DANS UNE AUTHENTICITÉ ABSOLUE.</em></h6><h5>0%<strong> SOLVANTS <br/></strong>0% <strong>HEXANE</strong> 0% <strong>PESTICIDES</strong> </h5><p>QUALITÉ AUTHENTIQUE, UNIQUE SUR LE MARCHÉ</p>",
         "before_image": "shopify://shop_images/7_24cddd7a-7e16-4308-9216-d95ec6117830.png",
         "before_image_mobile": "shopify://shop_images/7_24cddd7a-7e16-4308-9216-d95ec6117830.png",
         "after_image": "shopify://shop_images/22.png",
@@ -318,7 +318,7 @@
         "before_text": "",
         "after_text": "",
         "drag_initial_position": 50,
-        "background": "#FDFDFD",
+        "background": "#fdfdfd",
         "background_gradient": "",
         "text_color": "",
         "before_text_color": "#f83a3a",
