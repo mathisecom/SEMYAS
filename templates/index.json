@@ -113,12 +113,12 @@
       ],
       "name": "Rich text",
       "settings": {
-        "full_width": true,
-        "content_width": "small",
+        "full_width": false,
+        "content_width": "medium",
         "text_position": "center",
-        "background": "",
+        "background": "#FDFDFD",
         "background_gradient": "",
-        "text_color": ""
+        "text_color": "#0F6402"
       }
     },
     "scrolling_text_7j4eMw": {
