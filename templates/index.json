@@ -130,7 +130,7 @@
       ],
       "name": "Rich text",
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "content_width": "medium",
         "text_position": "center",
         "background": "#F1F1F1",
@@ -349,7 +349,7 @@
       "name": "Video",
       "settings": {
         "full_width": false,
-        "allow_transparent_header": false,
+        "allow_transparent_header": true,
         "autoplay": true,
         "video_size": "auto",
         "video": "shopify://files/videos/VIDEO SITE sauvage.mp4",
