@@ -129,12 +129,12 @@
         "button_Bbmf9d": {
           "type": "button",
           "settings": {
-            "style": "outline",
+            "style": "fill",
             "size": "lg",
             "text": "LA COLLECTION SEMYAS",
             "url": "shopify://collections/all",
             "background": "#3F3D3D",
-            "text_color": "#3F3D3D"
+            "text_color": "#FDFDFD"
           }
         }
       },
