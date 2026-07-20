@@ -98,43 +98,44 @@
         "background_gradient": ""
       }
     },
-    "rich_text_9ghCzA": {
+    "rich_text_CgLXqj": {
       "type": "rich-text",
       "blocks": {
-        "liquid_CP4DdR": {
-          "type": "liquid",
+        "subheading_JURnC8": {
+          "type": "subheading",
           "settings": {
-            "liquid": "<p>Huile Originelle de Graines de Figue de Barbarie Sauvage Mexique  Bio\n</p>"
+            "text": "Unique sur le marché, avec la plus haute concentration en vitamine E"
+          }
+        },
+        "heading_QwxTYe": {
+          "type": "heading",
+          "settings": {
+            "text": "Huile Originelle de Graines de Figue de Barbarie Sauvage 100% Pure Mexique Bio",
+            "heading_tag": "h4",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_8xkMYJ": {
+          "type": "richtext",
+          "settings": {
+            "content": "<h3><strong>L'ANTI-ÂGE SAUVAGE</strong></h3><h3><strong>L'ESSENCE D'UN SAVOIR ANCESTRAL</strong></h3>"
           }
         }
       },
       "block_order": [
-        "liquid_CP4DdR"
+        "subheading_JURnC8",
+        "heading_QwxTYe",
+        "richtext_8xkMYJ"
       ],
       "name": "Rich text",
       "settings": {
-        "full_width": false,
-        "content_width": "medium",
-        "text_position": "center",
-        "background": "#FDFDFD",
-        "background_gradient": "",
-        "text_color": "#0F6402"
-      }
-    },
-    "scrolling_text_7j4eMw": {
-      "type": "scrolling-text",
-      "name": "Scrolling text",
-      "settings": {
         "full_width": true,
-        "text": "Récolte sauvage • Stocks naturellement limités",
-        "text_size": "xsmall",
-        "text_style": "fill",
-        "scrolling_mode": "auto",
-        "scrolling_speed": 10,
-        "background": "#ffffff",
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
         "background_gradient": "",
-        "text_color": "#0f6402",
-        "text_gradient": ""
+        "text_color": ""
       }
     },
     "featured_collection_r8npmj": {
@@ -154,9 +155,9 @@
         "products_count": 6,
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 3,
-        "subheading": "Unique sur le marché, avec la plus haute concentration en vitamine E.",
-        "title": "L'ANTI-ÂGE SAUVAGE. L'ESSENCE D'UN SAVOIR ANCESTRAL",
-        "content": "<p><em><strong>FORMULÉ EXCLUSIVEMENT PAR LA NATURE SAUVAGE. NÉ AU CŒUR DU MEXIQUE. INSPIRÉ D'UN HÉRITAGE AZTÈQUE MILLÉNAIRE</strong></em></p><h6><em><br/>huile sèche ultra concentrée 4/5 gouttes </em><em><strong><br/></strong></em></h6>",
+        "subheading": "",
+        "title": "",
+        "content": "<p><em><strong>FORMULÉ EXCLUSIVEMENT PAR LA NATURE SAUVAGE. NÉ AU CŒUR DU MEXIQUE. INSPIRÉ D'UN HÉRITAGE AZTÈQUE MILLÉNAIRE</strong></em></p><p><em>huile sèche ultra concentrée 4/5 gouttes </em><em><strong><br/></strong></em></p>",
         "link_url": "",
         "link_text": "Meilleures Ventes",
         "background": "#fdfdfd",
@@ -1207,8 +1208,7 @@
   },
   "order": [
     "slideshow_9AjEtT",
-    "rich_text_9ghCzA",
-    "scrolling_text_7j4eMw",
+    "rich_text_CgLXqj",
     "featured_collection_r8npmj",
     "multi_column_WKdQNk",
     "before_after_image_iTUhE8",
