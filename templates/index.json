@@ -119,7 +119,7 @@
         "richtext_8xkMYJ": {
           "type": "richtext",
           "settings": {
-            "content": "<h4><strong>L'Huile Originelle de Graines de Figue de Barbarie Sauvage</strong><br/><strong>  </strong><em>100 % Pure  Origine Mexique Issue de la Souche Ancestrale               </em></h4><h4><strong>La plus haute concentration en vitamine E sur le marché</strong></h4>"
+            "content": "<h4><strong>L'Huile Originelle de Graines de Figue de Barbarie Sauvage</strong><br/><strong>  </strong><em>100 % Pure  Origine Mexique Issue de la Souche Ancestrale               </em></h4><h3><em>supérieur en antioxydant  + 1000mg/kg </em>(vitamine E)<br/><em>à la majorité des huiles  de figues de barbarie sur le marché </em></h3>"
           }
         },
         "divider_9e7L6Y": {
@@ -131,10 +131,10 @@
           "settings": {
             "style": "fill",
             "size": "lg",
-            "text": "LA COLLECTION SEMYAS",
+            "text": "HERITAGE SAUVAGE",
             "url": "shopify://collections/all",
-            "background": "#3F3D3D",
-            "text_color": "#FDFDFD"
+            "background": "#3f3d3d",
+            "text_color": "#fdfdfd"
           }
         }
       },
@@ -150,7 +150,7 @@
         "full_width": false,
         "content_width": "small",
         "text_position": "center",
-        "background": "#F1F1F1",
+        "background": "#f1f1f1",
         "background_gradient": "",
         "text_color": ""
       }
@@ -335,7 +335,7 @@
         "before_text": "",
         "after_text": "",
         "drag_initial_position": 50,
-        "background": "#F1F1F1",
+        "background": "#f1f1f1",
         "background_gradient": "",
         "text_color": "",
         "before_text_color": "#f83a3a",
@@ -372,8 +372,8 @@
         "video": "shopify://files/videos/VIDEO SITE sauvage.mp4",
         "mobile_video": "shopify://files/videos/VIDEO SITE sauvage.mp4",
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "text_color": "#F1F1F1",
-        "overlay_color": "#F1F1F1",
+        "text_color": "#f1f1f1",
+        "overlay_color": "#f1f1f1",
         "overlay_opacity": 0
       }
     },
