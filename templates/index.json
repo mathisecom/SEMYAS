@@ -419,7 +419,7 @@
         "text_style": "fill",
         "scrolling_mode": "auto",
         "scrolling_speed": 8,
-        "background": "",
+        "background": "#FDFDFD",
         "background_gradient": "",
         "text_color": "",
         "text_gradient": ""
