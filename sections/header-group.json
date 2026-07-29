@@ -92,7 +92,7 @@
         "show_country_selector": false,
         "show_country_flag": false,
         "show_country_name": false,
-        "transparent_header_text_color": "#ececec",
+        "transparent_header_text_color": "#F3F1EC",
         "transparent_logo": "shopify://shop_images/SEMYAS_LOGO_1.png",
         "reduce_padding": true,
         "background_opacity": 10,

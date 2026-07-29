@@ -90,6 +90,12 @@
             "background": "#000000",
             "text_color": "#fdfdfd"
           }
+        },
+        "liquid_UehVyJ": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<p>VITAMINE E +1000mg/kg</p>"
+          }
         }
       },
       "block_order": [
@@ -97,7 +103,8 @@
         "heading_QwxTYe",
         "richtext_8xkMYJ",
         "divider_9e7L6Y",
-        "button_Bbmf9d"
+        "button_Bbmf9d",
+        "liquid_UehVyJ"
       ],
       "name": "Rich text",
       "settings": {
@@ -792,7 +799,7 @@
           "type": "heading",
           "settings": {
             "text": "Incomparable par Nature",
-            "heading_tag": "h2",
+            "heading_tag": "h1",
             "font_size": 48,
             "mobile_font_size": 32,
             "italic": true,
@@ -888,7 +895,7 @@
           "settings": {
             "feature_name": "Qualité Unique",
             "primary_text": "Unique sur le marché",
-            "competitor_text": "Qualité Traditionnelle"
+            "competitor_text": "Qualité standard"
           }
         }
       },
