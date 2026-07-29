@@ -194,13 +194,33 @@
             "link_text": "",
             "link_style": "link"
           }
+        },
+        "item_CM9wkL": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "spacer_Eh6P3z": {
+          "type": "spacer",
+          "settings": {
+            "column_size": "6"
+          }
         }
       },
       "block_order": [
         "item_Cd6aUp",
         "item_TqaBmD",
         "item_3LTJMm",
-        "item_yD4dR9"
+        "item_yD4dR9",
+        "item_CM9wkL",
+        "spacer_Eh6P3z"
       ],
       "name": "Multi-column",
       "settings": {
@@ -212,6 +232,46 @@
         "title": "Les Bienfaits d'une Huile d'Exception",
         "content": "<h3>Aux multiples actifs naturels, formulée par la nature sauvage.<br/><br/></h3>",
         "background": "#F3F1EC",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "rich_text_WdzJKU": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_qwzkye": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_BrTPPX": {
+          "type": "heading",
+          "settings": {
+            "text": "Laissez-vous guider vers la découverte de cette huile SEMYAS",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_RbQqeU": {
+          "type": "richtext",
+          "settings": {
+            "content": "<h4><em>préservée dans sa pureté sauvage originelle. De la cueillette au flacon, aucun intermédiaire ne s’interpose une traçabilité irréprochable et une pureté absolue. Certifiée bio Ecocert, Cosmos Organic et Cosmebio, elle incarne l’essence la plus authentique de la nature.</em><br/><br/></h4>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_qwzkye",
+        "heading_BrTPPX",
+        "richtext_RbQqeU"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
         "background_gradient": "",
         "text_color": ""
       }
@@ -1414,6 +1474,7 @@
     "rich_text_CgLXqj",
     "featured_collection_r8npmj",
     "multi_column_WKdQNk",
+    "rich_text_WdzJKU",
     "media_grid_fpwRUd",
     "press_ywHeRN",
     "before_after_image_iTUhE8",
