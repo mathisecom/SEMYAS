@@ -73,7 +73,7 @@
         "richtext_8xkMYJ": {
           "type": "richtext",
           "settings": {
-            "content": "<h4><strong>Le Remède Sauvage</strong><br/>Ce que les Aztèques appelaient Pahtli.    </h4><h4><strong>Huile de graines de figue de Barbarie<br/>100 % pure sauvage – Terres ancestrales du Mexique</strong></h4><h4><em>Certifiée Ecocert Cosmos Organic</em><br/></h4>"
+            "content": "<h4><strong>Le Remède Sauvage</strong><br/>Ce que les Aztèques appelaient Pahtli.    </h4><h4><strong>Huile de Graines de Figue de Barbarie<br/>100 % pure sauvage – Terres ancestrales du Mexique</strong></h4><p><strong>Vitamine E +1000mg/kg</strong></p><h4><em>Certifiée Ecocert Cosmos Organic</em><br/></h4>"
           }
         },
         "divider_9e7L6Y": {
@@ -90,12 +90,6 @@
             "background": "#000000",
             "text_color": "#fdfdfd"
           }
-        },
-        "liquid_UehVyJ": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<p>VITAMINE E +1000mg/kg</p>"
-          }
         }
       },
       "block_order": [
@@ -103,13 +97,12 @@
         "heading_QwxTYe",
         "richtext_8xkMYJ",
         "divider_9e7L6Y",
-        "button_Bbmf9d",
-        "liquid_UehVyJ"
+        "button_Bbmf9d"
       ],
       "name": "Rich text",
       "settings": {
         "full_width": false,
-        "content_width": "small",
+        "content_width": "medium",
         "text_position": "center",
         "background": "#F3F1EC",
         "background_gradient": "",
