@@ -140,116 +140,6 @@
         "product_card_text_color": ""
       }
     },
-    "media_grid_fpwRUd": {
-      "type": "media-grid",
-      "blocks": {
-        "video_zAj4CP": {
-          "type": "video",
-          "settings": {
-            "video": "shopify://files/videos/VIDEO SITE sauvage (Publication LinkedIn).mp4",
-            "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "show_video_controls": true,
-            "title": "",
-            "heading_tag": "h4",
-            "link_url": "",
-            "link_text": "",
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_column_span": 2,
-            "desktop_row_span": 2,
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "#000000",
-            "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "image_ipR9R4": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/7_24cddd7a-7e16-4308-9216-d95ec6117830.png",
-            "title": "Figuiers Sauvages Ancestraux",
-            "heading_tag": "h2",
-            "link_url": "",
-            "link_text": "",
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_column_span": 2,
-            "desktop_row_span": 1,
-            "desktop_text_position": "sm:place-self-end-center sm:text-center",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "#000000",
-            "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "image_c847ag": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/PHOTO_GRAINE_DE_FIGUE.jpg",
-            "title": "Huile pure pressée à froid à partir de graines de figue de Barbarie récoltées à l’état sauvage Livrée dans son intégrité originelle, d'une pureté absolue",
-            "heading_tag": "h4",
-            "link_url": "",
-            "link_text": "",
-            "mobile_text_position": "place-self-start text-start",
-            "desktop_column_span": 2,
-            "desktop_row_span": 2,
-            "desktop_text_position": "sm:place-self-start-center sm:text-center",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#FDFDFD",
-            "text_gradient": "",
-            "button_background": "#000000",
-            "button_text_color": "#1D5401",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "image_9B4w7h": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/22.png",
-            "title": "Une traçabilité garantie, de la récolte au flacon",
-            "heading_tag": "h4",
-            "link_url": "",
-            "link_text": "",
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_column_span": 2,
-            "desktop_row_span": 1,
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "#000000",
-            "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "video_zAj4CP",
-        "image_ipR9R4",
-        "image_c847ag",
-        "image_9B4w7h"
-      ],
-      "name": "Media grid",
-      "settings": {
-        "full_width": true,
-        "reduce_width": false,
-        "desktop_row_height": 290,
-        "mobile_row_height": 150,
-        "background": "",
-        "background_gradient": ""
-      }
-    },
     "multi_column_WKdQNk": {
       "type": "multi-column",
       "blocks": {
@@ -324,6 +214,116 @@
         "background": "#f1f1f1",
         "background_gradient": "",
         "text_color": ""
+      }
+    },
+    "media_grid_fpwRUd": {
+      "type": "media-grid",
+      "blocks": {
+        "video_zAj4CP": {
+          "type": "video",
+          "settings": {
+            "video": "shopify://files/videos/VIDEO SITE sauvage (Publication LinkedIn).mp4",
+            "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "show_video_controls": true,
+            "title": "",
+            "heading_tag": "h4",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 2,
+            "desktop_row_span": 2,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_ipR9R4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/7_24cddd7a-7e16-4308-9216-d95ec6117830.png",
+            "title": "",
+            "heading_tag": "h2",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 2,
+            "desktop_row_span": 1,
+            "desktop_text_position": "sm:place-self-end-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_c847ag": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/PHOTO_GRAINE_DE_FIGUE.jpg",
+            "title": "",
+            "heading_tag": "h4",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-start text-start",
+            "desktop_column_span": 2,
+            "desktop_row_span": 2,
+            "desktop_text_position": "sm:place-self-start-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#FDFDFD",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#1D5401",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_9B4w7h": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/22.png",
+            "title": "",
+            "heading_tag": "h4",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 2,
+            "desktop_row_span": 1,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "video_zAj4CP",
+        "image_ipR9R4",
+        "image_c847ag",
+        "image_9B4w7h"
+      ],
+      "name": "Media grid",
+      "settings": {
+        "full_width": true,
+        "reduce_width": false,
+        "desktop_row_height": 290,
+        "mobile_row_height": 150,
+        "background": "",
+        "background_gradient": ""
       }
     },
     "press_ywHeRN": {
@@ -1260,8 +1260,8 @@
     "slideshow_9AjEtT",
     "rich_text_CgLXqj",
     "featured_collection_r8npmj",
-    "media_grid_fpwRUd",
     "multi_column_WKdQNk",
+    "media_grid_fpwRUd",
     "press_ywHeRN",
     "before_after_image_iTUhE8",
     "scrolling_text_D4NLHg",
