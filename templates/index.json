@@ -146,9 +146,9 @@
         "item_Cd6aUp": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/22_8f1663b8-d873-4b18-a814-838a0396b79a.png",
+            "image": "shopify://shop_images/22_0646650a-9e99-47da-84f6-9da52f01e6b0.png",
             "column_size": "4",
-            "title": "Anti-Âge Intense & Antioxydant Puissant",
+            "title": "Anti-Âge  & Antioxydant Puissant",
             "heading_tag": "h3",
             "content": "<p>Riche en <em><strong>VITAMINE E +1000mg/kg</strong></em><em>,</em> cette huile aide à lutter contre le stress oxydatif, à préserver la jeunesse de la peau et à améliorer l’apparence des ridules tout en renforçant la barrière cutanée.</p>",
             "link_url": "",
@@ -159,7 +159,7 @@
         "item_TqaBmD": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/20_ff051061-378c-4eff-bdd2-a979bad9c1f3.png",
+            "image": "shopify://shop_images/fotosite_femme_blanche_05e3d7b9-5470-4f82-b48e-7a1c7ed29b1a.jpg",
             "column_size": "4",
             "title": "Réparation Ciblée & Éclat Uniforme",
             "heading_tag": "h3",
@@ -172,9 +172,9 @@
         "item_3LTJMm": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/19_949f80ae-8790-469a-a1d5-2fbea34ad0b4.png",
+            "image": "shopify://shop_images/fotosite_femme_noir_070ece25-1dfb-4cd5-8302-857f763973c2.jpg",
             "column_size": "4",
-            "title": "Hydratation Profonde & Nutrition Durable",
+            "title": "Hydratation Profonde & Nutrition",
             "heading_tag": "h3",
             "content": "<p>Grâce à sa forte teneur en oméga-6 et oméga-9, elle<em> </em><em><strong>NOURRIT INTENSEMENT</strong></em> la peau, limite la déshydratation et laisse le teint plus souple, lumineux et confortable sans effet gras.</p>",
             "link_url": "",
@@ -185,9 +185,9 @@
         "item_yD4dR9": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/21_ca32d5c5-d295-4e03-b1c4-fa534a19d540.png",
+            "image": "shopify://shop_images/20.png",
             "column_size": "4",
-            "title": "Soin Régénérant pour Cheveux Abîmés",
+            "title": "Régénérant pour Cheveux Abîmés",
             "heading_tag": "h3",
             "content": "<p>Quelques gouttes suffisent pour <strong>nourrir la fibre capillaire,</strong> réduire frisottis et pointes sèches, renforcer la cuticule et redonner brillance, douceur et vitalité aux cheveux fragilisés.</p>",
             "link_url": "",
@@ -209,7 +209,7 @@
         "gap": "small",
         "text_alignment": "center",
         "subheading": "",
-        "title": "Les bienfaits d'une huile d'exception",
+        "title": "Les Bienfaits d'une Huile d'Exception",
         "content": "",
         "background": "#f1f1f1",
         "background_gradient": "",
