@@ -318,7 +318,7 @@
       ],
       "name": "Media grid",
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "reduce_width": false,
         "desktop_row_height": 290,
         "mobile_row_height": 150,
