@@ -73,7 +73,7 @@
         "richtext_8xkMYJ": {
           "type": "richtext",
           "settings": {
-            "content": "<h4><strong>Le Remède Sauvage</strong><br/>Ce que les Aztèques appelaient Pahtli.    </h4><h4><strong>Huile de Graines de Figue de Barbarie<br/>100 % pure sauvage – Terres ancestrales du Mexique</strong></h4><p><strong>Riche en vitamine E (plus de 1 000 mg/kg), reconnue pour ses propriétés antioxydantes.<br/><br/></strong><em><strong>Certifiée BIO</strong></em><em> Ecocert Cosmos Organic</em><br/></p>"
+            "content": "<h4><strong>Le Remède Sauvage</strong><br/>Ce que les Aztèques appelaient Pahtli.    </h4><h4><strong>Huile de Graines de Figue de Barbarie<br/>100 % pure sauvage – Terres ancestrales du Mexique</strong></h4><h5><strong>Riche en vitamine E (plus de 1 000 mg/kg), reconnue pour ses propriétés antioxydantes. </strong><br/><strong>une teneur bien supérieure à celle de la majorité des huiles du marché </strong><br/><em><strong>Certifiée BIO</strong></em><em> Ecocert Cosmos Organic</em><br/></h5>"
           }
         },
         "divider_9e7L6Y": {
@@ -131,7 +131,7 @@
         "content": "<h5><em>huile sèche ultra concentrée 3/4 gouttes <br/></em></h5>",
         "link_url": "",
         "link_text": "Meilleures Ventes",
-        "background": "#F3F1EC",
+        "background": "#F1F1F1",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",

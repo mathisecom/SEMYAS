@@ -36,6 +36,7 @@
     "heading_letter_spacing": -0.5,
     "text_font": "nanum_myeongjo_n4",
     "heading_apparition": "split_clip",
+    "show_vendor": true,
     "show_product_rating": false,
     "product_color_display": "swatch",
     "product_info_alignment": "center",
