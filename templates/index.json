@@ -150,7 +150,7 @@
             "column_size": "4",
             "title": "Anti-Âge  & Antioxydant Puissant",
             "heading_tag": "h3",
-            "content": "<p>Riche en <em><strong>VITAMINE E +1000mg/kg</strong></em><em>,</em> cette huile aide à lutter contre le stress oxydatif, à préserver la jeunesse de la peau et à améliorer l’apparence des ridules tout en renforçant la barrière cutanée.</p>",
+            "content": "<p>Riche en <em><strong>VITAMINE E +1000mg/kg,</strong></em> cette huile aide à lutter contre le stress oxydatif, à préserver la jeunesse de la peau et à améliorer l’apparence des ridules tout en renforçant la barrière cutanée.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -210,7 +210,7 @@
         "text_alignment": "center",
         "subheading": "",
         "title": "Les Bienfaits d'une Huile d'Exception",
-        "content": "",
+        "content": "<h3>Aux multiples actifs naturels, formulée par la nature sauvage.<br/><br/></h3>",
         "background": "#f1f1f1",
         "background_gradient": "",
         "text_color": ""
