@@ -33,56 +33,10 @@
             "background": "",
             "background_gradient": ""
           }
-        },
-        "image_JjWznA": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Gemini_Generated_Image_bgtbchbgtbchbgtb.jpg",
-            "mobile_image": "shopify://shop_images/Gemini_Generated_Image_bgtbchbgtbchbgtb.jpg",
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "Huile de Graines de Figue de Barbarie SAUVAGE",
-            "title": "Unique sur le marché, avec la plus haute concentration en vitamine E",
-            "heading_tag": "h3",
-            "button_text": "Je découvre",
-            "button_link": "shopify://collections/all",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30,
-            "background": "",
-            "background_gradient": ""
-          }
-        },
-        "image_4dALLy": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/4_96d45503-451c-4185-b3a8-ae834752059b.png",
-            "mobile_image": "shopify://shop_images/7_24cddd7a-7e16-4308-9216-d95ec6117830.png",
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "ISSUE DE LA SOUCHE ORIGINELLE",
-            "title": "100% ANCESTRALE",
-            "heading_tag": "h3",
-            "button_text": "BOUTIQUE SAUVAGE",
-            "button_link": "shopify://collections/all",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30,
-            "background": "",
-            "background_gradient": ""
-          }
         }
       },
       "block_order": [
-        "video_FdaHKb",
-        "image_JjWznA",
-        "image_4dALLy"
+        "video_FdaHKb"
       ],
       "name": "Slideshow",
       "settings": {
