@@ -248,7 +248,7 @@
         "heading_BrTPPX": {
           "type": "heading",
           "settings": {
-            "text": "Laissez-vous guider vers la découverte de cette huile SEMYAS",
+            "text": "Plongez au cœur de l'huile SEMYAS",
             "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
@@ -257,7 +257,7 @@
         "richtext_RbQqeU": {
           "type": "richtext",
           "settings": {
-            "content": "<h4><em>préservée dans sa pureté sauvage originelle. De la cueillette au flacon, aucun intermédiaire ne s’interpose une traçabilité irréprochable et une pureté absolue. Certifiée bio Ecocert, Cosmos Organic et Cosmebio, elle incarne l’essence la plus authentique de la nature.</em><br/><br/></h4>"
+            "content": "<h3><em>préservée dans sa pureté sauvage originelle. De la cueillette au flacon, aucun intermédiaire ne s’interpose une traçabilité irréprochable et une pureté absolue. Certifiée bio Ecocert, Cosmos Organic et Cosmebio, elle incarne l’essence la plus authentique de la nature.</em><br/><br/></h3>"
           }
         }
       },
