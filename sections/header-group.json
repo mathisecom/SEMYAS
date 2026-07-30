@@ -17,7 +17,7 @@
         "message_MdKPjQ": {
           "type": "message",
           "settings": {
-            "text": "Offre découverte • -15 % avec le code GALAZTEC15",
+            "text": "Offre découverte",
             "url": "shopify://collections/all"
           }
         },
@@ -92,7 +92,7 @@
         "show_country_selector": false,
         "show_country_flag": false,
         "show_country_name": false,
-        "transparent_header_text_color": "#F3F1EC",
+        "transparent_header_text_color": "#f3f1ec",
         "transparent_logo": "shopify://shop_images/SEMYAS_LOGO_1.png",
         "reduce_padding": true,
         "background_opacity": 10,
