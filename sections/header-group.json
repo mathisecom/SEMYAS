@@ -17,7 +17,7 @@
         "message_MdKPjQ": {
           "type": "message",
           "settings": {
-            "text": "Offre découverte",
+            "text": "Offre découverte -30 % sur la boutique",
             "url": "shopify://collections/all"
           }
         },
@@ -42,7 +42,7 @@
         "scrolling_speed": 10,
         "background": "#fdfdfd",
         "background_gradient": "",
-        "text_color": "#0f6402"
+        "text_color": "#E31E14"
       }
     },
     "header": {
