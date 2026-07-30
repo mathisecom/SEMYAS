@@ -55,12 +55,6 @@
     "rich_text_CgLXqj": {
       "type": "rich-text",
       "blocks": {
-        "subheading_JURnC8": {
-          "type": "subheading",
-          "settings": {
-            "text": ""
-          }
-        },
         "heading_QwxTYe": {
           "type": "heading",
           "settings": {
@@ -90,14 +84,20 @@
             "background": "#000000",
             "text_color": "#fdfdfd"
           }
+        },
+        "subheading_JURnC8": {
+          "type": "subheading",
+          "settings": {
+            "text": "disponible en quantités limitées par la nature sauvage"
+          }
         }
       },
       "block_order": [
-        "subheading_JURnC8",
         "heading_QwxTYe",
         "richtext_8xkMYJ",
         "divider_9e7L6Y",
-        "button_Bbmf9d"
+        "button_Bbmf9d",
+        "subheading_JURnC8"
       ],
       "name": "Rich text",
       "settings": {
