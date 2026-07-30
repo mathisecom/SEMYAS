@@ -14,6 +14,13 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "message_nFVYtC": {
+          "type": "message",
+          "settings": {
+            "text": "disponible en quantités limitées par la nature sauvage",
+            "url": ""
+          }
+        },
         "message_MdKPjQ": {
           "type": "message",
           "settings": {
@@ -30,6 +37,7 @@
         }
       },
       "block_order": [
+        "message_nFVYtC",
         "message_MdKPjQ",
         "message"
       ],
@@ -42,7 +50,7 @@
         "scrolling_speed": 10,
         "background": "#fdfdfd",
         "background_gradient": "",
-        "text_color": "#E31E14"
+        "text_color": "#e31e14"
       }
     },
     "header": {
