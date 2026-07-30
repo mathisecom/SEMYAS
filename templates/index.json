@@ -55,6 +55,15 @@
     "rich_text_CgLXqj": {
       "type": "rich-text",
       "blocks": {
+        "heading_Tarx7X": {
+          "type": "heading",
+          "settings": {
+            "text": "Disponibilité naturellement limitée, en raison de l'origine sauvage",
+            "heading_tag": "h3",
+            "text_color": "#E31E14",
+            "gradient": ""
+          }
+        },
         "subheading_JURnC8": {
           "type": "subheading",
           "settings": {
@@ -93,6 +102,7 @@
         }
       },
       "block_order": [
+        "heading_Tarx7X",
         "subheading_JURnC8",
         "heading_QwxTYe",
         "richtext_8xkMYJ",
@@ -226,10 +236,13 @@
     "rich_text_WdzJKU": {
       "type": "rich-text",
       "blocks": {
-        "subheading_qwzkye": {
-          "type": "subheading",
+        "heading_NjjEeV": {
+          "type": "heading",
           "settings": {
-            "text": ""
+            "text": "AUTHENTICITÉ ABSOLUE",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
           }
         },
         "heading_BrTPPX": {
@@ -244,12 +257,12 @@
         "richtext_RbQqeU": {
           "type": "richtext",
           "settings": {
-            "content": "<h3><em>préservée dans sa pureté sauvage originelle. De la cueillette au flacon, aucun intermédiaire ne s’interpose une traçabilité irréprochable et une pureté absolue. Certifiée bio Ecocert, Cosmos Organic et Cosmebio, elle incarne l’essence la plus authentique de la nature.</em><br/><br/></h3>"
+            "content": "<h3><em>Ce trésor, issu d’un terroir préservé et ancestral, cette huile puise ses origines au cœur d’un récit millénaire préservée dans sa pureté sauvage originelle. De la cueillette au flacon, aucun intermédiaire ne s’interpose une traçabilité irréprochable et une pureté absolue. Certifiée bio Ecocert, Cosmos Organic et Cosmebio, elle incarne l’essence la plus authentique de la nature.</em><br/><br/></h3>"
           }
         }
       },
       "block_order": [
-        "subheading_qwzkye",
+        "heading_NjjEeV",
         "heading_BrTPPX",
         "richtext_RbQqeU"
       ],
@@ -815,6 +828,7 @@
         "logo_QhrQ4b",
         "logo_4A3pXd"
       ],
+      "disabled": true,
       "name": "Logo list",
       "settings": {
         "full_width": false,
@@ -975,7 +989,7 @@
         "gradient_start": "#f3f1ec",
         "gradient_end": "#f4f4f4",
         "primary_column_use_gradient": false,
-        "primary_column_color": "#B69643",
+        "primary_column_color": "#b69643",
         "primary_column_gradient_start": "#121212",
         "primary_column_gradient_end": "#404040",
         "primary_column_text_color": "#ffffff",
