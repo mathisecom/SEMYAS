@@ -55,6 +55,15 @@
     "rich_text_CgLXqj": {
       "type": "rich-text",
       "blocks": {
+        "heading_Tarx7X": {
+          "type": "heading",
+          "settings": {
+            "text": "Édition limitée, façonnée par la nature sauvage.",
+            "heading_tag": "h3",
+            "text_color": "#E31E14",
+            "gradient": ""
+          }
+        },
         "subheading_JURnC8": {
           "type": "subheading",
           "settings": {
@@ -90,24 +99,15 @@
             "background": "#000000",
             "text_color": "#fdfdfd"
           }
-        },
-        "heading_Tarx7X": {
-          "type": "heading",
-          "settings": {
-            "text": "naturellement limitée, en raison de l'origine sauvage",
-            "heading_tag": "h3",
-            "text_color": "#E31E14",
-            "gradient": ""
-          }
         }
       },
       "block_order": [
+        "heading_Tarx7X",
         "subheading_JURnC8",
         "heading_QwxTYe",
         "richtext_8xkMYJ",
         "divider_9e7L6Y",
-        "button_Bbmf9d",
-        "heading_Tarx7X"
+        "button_Bbmf9d"
       ],
       "name": "Rich text",
       "settings": {
