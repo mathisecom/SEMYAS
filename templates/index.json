@@ -55,6 +55,15 @@
     "rich_text_CgLXqj": {
       "type": "rich-text",
       "blocks": {
+        "heading_DtrHmU": {
+          "type": "heading",
+          "settings": {
+            "text": "disponible en quantités limitées par la nature sauvage",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
         "heading_QwxTYe": {
           "type": "heading",
           "settings": {
@@ -84,20 +93,14 @@
             "background": "#000000",
             "text_color": "#fdfdfd"
           }
-        },
-        "subheading_JURnC8": {
-          "type": "subheading",
-          "settings": {
-            "text": "disponible en quantités limitées par la nature sauvage"
-          }
         }
       },
       "block_order": [
+        "heading_DtrHmU",
         "heading_QwxTYe",
         "richtext_8xkMYJ",
         "divider_9e7L6Y",
-        "button_Bbmf9d",
-        "subheading_JURnC8"
+        "button_Bbmf9d"
       ],
       "name": "Rich text",
       "settings": {
