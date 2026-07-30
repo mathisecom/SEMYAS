@@ -15,8 +15,8 @@
         "video_FdaHKb": {
           "type": "video",
           "settings": {
-            "video": "shopify://files/videos/SITE sauvage (Vidéo)_f51d636e-4d65-4316-964b-190bcd9f0b0f.mp4",
-            "mobile_video": "shopify://files/videos/SITE sauvage (Vidéo mobile)_dcc54e5f-26b9-47aa-bd3b-61d0cdfb9144.mp4",
+            "video": "shopify://files/videos/SITE sauvage (Vidéo)_b0963ed4-0410-4eed-ab7d-ca3aa402af7d.mp4",
+            "mobile_video": "shopify://files/videos/heritage sauvage (Vidéo mobile).mp4",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center-end text-end",
             "desktop_text_position": "sm:place-self-end-center sm:text-center",
