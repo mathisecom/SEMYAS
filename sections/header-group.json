@@ -45,7 +45,7 @@
         "enable_sticky": true,
         "autoplay": true,
         "cycle_speed": 6,
-        "text_size": "text-base",
+        "text_size": "text-lg",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
         "background": "#F3D6B3",
