@@ -108,8 +108,8 @@
           "type": "collapsible_text",
           "settings": {
             "icon": "picto-leaf",
-            "custom_icon": "shopify://shop_images/12_b717b154-1d56-48dd-a1b4-ad8dcae3fcbc.png",
-            "icon_width": 20,
+            "custom_icon": "shopify://shop_images/CREA_1080X1080_-_2026-01-22T144120.615.png",
+            "icon_width": 48,
             "title": "Ingrédient Unique",
             "content": "<p><strong>Huile Originelle de Graines de Figue de Barbarie sauvage : </strong><em><strong>Trésor botanique du Mexique</strong></em> <em>(Opuntia ficus-indica )</em></p><ul><li><strong>Une seule récolte par an </strong><em>Respect de la biodiversité</em></li><li><strong>Unique pressage à froid </strong><em>Garantie tous les bienfaits</em></li><li><strong>100% pure certifiée bio</strong> <em>Ecocert Cosmos Organic & Cosmebio -     Certifié BIO -</em></li></ul><p></p>",
             "page": ""
@@ -119,7 +119,8 @@
           "type": "collapsible_text",
           "settings": {
             "icon": "picto-file",
-            "icon_width": 20,
+            "custom_icon": "shopify://shop_images/CREA_1080X1080_-_2026-01-22T160814.625.png",
+            "icon_width": 48,
             "title": "Conseils D'Utilisation",
             "content": "<p><strong>Le Rituel SEMYAS</strong><br/>Gestuelle recommandée<br/>1. Sur une peau parfaitement propre (idéalement encore légèrement humide), déposer 2 à 3 gouttes de SEMYAS dans le creux de la main.<br/>2. Réchauffer l’huile entre les paumes pour l’activer.<br/>3. Appliquer en pressions douces sur le visage et le cou, du centre vers l’extérieur.<br/>4. Laisser pénétrer sans frotter.<br/>5. Rester quelques instants en silence.<br/><br/><strong>Quand l’utiliser</strong><br/>• Matin et/ou soir, en soin unique ou en dernière étape de votre routine.<br/>• Pure, pour une action concentrée.<br/>• Ou mélangée à votre crème de jour / sérum pour en décupler les bienfaits.<br/>• Sur les zones très sèches : contours des yeux, décolleté, mains, cicatrices ou vergetures.<br/><br/></p>",
             "page": ""
@@ -129,7 +130,8 @@
           "type": "collapsible_text",
           "settings": {
             "icon": "picto-award-gift",
-            "icon_width": 20,
+            "custom_icon": "shopify://shop_images/CREA_1080X1080_-_2026-01-22T164607.670.jpg",
+            "icon_width": 48,
             "title": "Les bienfaits de SEMYAS",
             "content": "<p><strong>Régénérante</strong></p><p>Exceptionnellement riche en vitamine E, elle aide la peau à se réparer et à retrouver sa densité.</p><p><strong>Protectrice</strong> </p><p>Ses antioxydants naturels luttent contre le stress oxydatif et les signes prématurés de l’âge.</p><p><strong>Nourrissante & légère</strong> </p><p>Elle pénètre rapidement, nourrit en profondeur et convient même aux peaux mixtes à grasses.</p><p><strong>SEMYAS</strong> concentre le meilleur de la graine de figue de Barbarie sauvage :</p><p>• L’une des plus hautes teneurs en vitamine E du règne végétal</p><p>• Riche en acide linoléique (oméga-6) pour renforcer la barrière cutanée</p><p>• Fort pouvoir antioxydant</p><p>• Action réparatrice sur les peaux marquées (cicatrices, vergetures, relâchement)</p><p>• Texture sèche et soyeuse, non comédogène</p><p><em><strong>Un soin d’exception, né des terres ancestrales.</strong></em></p>",
             "page": ""
@@ -165,7 +167,7 @@
         "image_EkWUhT"
       ],
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "show_fixed_add_to_cart": true,
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
