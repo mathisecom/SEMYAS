@@ -12,6 +12,10 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "badges_badXUy": {
+          "type": "badges",
+          "settings": {}
+        },
         "liquid_DeWnWa": {
           "type": "liquid",
           "disabled": true,
@@ -107,8 +111,7 @@
         "collapsible_text_AMHH4b": {
           "type": "collapsible_text",
           "settings": {
-            "icon": "picto-leaf",
-            "custom_icon": "shopify://shop_images/CREA_1080X1080_-_2026-01-22T144120.615.png",
+            "icon": "none",
             "icon_width": 48,
             "title": "Ingrédient Unique",
             "content": "<p><strong>Huile Originelle de Graines de Figue de Barbarie sauvage : </strong><em><strong>Trésor botanique du Mexique</strong></em> <em>(Opuntia ficus-indica )</em></p><ul><li><strong>Une seule récolte par an </strong><em>Respect de la biodiversité</em></li><li><strong>Unique pressage à froid </strong><em>Garantie tous les bienfaits</em></li><li><strong>100% pure certifiée bio</strong> <em>Ecocert Cosmos Organic & Cosmebio -     Certifié BIO -</em></li></ul><p></p>",
@@ -118,7 +121,7 @@
         "collapsible_text_bLAeVH": {
           "type": "collapsible_text",
           "settings": {
-            "icon": "picto-file",
+            "icon": "none",
             "custom_icon": "shopify://shop_images/CREA_1080X1080_-_2026-01-22T160814.625.png",
             "icon_width": 48,
             "title": "Conseils D'Utilisation",
@@ -129,7 +132,7 @@
         "collapsible_text_znpyiz": {
           "type": "collapsible_text",
           "settings": {
-            "icon": "picto-award-gift",
+            "icon": "none",
             "custom_icon": "shopify://shop_images/CREA_1080X1080_-_2026-01-22T164607.670.jpg",
             "icon_width": 48,
             "title": "Les bienfaits de SEMYAS",
@@ -147,6 +150,7 @@
         }
       },
       "block_order": [
+        "badges_badXUy",
         "liquid_DeWnWa",
         "title",
         "text_q9rUW9",
@@ -227,7 +231,7 @@
       "type": "scrolling-text",
       "name": "Scrolling text",
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "text": "✓ Non comédogène‎ ‎ ‎ ‎ ✓ Testé en laboratoire ‎ ‎ ‎ ✓ Végan et bio  ‎ ‎ ‎ ✓ Efficacité",
         "text_size": "xsmall",
         "text_style": "fill",
