@@ -19,6 +19,7 @@
         "show_only_on_index": true,
         "show_only_for_visitors": true,
         "show_only_once": true,
+        "image": "shopify://shop_images/LOGO_SEMYASDOREE_06fad08a-8702-47d7-9c87-755496d922b8.svg",
         "title": "Signup for our newsletter",
         "button_text": "Subscribe",
         "subtext": "Describe what your customers will receive when subscribing to your newsletter."
