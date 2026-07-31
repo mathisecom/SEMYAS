@@ -77,12 +77,12 @@
         "button_Bbmf9d": {
           "type": "button",
           "settings": {
-            "style": "fill",
+            "style": "outline",
             "size": "xl",
             "text": "Découvrir SEMYAS",
             "url": "shopify://collections/all",
             "background": "#000000",
-            "text_color": "#fdfdfd"
+            "text_color": "#000000"
           }
         },
         "heading_QwxTYe": {
