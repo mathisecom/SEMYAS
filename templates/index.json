@@ -67,7 +67,7 @@
         "richtext_8xkMYJ": {
           "type": "richtext",
           "settings": {
-            "content": "<h3><strong>Le Remède Sauvage</strong><br/>Ce que les Aztèques  appelaient Pahtli.    </h3><h4><strong>Huile Originelle de Graines de Figue de Barbarie<br/>100 % pure sauvage – Terres ancestrales du Mexique pureté absolue</strong></h4><h4>Riche en vitamine E (plus de 1 000 mg/kg), reconnue pour ses propriétés antioxydantes. <br/>une teneur bien supérieure à celle de la majorité des huiles du marché </h4><h3><br/><em>Certifiée BIO Ecocert Cosmos Organic</em><br/></h3>"
+            "content": "<h3><strong>Le Remède Sauvage</strong><br/>Ce que les Aztèques  nommaient Pahtli.    </h3><h4><strong>Huile Originelle de Graines de Figue de Barbarie<br/>100 % pure sauvage – Terres ancestrales du Mexique pureté absolue</strong></h4><h4>Riche en vitamine E (plus de 1 000 mg/kg), reconnue pour ses propriétés antioxydantes. <br/>une teneur bien supérieure à celle de la majorité des huiles du marché </h4><h3><br/><em>Certifiée BIO Ecocert Cosmos Organic</em><br/></h3>"
           }
         },
         "divider_9e7L6Y": {
@@ -130,7 +130,7 @@
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 3,
         "subheading": "",
-        "title": "SOIN HERITAGE D'EXCEPTION",
+        "title": "SOIN HERITAGE",
         "content": "<h5><em>huile sèche ultra concentrée 3/4 gouttes <br/></em></h5>",
         "link_url": "",
         "link_text": "Meilleures Ventes",
@@ -153,7 +153,7 @@
             "column_size": "4",
             "title": "Anti-Âge  & Antioxydant Puissant",
             "heading_tag": "h3",
-            "content": "<p>Riche en <em><strong>VITAMINE E +1000mg/kg,</strong></em> cette huile aide à lutter contre le stress oxydatif, à préserver la jeunesse de la peau et à améliorer l’apparence des ridules tout en renforçant la barrière cutanée.</p>",
+            "content": "<p>Riche en <strong>VITAMINE E +1000mg/kg</strong><em><strong>,</strong></em> cette huile aide à lutter contre le stress oxydatif, à préserver la jeunesse de la peau et à améliorer l’apparence des ridules tout en renforçant la barrière cutanée.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -166,7 +166,7 @@
             "column_size": "4",
             "title": "Réparation Ciblée & Éclat",
             "heading_tag": "h3",
-            "content": "<p>Idéale pour les <em><strong>CERNES</strong></em>,<em><strong>TACHES </strong></em>et peaux à <em><strong>IMPERFECTIONS</strong></em>, elle favorise le renouvellement cellulaire, apaise la peau et aide à restaurer son équilibre naturel face aux agressions extérieures.</p>",
+            "content": "<p>Idéale pour les <strong>CERNES</strong>,<strong>TACHES</strong><em><strong> </strong></em>et peaux à <strong>IMPERFECTIONS</strong>, elle favorise le renouvellement cellulaire, apaise la peau et aide à restaurer son équilibre naturel face aux agressions extérieures.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -179,7 +179,7 @@
             "column_size": "4",
             "title": "Hydratation Profonde & Nutrition",
             "heading_tag": "h3",
-            "content": "<p>Grâce à sa forte teneur en oméga-6 et oméga-9, elle<em> </em><em><strong>NOURRIT INTENSEMENT</strong></em> la peau, limite la déshydratation et laisse le teint plus souple, lumineux et confortable sans effet gras.</p>",
+            "content": "<p>Grâce à sa forte teneur en oméga-6 et oméga-9, elle<em> </em><strong>NOURRIT INTENSEMENT</strong> la peau, limite la déshydratation et laisse le teint plus souple, lumineux et confortable sans effet gras.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -219,8 +219,8 @@
         "gap": "small",
         "text_alignment": "center",
         "subheading": "",
-        "title": "Les Bienfaits d'une Huile d'Exception",
-        "content": "<h3>Aux multiples actifs naturels, formulée par la nature sauvage.<br/><br/></h3>",
+        "title": "",
+        "content": "<h1>Les Bienfaits d'une Huile d'Exception<br/><br/></h1><h3>Aux multiples actifs naturels, formulée par la nature sauvage.<br/><br/></h3>",
         "background": "#f3f1ec",
         "background_gradient": "",
         "text_color": ""
@@ -233,7 +233,7 @@
           "type": "heading",
           "settings": {
             "text": "AUTHENTICITÉ ABSOLUE",
-            "heading_tag": "h1",
+            "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
           }
@@ -250,7 +250,7 @@
         "richtext_RbQqeU": {
           "type": "richtext",
           "settings": {
-            "content": "<h3><em>Ce trésor, issu d’un terroir préservé et ancestral, cette huile puise ses origines au cœur d’un récit millénaire préservée dans sa pureté sauvage originelle. De la cueillette au flacon, aucun intermédiaire ne s’interpose une traçabilité irréprochable et une pureté absolue. Certifiée bio Ecocert, Cosmos Organic et Cosmebio, elle incarne l’essence la plus authentique de la nature.</em><br/><br/></h3>"
+            "content": "<h2><em>Ce trésor, issu d’un terroir préservé et ancestral, cette huile puise ses origines au cœur d’un récit millénaire préservée dans sa pureté sauvage originelle. De la cueillette au flacon, aucun intermédiaire ne s’interpose une traçabilité irréprochable et une pureté absolue. Certifiée bio Ecocert, Cosmos Organic et Cosmebio, elle incarne l’essence la plus authentique de la nature.</em><br/><br/></h2>"
           }
         }
       },
@@ -261,8 +261,8 @@
       ],
       "name": "Rich text",
       "settings": {
-        "full_width": true,
-        "content_width": "small",
+        "full_width": false,
+        "content_width": "medium",
         "text_position": "center",
         "background": "",
         "background_gradient": "",
@@ -849,7 +849,7 @@
             "heading_tag": "h1",
             "font_size": 48,
             "mobile_font_size": 32,
-            "italic": true,
+            "italic": false,
             "use_gradient": true,
             "gradient_start": "#121212",
             "gradient_end": "#404040",
