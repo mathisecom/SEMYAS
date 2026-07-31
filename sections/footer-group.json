@@ -11,6 +11,99 @@
   "type": "footer",
   "name": "Footer group",
   "sections": {
+    "video_8iBRK4": {
+      "type": "video",
+      "blocks": {
+        "button_dt9agh": {
+          "type": "button",
+          "settings": {
+            "style": "outline",
+            "size": "base",
+            "text": "JE RESERVE MON RITUEL",
+            "url": "shopify://collections/all",
+            "background": "",
+            "text_color": "#ffffff"
+          }
+        },
+        "heading_wV6gdG": {
+          "type": "heading",
+          "settings": {
+            "text": "LE RITUEL SEMYAS",
+            "heading_tag": "h1"
+          }
+        },
+        "play_EgNbAc": {
+          "type": "play",
+          "settings": {}
+        },
+        "heading_3CrDTn": {
+          "type": "heading",
+          "settings": {
+            "text": "3/4 gouttes",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "button_dt9agh",
+        "heading_wV6gdG",
+        "play_EgNbAc",
+        "heading_3CrDTn"
+      ],
+      "name": "Video",
+      "settings": {
+        "full_width": false,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "lg",
+        "video": "shopify://files/videos/RITUEL FLACON (Vidéo mobile).mp4",
+        "mobile_video": "shopify://files/videos/RITUEL FLACON (Vidéo mobile).mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "rich_text_c4XCW7": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_F8AGic": {
+          "type": "subheading",
+          "settings": {
+            "text": "SEMYAS"
+          }
+        },
+        "heading_E7AbNg": {
+          "type": "heading",
+          "settings": {
+            "text": "Rare par nature. Souverain par essence.",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_DBpXiz": {
+          "type": "richtext",
+          "settings": {
+            "content": "<h3>Huile originelle de graines de figue de Barbarie sauvage.<br/>Née au berceau du Mexique ancestral.<br/>Pureté souveraine.<br/><br/></h3><h4>Ce que les Aztèques nommaient Pahtli.<br/>Sur les terres arides et préservées du Mexique, berceau absolu de l’espèce, des figuiers de Barbarie poussent à l’état sauvage depuis des siècles.<br/>Jamais cultivés. Jamais irrigués. Nourris uniquement par la terre, le soleil et le temps.<br/>Chaque fruit est récolté à la main, une seule fois par an, selon un savoir-faire transmis de génération en génération.<br/>Il faut près d’une tonne de ces fruits sauvages pour obtenir un seul litre d’huile.<br/>Les graines sont ensuite séchées naturellement au soleil, puis pressées une unique fois à froid, sans raffinage ni transformation.<br/>Le résultat est une huile d’une pureté absolue, d’une concentration exceptionnelle en vitamine E — supérieure à 1 000 mg/kg — et d’une richesse en oméga-6 et oméga-9 rarement égalée.<br/>SEMYAS n’est pas une huile parmi d’autres.<br/>C’est le Remède Sauvage : un concentré d’antioxydants puissants, capable de lutter contre le stress oxydatif, de préserver la jeunesse de la peau, d’atténuer l’apparence des ridules et de restaurer en profondeur la barrière cutanée.<br/>Sur le visage, le contour des yeux, le cou, les zones abîmées ou les cheveux, son action est précise, intense et sans effet gras.<br/>De la cueillette au flacon, aucun intermédiaire.<br/>Traçabilité totale. Certifications Ecocert Cosmos Organic et Cosmebio.<br/>Une exigence qui ne souffre aucun compromis.<br/>Le Remède Sauvage.<br/>Rare par nature. Souverain par essence.<br/><br/></h4>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_F8AGic",
+        "heading_E7AbNg",
+        "richtext_DBpXiz"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "medium",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "text-with-icons": {
       "type": "text-with-icons",
       "blocks": {
@@ -117,6 +210,8 @@
     }
   },
   "order": [
+    "video_8iBRK4",
+    "rich_text_c4XCW7",
     "text-with-icons",
     "footer"
   ]
