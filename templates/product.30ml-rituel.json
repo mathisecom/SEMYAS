@@ -12,15 +12,10 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "badges_badXUy": {
-          "type": "badges",
-          "settings": {}
-        },
-        "liquid_DeWnWa": {
-          "type": "liquid",
-          "disabled": true,
+        "text_gNBkeg": {
+          "type": "text",
           "settings": {
-            "liquid": "<div class=\"main-product__block main-product__block-custom_liquid\">\n          <div class=\"m-product-text\">\n            <div class=\"main-product__block main-product__block-custom_liquid\">\n          <div class=\"m-product-text\">\n            <div class=\"main-product__block main-product__block-custom_liquid\">\n  <div class=\"m-product-text\">\n    <div class=\"product-info__liquid\">\n      <a class=\"image-size\" style=\"display: flex; align-items: center; gap: 8px;\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0776/3751/7627/files/avis.png?v=1687213619\" alt=\"Étoiles\" width=\"63\" height=\"13\">\n        <span class=\"text-size\">Noté <b>4.9/5</b> sur la base de +500 avis</span>\n      </a>\n    </div>\n  </div>\n</div>\n          </div>\n        \n</div>\n          </div>\n        \n</div>"
+            "text": "<p>SEMYAS ni cultivée, ni irriguée. Une nature préservée, de la récolte au flacon.</p>"
           }
         },
         "title": {
@@ -29,16 +24,28 @@
             "heading_tag": "h2"
           }
         },
-        "text_q9rUW9": {
-          "type": "text",
-          "settings": {
-            "text": "<p>*3/4  Gouttes Soin   Huile Sèche Bio par nature </p>"
-          }
+        "badges_badXUy": {
+          "type": "badges",
+          "disabled": true,
+          "settings": {}
         },
         "liquid_HjcQtb": {
           "type": "liquid",
           "settings": {
             "liquid": "<div class=\"atc-bundle-sor__benefits\">\n        \n          \n        \n          \n        \n          \n        \n          \n            \n              \n              \n                \n                  <div class=\"atc-bundle-sor__benefit\">\n                    <div class=\"atc-bundle-sor__benefit-icon\">\n                      <svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                        <path d=\"M12 5.33301L7.08361 10.3059C6.8876 10.5042 6.5673 10.5038 6.37172 10.3051L4 7.89578\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"></path>\n                      </svg>\n                    </div>\n                    <span>Réduit la profondeur des rides</span>\n                  </div>\n                \n              \n                \n                  <div class=\"atc-bundle-sor__benefit\">\n                    <div class=\"atc-bundle-sor__benefit-icon\">\n                      <svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                        <path d=\"M12 5.33301L7.08361 10.3059C6.8876 10.5042 6.5673 10.5038 6.37172 10.3051L4 7.89578\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"></path>\n                      </svg>\n                    </div>\n                    <span>Atténue les tâches pigmentaires</span>\n                  </div>\n                \n              \n                \n                  <div class=\"atc-bundle-sor__benefit\">\n                    <div class=\"atc-bundle-sor__benefit-icon\">\n                      <svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                        <path d=\"M12 5.33301L7.08361 10.3059C6.8876 10.5042 6.5673 10.5038 6.37172 10.3051L4 7.89578\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"></path>\n                      </svg>\n                    </div>\n                    <span>Améliore l'hydratation et la fermeté</span>\n                 \n</svg>\n                    </div>\n\n\n\n\n\n\n                \n              \n            \n          \n        \n          \n        \n          \n        \n          \n        \n          \n        \n          \n        \n          \n        \n      </div>"
+          }
+        },
+        "text_q9rUW9": {
+          "type": "text",
+          "settings": {
+            "text": "<p>3 MOIS *3/4  Gouttes Soin   Huile Sèche Bio par nature </p>"
+          }
+        },
+        "liquid_DeWnWa": {
+          "type": "liquid",
+          "disabled": true,
+          "settings": {
+            "liquid": "<div class=\"main-product__block main-product__block-custom_liquid\">\n          <div class=\"m-product-text\">\n            <div class=\"main-product__block main-product__block-custom_liquid\">\n          <div class=\"m-product-text\">\n            <div class=\"main-product__block main-product__block-custom_liquid\">\n  <div class=\"m-product-text\">\n    <div class=\"product-info__liquid\">\n      <a class=\"image-size\" style=\"display: flex; align-items: center; gap: 8px;\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0776/3751/7627/files/avis.png?v=1687213619\" alt=\"Étoiles\" width=\"63\" height=\"13\">\n        <span class=\"text-size\">Noté <b>4.9/5</b> sur la base de +500 avis</span>\n      </a>\n    </div>\n  </div>\n</div>\n          </div>\n        \n</div>\n          </div>\n        \n</div>"
           }
         },
         "price": {
@@ -90,22 +97,22 @@
           "settings": {
             "show_payment_button": false,
             "show_gift_card_recipient": false,
-            "atc_button_background": "",
-            "atc_button_text_color": "",
-            "payment_button_background": "",
-            "payment_button_text_color": ""
+            "atc_button_background": "#F3D6B3",
+            "atc_button_text_color": "#000000",
+            "payment_button_background": "#000000",
+            "payment_button_text_color": "#F9F6F1"
           }
         },
         "liquid_KfHkJh": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div class=\"atc-bundle-sor__stock-info\" data-stock-block=\"\">\n\n  <div class=\"atc-bundle-sor__stock-header\">\n    <div class=\"atc-bundle-sor__stock-left\">\n      <div class=\"atc-bundle-sor__stock-icon\">\n        <svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n          <rect class=\"pulse\" width=\"16\" height=\"16\" rx=\"8\" fill=\"#008255\" fill-opacity=\"0.25\"></rect>\n          <circle cx=\"8\" cy=\"8\" r=\"4\" fill=\"#008255\"></circle>\n        </svg>\n      </div>\n      <span>Stock :</span>\n      <span><strong>22</strong> / 120 stock total (tous produits confondus ) </span>\n    </div>\n\n    <div class=\"atc-bundle-sor__stock-percentage\">\n      85% réservé\n    </div>\n  </div>\n\n  <div class=\"atc-bundle-sor__stock-bar\">\n    <div class=\"atc-bundle-sor__stock-progress\" style=\"width: 85%;\"></div>\n  </div>\n\n  <div class=\"atc-bundle-sor__stock-message\">\n    <p>\n      <strong>Réservez avant la prochaine rupture&nbsp;!</strong>\n    </p>\n  </div>\n\n</div>"
+            "liquid": "<div class=\"atc-bundle-sor__stock-info\" data-stock-block=\"\">\n\n  <div class=\"atc-bundle-sor__stock-header\">\n    <div class=\"atc-bundle-sor__stock-left\">\n      <div class=\"atc-bundle-sor__stock-icon\">\n        <svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n          <rect class=\"pulse\" width=\"16\" height=\"16\" rx=\"8\" fill=\"#008255\" fill-opacity=\"0.25\"></rect>\n          <circle cx=\"8\" cy=\"8\" r=\"4\" fill=\"#008255\"></circle>\n        </svg>\n      </div>\n      <span>Stock :</span>\n      <span><strong>22</strong> / 120 stock </span>\n    </div>\n\n    <div class=\"atc-bundle-sor__stock-percentage\">\n      85% réservé\n    </div>\n  </div>\n\n  <div class=\"atc-bundle-sor__stock-bar\">\n    <div class=\"atc-bundle-sor__stock-progress\" style=\"width: 85%;\"></div>\n  </div>\n\n  <div class=\"atc-bundle-sor__stock-message\">\n    <p>\n      <strong>Réservez avant la prochaine rupture&nbsp;!</strong>\n    </p>\n  </div>\n\n</div>"
           }
         },
         "liquid_RmtnDL": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div class=\"product-info__liquid\">\n  <!-- VALORISE — Livraison dynamique (court, mobile, point animé) -->\n  <div class=\"valo-delivery\" id=\"valoDelivery\" role=\"status\">\n    <style>\n      .valo-delivery{\n        display:flex;\n        align-items:center;\n        gap:6px;\n        justify-content:center;\n        font-size:12px;\n        font-weight:500;\n        color:#111;\n        background:transparent;\n        padding:4px 0;\n        white-space:nowrap;\n      }\n      .valo-delivery .dot{\n        width:9px;\n        height:9px;\n        border-radius:9999px;\n        background:rgba(34,197,94,.25);\n        box-shadow:0 0 0 0 rgba(34,197,94,.35);\n        animation:valoPulse 1.6s infinite;\n        flex-shrink:0;\n      }\n      /* TEXTE EN NOIR BOLD (MODIFICATION ICI) */\n      .valo-delivery b{\n        color:#000;\n        font-weight:700;\n      }\n      @keyframes valoPulse{\n        0%{box-shadow:0 0 0 0 rgba(34,197,94,.35);}\n        70%{box-shadow:0 0 0 6px rgba(34,197,94,0);}\n        100%{box-shadow:0 0 0 0 rgba(34,197,94,0);}\n      }\n      @media(max-width:420px){\n        .valo-delivery{\n          font-size:11px;\n          gap:5px;\n          white-space:normal;\n        }\n      }\n    </style>\n\n    <span class=\"dot\" aria-hidden=\"true\"></span>\n    <span id=\"valoDeliveryText\">\n      En stock · Livraison express <b>jeu 22 janv.</b> – <b>ven 23 janv.</b>\n    </span>\n\n    <script>\n      (function(){\n        const el = document.getElementById(\"valoDeliveryText\");\n        const today = new Date();\n\n        // ajoute des jours en sautant le dimanche\n        function addDaysSkipSunday(date, days){\n          const d = new Date(date);\n          let added = 0;\n          while(added < days){\n            d.setDate(d.getDate() + 1);\n            if (d.getDay() !== 0) added++; // 0 = dimanche\n          }\n          return d;\n        }\n\n        // expédition le lendemain\n        const ship = new Date(today);\n        ship.setDate(ship.getDate() + 1);\n        if (ship.getDay() === 0) ship.setDate(ship.getDate() + 1); // si dimanche → lundi\n\n        // fenêtre 48–72h ouvrées\n        const min = addDaysSkipSunday(ship, 2);\n        const max = addDaysSkipSunday(ship, 3);\n\n        const opt = { weekday: \"short\", day: \"numeric\", month: \"short\" };\n        const s1 = min.toLocaleDateString(\"fr-FR\", opt).replace(\".\", \"\");\n        const s2 = max.toLocaleDateString(\"fr-FR\", opt).replace(\".\", \"\");\n\n        // version courte pour mobile\n        el.innerHTML = `En stock · Livraison express <b>${s1}</b> – <b>${s2}</b>`;\n      })();\n    </script>\n  </div>\n</div>"
+            "liquid": "<div class=\"product-info__liquid\">\n  <!-- VALORISE — Livraison dynamique (court, mobile, point animé) -->\n  <div class=\"valo-delivery\" id=\"valoDelivery\" role=\"status\">\n    <style>\n      .valo-delivery{\n        display:flex;\n        align-items:center;\n        gap:6px;\n        justify-content:center;\n        font-size:12px;\n        font-weight:500;\n        color:#111;\n        background:transparent;\n        padding:4px 0;\n        white-space:nowrap;\n      }\n      .valo-delivery .dot{\n        width:9px;\n        height:9px;\n        border-radius:9999px;\n        background:rgba(34,197,94,.25);\n        box-shadow:0 0 0 0 rgba(34,197,94,.35);\n        animation:valoPulse 1.6s infinite;\n        flex-shrink:0;\n      }\n      /* TEXTE EN NOIR BOLD (MODIFICATION ICI) */\n      .valo-delivery b{\n        color:#000;\n        font-weight:700;\n      }\n      @keyframes valoPulse{\n        0%{box-shadow:0 0 0 0 rgba(34,197,94,.35);}\n        70%{box-shadow:0 0 0 6px rgba(34,197,94,0);}\n        100%{box-shadow:0 0 0 0 rgba(34,197,94,0);}\n      }\n      @media(max-width:420px){\n        .valo-delivery{\n          font-size:11px;\n          gap:5px;\n          white-space:normal;\n        }\n      }\n    </style>\n\n    <span class=\"dot\" aria-hidden=\"true\"></span>\n    <span id=\"valoDeliveryText\">\n      En stock · LIVRAISON OFFERTE <b>jeu 22 janv.</b> – <b>ven 23 janv.</b>\n    </span>\n\n    <script>\n      (function(){\n        const el = document.getElementById(\"valoDeliveryText\");\n        const today = new Date();\n\n        // ajoute des jours en sautant le dimanche\n        function addDaysSkipSunday(date, days){\n          const d = new Date(date);\n          let added = 0;\n          while(added < days){\n            d.setDate(d.getDate() + 1);\n            if (d.getDay() !== 0) added++; // 0 = dimanche\n          }\n          return d;\n        }\n\n        // expédition le lendemain\n        const ship = new Date(today);\n        ship.setDate(ship.getDate() + 1);\n        if (ship.getDay() === 0) ship.setDate(ship.getDate() + 1); // si dimanche → lundi\n\n        // fenêtre 48–72h ouvrées\n        const min = addDaysSkipSunday(ship, 2);\n        const max = addDaysSkipSunday(ship, 3);\n\n        const opt = { weekday: \"short\", day: \"numeric\", month: \"short\" };\n        const s1 = min.toLocaleDateString(\"fr-FR\", opt).replace(\".\", \"\");\n        const s2 = max.toLocaleDateString(\"fr-FR\", opt).replace(\".\", \"\");\n\n        // version courte pour mobile\n        el.innerHTML = `En stock · Livraison express <b>${s1}</b> – <b>${s2}</b>`;\n      })();\n    </script>\n  </div>\n</div>"
           }
         },
         "collapsible_text_AMHH4b": {
@@ -140,6 +147,7 @@
         },
         "image_EkWUhT": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/bandeau_site2_7cf5f478-5d89-43e5-b1cc-4f555b7df38e.png",
             "alignment": "center",
@@ -148,11 +156,12 @@
         }
       },
       "block_order": [
-        "badges_badXUy",
-        "liquid_DeWnWa",
+        "text_gNBkeg",
         "title",
-        "text_q9rUW9",
+        "badges_badXUy",
         "liquid_HjcQtb",
+        "text_q9rUW9",
+        "liquid_DeWnWa",
         "price",
         "kaching_bundles_app_block_bRqXij",
         "rating",
@@ -173,7 +182,7 @@
         "show_fixed_add_to_cart": true,
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
-        "mobile_media_size": "contained",
+        "mobile_media_size": "expanded",
         "mobile_carousel_control": "thumbnails",
         "enable_video_autoplay": false,
         "enable_video_looping": true,
