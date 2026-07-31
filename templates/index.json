@@ -584,7 +584,6 @@
         "item_cxBw4z": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/37.png",
             "stretch_image": true,
             "link_text": "",
             "link_url": "shopify://collections/all",
@@ -597,7 +596,6 @@
         "item_DrjFwF": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/38.png",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -610,7 +608,6 @@
         "item_LKtzQe": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/39.png",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -623,7 +620,6 @@
         "item_dyNtmb": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/40_cd908edc-7fc0-41ef-8381-ab833278ba58.png",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -636,7 +632,6 @@
         "item_FbJNxi": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/41_81554567-afb0-415f-9670-cd04ecf4d9ae.png",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -962,7 +957,6 @@
         "primary_image": "shopify://shop_images/8c6d9bca-a277-4a6e-b016-b65f088eb021.png",
         "primary_title": "SEMYAS",
         "primary_badge": "sauvage",
-        "competitor_image": "shopify://shop_images/FLACON_NEUTRE.png",
         "competitor_title": "La majorité des huiles",
         "competitor_badge": "cultivées",
         "content_align": "center",
@@ -1254,7 +1248,7 @@
             "subheading": "",
             "title": "",
             "content": "<h2><strong>L'ART D'UNE HUILE D'EXCEPTION</strong></h2><h2><strong>notre disponibilité épouse les limites imposées par la nature, jamais l'inverse.</strong></h2><p>Au cœur des terres arides du Mexique, des figuiers de Barbarie ancestraux prospèrent à l'état sauvage depuis des siècles. Jamais irrigués, ils puisent leur force exclusivement dans la terre, le soleil et le temps. Cette nature intacte donne naissance à un fruit d'une concentration exceptionnelle, façonné par les éléments.</p><p>Chaque fruit est récolté à la main, selon un savoir-faire transmis de génération en génération. Il faut près d' <strong>1 tonne de fruits sauvages</strong> pour obtenir <strong>1 seul litre</strong> de cette huile d'exception, faisant de chaque récolte un trésor d'une extrême rareté.</p><h6>Les graines, minutieusement extraites, sont ensuite séchées naturellement sous le soleil avant d'être pressées une seule fois à froid. Ce procédé ancestral, sans raffinage ni transformation, préserve l'intégrité de chaque goutte et révèle toute la richesse originelle de ses précieux actifs.</h6><p>Rare par nature, précieuse par essence, cette huile incarne l'excellence d'un rituel de beauté intemporel, où la puissance de la nature sauvage rencontre l'héritage d'un savoir-faire ancestral.</p><p><strong>UNE TONNE DE FRUITS SAUVAGES. UN LITRE D'HUILE PRÉCIEUSE. L'ESSENCE MÊME DU LUXE NATUREL.</strong></p>",
-            "link_text": "J’achète",
+            "link_text": "Je découvre",
             "link_url": "shopify://collections/all",
             "background": "#f3f1ec",
             "background_gradient": "",
