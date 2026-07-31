@@ -97,7 +97,7 @@
       "name": "Rich text",
       "settings": {
         "full_width": false,
-        "content_width": "large",
+        "content_width": "medium",
         "text_position": "center",
         "background": "",
         "background_gradient": "",
