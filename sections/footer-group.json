@@ -42,13 +42,21 @@
             "text": "3/4 gouttes",
             "heading_tag": "h1"
           }
+        },
+        "heading_3Xhkdf": {
+          "type": "heading",
+          "settings": {
+            "text": "La Quintessence de la Nature",
+            "heading_tag": "h3"
+          }
         }
       },
       "block_order": [
         "button_dt9agh",
         "heading_wV6gdG",
         "play_EgNbAc",
-        "heading_3CrDTn"
+        "heading_3CrDTn",
+        "heading_3Xhkdf"
       ],
       "name": "Video",
       "settings": {
@@ -85,7 +93,7 @@
         "richtext_DBpXiz": {
           "type": "richtext",
           "settings": {
-            "content": "<h3>Huile originelle de graines de figue de Barbarie sauvage.<br/>Née au berceau du Mexique ancestral.<br/>Pureté souveraine.<br/><br/></h3><h3>Ce que les Aztèques nommaient Pahtli.<br/>Sur les terres arides et préservées du Mexique, berceau absolu de l’espèce, des figuiers de Barbarie poussent à l’état sauvage depuis des siècles.<br/>Jamais cultivés. Jamais irrigués. Nourris uniquement par la terre, le soleil et le temps.<br/>Chaque fruit est récolté à la main, une seule fois par an, selon un savoir-faire transmis de génération en génération.<br/>Il faut près d’une tonne de ces fruits sauvages pour obtenir un seul litre d’huile.<br/>Les graines sont ensuite séchées naturellement au soleil, puis pressées une unique fois à froid, sans raffinage ni transformation.<br/>Le résultat est une huile d’une pureté absolue, d’une concentration exceptionnelle en vitamine E — supérieure à 1 000 mg/kg — et d’une richesse en oméga-6 et oméga-9 rarement égalée.<br/>SEMYAS n’est pas une huile parmi d’autres.<br/>C’est le Remède Sauvage : un concentré d’antioxydants puissants, capable de lutter contre le stress oxydatif, de préserver la jeunesse de la peau, d’atténuer l’apparence des ridules et de restaurer en profondeur la barrière cutanée.<br/>Sur le visage, le contour des yeux, le cou, les zones abîmées ou les cheveux, son action est précise, intense et sans effet gras.<br/>De la cueillette au flacon, aucun intermédiaire.<br/>Traçabilité totale. Certifications Ecocert Cosmos Organic et Cosmebio.<br/>Une exigence qui ne souffre aucun compromis.<br/>Le Remède Sauvage.<br/>Rare par nature. Souverain par essence.<br/><br/></h3>"
+            "content": "<h3>Huile originelle de graines de figue de Barbarie sauvage.<br/>Née au berceau du Mexique ancestral.<br/>Pureté souveraine.<br/><br/></h3><h3>Ce que les Aztèques nommaient Pahtli.</h3><h3><br/>Sur les terres arides et préservées du Mexique, berceau absolu de l’espèce, des figuiers de Barbarie poussent à l’état sauvage depuis des siècles.</h3><h3><br/>Jamais cultivés. Jamais irrigués. Nourris uniquement par la terre, le soleil et le temps.</h3><h3><br/>Chaque fruit est récolté à la main, une seule fois par an, selon un savoir-faire transmis de génération en génération.</h3><h3><br/>Il faut près d’une tonne de ces fruits sauvages (~ 1 million de graines )  pour obtenir un seul litre d’huile.<br/>Les graines sont ensuite séchées naturellement au soleil, puis pressées une unique fois à froid, sans raffinage ni transformation.</h3><h3><br/>Le résultat est une huile d’une pureté absolue, d’une concentration exceptionnelle en vitamine E — supérieure à 1 000 mg/kg — et d’une richesse en oméga-6.</h3><h3><br/>SEMYAS n’est pas une huile parmi d’autres.<br/>C’est le Remède Sauvage : un concentré d’antioxydants puissants, capable de lutter contre le stress oxydatif, de préserver la jeunesse de la peau, d’atténuer l’apparence des ridules et de restaurer en profondeur la barrière cutanée.<br/>Sur le visage, le contour des yeux, le cou, les zones abîmées ou les cheveux, son action est précise, intense et sans effet gras.</h3><h3><br/>De la cueillette au flacon, aucun intermédiaire.<br/>Traçabilité totale. </h3><h3>Certifications Ecocert Cosmos Organic et Cosmebio.</h3><h3><br/>Une exigence qui ne souffre aucun compromis.<br/>Le Remède Sauvage.<br/><br/></h3>"
           }
         }
       },
