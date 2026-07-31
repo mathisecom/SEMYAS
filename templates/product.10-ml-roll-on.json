@@ -1,0 +1,872 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "liquid_DeWnWa": {
+          "type": "liquid",
+          "disabled": true,
+          "settings": {
+            "liquid": "<div class=\"main-product__block main-product__block-custom_liquid\">\n          <div class=\"m-product-text\">\n            <div class=\"main-product__block main-product__block-custom_liquid\">\n          <div class=\"m-product-text\">\n            <div class=\"main-product__block main-product__block-custom_liquid\">\n  <div class=\"m-product-text\">\n    <div class=\"product-info__liquid\">\n      <a class=\"image-size\" style=\"display: flex; align-items: center; gap: 8px;\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0776/3751/7627/files/avis.png?v=1687213619\" alt=\"Étoiles\" width=\"63\" height=\"13\">\n        <span class=\"text-size\">Noté <b>4.9/5</b> sur la base de +500 avis</span>\n      </a>\n    </div>\n  </div>\n</div>\n          </div>\n        \n</div>\n          </div>\n        \n</div>"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "text_q9rUW9": {
+          "type": "text",
+          "settings": {
+            "text": "<p>*3/4  Gouttes Soin   Huile Sèche Bio par nature </p>"
+          }
+        },
+        "liquid_HjcQtb": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"atc-bundle-sor__benefits\">\n        \n          \n        \n          \n        \n          \n        \n          \n            \n              \n              \n                \n                  <div class=\"atc-bundle-sor__benefit\">\n                    <div class=\"atc-bundle-sor__benefit-icon\">\n                      <svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                        <path d=\"M12 5.33301L7.08361 10.3059C6.8876 10.5042 6.5673 10.5038 6.37172 10.3051L4 7.89578\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"></path>\n                      </svg>\n                    </div>\n                    <span>Réduit la profondeur des rides</span>\n                  </div>\n                \n              \n                \n                  <div class=\"atc-bundle-sor__benefit\">\n                    <div class=\"atc-bundle-sor__benefit-icon\">\n                      <svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                        <path d=\"M12 5.33301L7.08361 10.3059C6.8876 10.5042 6.5673 10.5038 6.37172 10.3051L4 7.89578\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"></path>\n                      </svg>\n                    </div>\n                    <span>Atténue les tâches pigmentaires</span>\n                  </div>\n                \n              \n                \n                  <div class=\"atc-bundle-sor__benefit\">\n                    <div class=\"atc-bundle-sor__benefit-icon\">\n                      <svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                        <path d=\"M12 5.33301L7.08361 10.3059C6.8876 10.5042 6.5673 10.5038 6.37172 10.3051L4 7.89578\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"></path>\n                      </svg>\n                    </div>\n                    <span>Améliore l'hydratation et la fermeté</span>\n                 \n</svg>\n                    </div>\n\n\n\n\n\n\n                \n              \n            \n          \n        \n          \n        \n          \n        \n          \n        \n          \n        \n          \n        \n          \n        \n      </div>"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "kaching_bundles_app_block_bRqXij": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "disabled": true,
+          "settings": {
+            "product": "soin-intense-30ml-10ml",
+            "manual_deal_block_id": ""
+          }
+        },
+        "rating": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "payment_terms": {
+          "type": "payment_terms",
+          "settings": {}
+        },
+        "separator": {
+          "type": "separator",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_style": "block",
+            "swatch_selector_style": "swatch",
+            "variant_image_options": "",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": false,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "liquid_KfHkJh": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"atc-bundle-sor__stock-info\" data-stock-block=\"\">\n\n  <div class=\"atc-bundle-sor__stock-header\">\n    <div class=\"atc-bundle-sor__stock-left\">\n      <div class=\"atc-bundle-sor__stock-icon\">\n        <svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n          <rect class=\"pulse\" width=\"16\" height=\"16\" rx=\"8\" fill=\"#008255\" fill-opacity=\"0.25\"></rect>\n          <circle cx=\"8\" cy=\"8\" r=\"4\" fill=\"#008255\"></circle>\n        </svg>\n      </div>\n      <span>Stock :</span>\n      <span><strong>79</strong> / 120 stock total (tous produits confondus ) </span>\n    </div>\n\n    <div class=\"atc-bundle-sor__stock-percentage\">\n      85% réservé\n    </div>\n  </div>\n\n  <div class=\"atc-bundle-sor__stock-bar\">\n    <div class=\"atc-bundle-sor__stock-progress\" style=\"width: 85%;\"></div>\n  </div>\n\n  <div class=\"atc-bundle-sor__stock-message\">\n    <p>\n      <strong>Réservez avant la prochaine rupture&nbsp;!</strong>\n    </p>\n  </div>\n\n</div>"
+          }
+        },
+        "liquid_RmtnDL": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"product-info__liquid\">\n  <!-- VALORISE — Livraison dynamique (court, mobile, point animé) -->\n  <div class=\"valo-delivery\" id=\"valoDelivery\" role=\"status\">\n    <style>\n      .valo-delivery{\n        display:flex;\n        align-items:center;\n        gap:6px;\n        justify-content:center;\n        font-size:12px;\n        font-weight:500;\n        color:#111;\n        background:transparent;\n        padding:4px 0;\n        white-space:nowrap;\n      }\n      .valo-delivery .dot{\n        width:9px;\n        height:9px;\n        border-radius:9999px;\n        background:rgba(34,197,94,.25);\n        box-shadow:0 0 0 0 rgba(34,197,94,.35);\n        animation:valoPulse 1.6s infinite;\n        flex-shrink:0;\n      }\n      /* TEXTE EN NOIR BOLD (MODIFICATION ICI) */\n      .valo-delivery b{\n        color:#000;\n        font-weight:700;\n      }\n      @keyframes valoPulse{\n        0%{box-shadow:0 0 0 0 rgba(34,197,94,.35);}\n        70%{box-shadow:0 0 0 6px rgba(34,197,94,0);}\n        100%{box-shadow:0 0 0 0 rgba(34,197,94,0);}\n      }\n      @media(max-width:420px){\n        .valo-delivery{\n          font-size:11px;\n          gap:5px;\n          white-space:normal;\n        }\n      }\n    </style>\n\n    <span class=\"dot\" aria-hidden=\"true\"></span>\n    <span id=\"valoDeliveryText\">\n      En stock · Livraison express <b>jeu 22 janv.</b> – <b>ven 23 janv.</b>\n    </span>\n\n    <script>\n      (function(){\n        const el = document.getElementById(\"valoDeliveryText\");\n        const today = new Date();\n\n        // ajoute des jours en sautant le dimanche\n        function addDaysSkipSunday(date, days){\n          const d = new Date(date);\n          let added = 0;\n          while(added < days){\n            d.setDate(d.getDate() + 1);\n            if (d.getDay() !== 0) added++; // 0 = dimanche\n          }\n          return d;\n        }\n\n        // expédition le lendemain\n        const ship = new Date(today);\n        ship.setDate(ship.getDate() + 1);\n        if (ship.getDay() === 0) ship.setDate(ship.getDate() + 1); // si dimanche → lundi\n\n        // fenêtre 48–72h ouvrées\n        const min = addDaysSkipSunday(ship, 2);\n        const max = addDaysSkipSunday(ship, 3);\n\n        const opt = { weekday: \"short\", day: \"numeric\", month: \"short\" };\n        const s1 = min.toLocaleDateString(\"fr-FR\", opt).replace(\".\", \"\");\n        const s2 = max.toLocaleDateString(\"fr-FR\", opt).replace(\".\", \"\");\n\n        // version courte pour mobile\n        el.innerHTML = `En stock · Livraison express <b>${s1}</b> – <b>${s2}</b>`;\n      })();\n    </script>\n  </div>\n</div>"
+          }
+        },
+        "collapsible_text_AMHH4b": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "picto-leaf",
+            "icon_width": 20,
+            "title": "Ingrédient Unique",
+            "content": "<p><strong>Huile de Graines de Figue de Barbarie sauvage : </strong><em><strong>Trésor botanique du Mexique</strong></em> <em>(Opuntia ficus-indica )</em></p><ul><li><strong>Une seule récolte par an </strong><em>Respect de la biodiversité</em></li><li><strong>Unique pressage à froid </strong><em>Garantie tous les bienfaits</em></li><li><strong>100% pure certifié bio</strong> <em>Ecocert Cosmos Organic & Cosmebio -     Certifié BIO -</em></li></ul><p><strong>Composition Exceptionnelle</strong></p><p>Notre huile de graines de figue de barbarie sauvage contient une harmonieuse synergie d’ingrédients bénéfiques, dont :</p><p><strong>Acides gras essentiels</strong> (Oméga-6 & Oméga-9) : Maintiennent l'hydratation et améliorent l’élasticité de la peau.</p><p><strong>Vitamine E</strong> : Antioxydant puissant, protège la peau des radicaux libres.</p><p><strong>Vitamine K</strong> : Favorise la cicatrisation et aide à apaiser les irritations.</p><p><strong>Vitamine A</strong> : Aide au renouvellement cellulaire et au maintien de la santé cutanée.</p><p><strong>Vitamine D</strong> : Renforce la barrière cutanée et améliore la protection naturelle.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_bLAeVH": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "picto-file",
+            "icon_width": 20,
+            "title": "Conseils D'Utilisation",
+            "content": "<p><strong>Le Rituel SEMYAS</strong><br/>Gestuelle recommandée<br/>1. Sur une peau parfaitement propre (idéalement encore légèrement humide), déposer 2 à 3 gouttes de SEMYAS dans le creux de la main.<br/>2. Réchauffer l’huile entre les paumes pour l’activer.<br/>3. Appliquer en pressions douces sur le visage et le cou, du centre vers l’extérieur.<br/>4. Laisser pénétrer sans frotter.<br/>5. Rester quelques instants en silence.<br/><br/><strong>Quand l’utiliser</strong><br/>• Matin et/ou soir, en soin unique ou en dernière étape de votre routine.<br/>• Pure, pour une action concentrée.<br/>• Ou mélangée à votre crème de jour / sérum pour en décupler les bienfaits.<br/>• Sur les zones très sèches : contours des yeux, décolleté, mains, cicatrices ou vergetures.<br/><br/></p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_znpyiz": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "picto-award-gift",
+            "icon_width": 20,
+            "title": "Les bienfaits de SEMYAS",
+            "content": "<p><strong>Régénérante</strong></p><p>Exceptionnellement riche en vitamine E, elle aide la peau à se réparer et à retrouver sa densité.</p><p><strong>Protectrice</strong> </p><p>Ses antioxydants naturels luttent contre le stress oxydatif et les signes prématurés de l’âge.</p><p><strong>Nourrissante & légère</strong> </p><p>Elle pénètre rapidement, nourrit en profondeur et convient même aux peaux mixtes à grasses.</p><p><strong>SEMYAS</strong> concentre le meilleur de la graine de figue de Barbarie sauvage :</p><p>• L’une des plus hautes teneurs en vitamine E du règne végétal</p><p>• Riche en acide linoléique (oméga-6) pour renforcer la barrière cutanée</p><p>• Fort pouvoir antioxydant</p><p>• Action réparatrice sur les peaux marquées (cicatrices, vergetures, relâchement)</p><p>• Texture sèche et soyeuse, non comédogène</p><p><em><strong>Un soin d’exception, né des terres ancestrales.</strong></em></p>",
+            "page": ""
+          }
+        },
+        "image_EkWUhT": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/bandeau_site2_7cf5f478-5d89-43e5-b1cc-4f555b7df38e.png",
+            "alignment": "center",
+            "max_width": 270
+          }
+        }
+      },
+      "block_order": [
+        "liquid_DeWnWa",
+        "title",
+        "text_q9rUW9",
+        "liquid_HjcQtb",
+        "price",
+        "kaching_bundles_app_block_bRqXij",
+        "rating",
+        "payment_terms",
+        "separator",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "liquid_KfHkJh",
+        "liquid_RmtnDL",
+        "collapsible_text_AMHH4b",
+        "collapsible_text_bLAeVH",
+        "collapsible_text_znpyiz",
+        "image_EkWUhT"
+      ],
+      "settings": {
+        "full_width": true,
+        "show_fixed_add_to_cart": true,
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "contained",
+        "mobile_carousel_control": "thumbnails",
+        "enable_video_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": false,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "slideshow_bmrfiw": {
+      "type": "slideshow",
+      "name": "Slideshow",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "show_initial_transition": false,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#f2f2f2",
+        "background_gradient": ""
+      }
+    },
+    "related_products_HX4qfW": {
+      "type": "related-products",
+      "name": "Related products",
+      "settings": {
+        "recommendations_count": 6,
+        "products": [],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
+    "scrolling_text_4KBGbi": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "✓ Non comédogène‎ ‎ ‎ ‎ ✓ Testé en laboratoire ‎ ‎ ‎ ✓ Végan et bio  ‎ ‎ ‎ ✓ Efficacité",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 4,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "text_gradient": ""
+      }
+    },
+    "media_with_text_ryVKU6": {
+      "type": "media-with-text",
+      "name": "Media with text",
+      "settings": {
+        "full_width": true,
+        "alternate_media_position": false,
+        "spacing": "none"
+      }
+    },
+    "logo_list_dhE7LM": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_a8WwBV": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/CREA_1080X1080_-_2026-01-22T221013.611.jpg",
+            "logo_width": 180,
+            "link": ""
+          }
+        },
+        "logo_LHqTQz": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/CREA_1080X1080_-_2026-01-22T221226.730.jpg",
+            "logo_width": 180,
+            "link": ""
+          }
+        },
+        "logo_qBK9i4": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/CREA_1080X1080_-_2026-01-22T221136.650.jpg",
+            "logo_width": 180,
+            "link": ""
+          }
+        },
+        "logo_zJJxWG": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/CREA_1080X1080_-_2026-01-22T221156.570.jpg",
+            "logo_width": 180,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_a8WwBV",
+        "logo_LHqTQz",
+        "logo_qBK9i4",
+        "logo_zJJxWG"
+      ],
+      "name": "Logo list",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "title": "RÉSULTATS VISIBLES DÈS 28 JOURS*",
+        "content": "<p><em>*Études menées pendant 28 jours sur 60 femmes de 45 à 65 ans. Application 1 fois par jour. Mesures effectuées par des experts en tests cliniques des produits cosmétiques et mis en œuvre par l’Organisation des Nations Unies pour le Développement Industriel.</em></p>",
+        "text_alignment": "center",
+        "items_per_row": 5,
+        "background": "#f5f5f5",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "#f2f2f2",
+        "logo_item_border": ""
+      }
+    },
+    "logo_list_9cHiKh": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_mcEBRJ": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/3_1c74d064-194f-49c9-8974-5d8f16703a6c.png",
+            "logo_width": 180,
+            "link": ""
+          }
+        },
+        "logo_jdbtRF": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/9.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_aA6TfA": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/LOGO_RECOLTE.jpg",
+            "logo_width": 140,
+            "link": ""
+          }
+        },
+        "logo_bi7Agd": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/11.png",
+            "logo_width": 140,
+            "link": ""
+          }
+        },
+        "logo_ceJJL3": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/13.png",
+            "logo_width": 140,
+            "link": ""
+          }
+        },
+        "logo_e3LK3E": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/14_68d614cd-1139-4090-a6c4-e357f9b67100.png",
+            "logo_width": 140,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_mcEBRJ",
+        "logo_jdbtRF",
+        "logo_aA6TfA",
+        "logo_bi7Agd",
+        "logo_ceJJL3",
+        "logo_e3LK3E"
+      ],
+      "name": "Logo list",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": false,
+        "title": "",
+        "content": "<h3>POURQUOI L'HUILE SEMYAS BIO ?</h3>",
+        "text_alignment": "center",
+        "items_per_row": 5,
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "#ffffff",
+        "logo_item_border": ""
+      }
+    },
+    "faq_NqjfP9": {
+      "type": "faq",
+      "blocks": {
+        "item_XYJxMM": {
+          "type": "item",
+          "settings": {
+            "title": "LISSE LES RIDES ET RIDULES",
+            "content": "<p>Véritable élixir anti-âge, l’huile précieuse de graines de figue de Barbarie sauvage, saturée en vitamine E et en acides gras essentiels, stimule le renouvellement cellulaire et préserve la jeunesse cutanée. Application après application, elle raffermit la peau et estompe rides et ridules, révélant un teint lisse et éclatant.<br/><br/></p>"
+          }
+        },
+        "item_3jFVQX": {
+          "type": "item",
+          "settings": {
+            "title": "ATTÉNUE LES TACHES BRUNES",
+            "content": "<p>Gorgée d’antioxydants, elle érige un bouclier contre le stress oxydatif, retardant l’apparition des taches pigmentaires et de l’hyperpigmentation. En modulant subtilement la production de mélanine, elle atténue les marques existantes et révèle, jour après jour, un teint uniformisé et lumineux.<br/><br/></p>"
+          }
+        },
+        "item_RnhPxd": {
+          "type": "item",
+          "settings": {
+            "title": "AMÉLIORE LA FERMETÉ",
+            "content": "<p>Concentrée en acides gras essentiels et en vitamine E, l’huile de graines de figue de Barbarie sauvage sublime la fermeté et la tonicité cutanées. Elle booste l’élasticité, prévient le relâchement et révèle une peau visiblement plus lisse, plus dense et parfaitement raffermie.<br/><br/></p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_XYJxMM",
+        "item_3jFVQX",
+        "item_RnhPxd"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "",
+        "content": "<h5><strong>UN SOIN D'EXCEPTION POUR SUBLIMER VOTRE PEAU</strong></h5>",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
+    "multi_column_mpfiR4": {
+      "type": "multi-column",
+      "blocks": {
+        "item_VtngKV": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/22_8f1663b8-d873-4b18-a814-838a0396b79a.png",
+            "column_size": "4",
+            "title": "Anti-Âge Intense & Antioxydant Puissant",
+            "heading_tag": "h3",
+            "content": "<p>Riche en vitamine E, cette huile aide à lutter contre le stress oxydatif, à réduire les ridules et à renforcer la barrière cutanée.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_mrzieU": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/19_949f80ae-8790-469a-a1d5-2fbea34ad0b4.png",
+            "column_size": "4",
+            "title": "Hydratation Profonde & Nutrition Durable",
+            "heading_tag": "h3",
+            "content": "<p>Grâce aux oméga-6 et oméga-9, elle nourrit intensément, limite la déshydratation et laisse la peau souple et lumineuse, sans effet gras.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_aJFrWj": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/20_ff051061-378c-4eff-bdd2-a979bad9c1f3.png",
+            "column_size": "4",
+            "title": "Réparation Ciblée & Éclat Uniforme",
+            "heading_tag": "h3",
+            "content": "<p>Idéale pour cernes, taches et imperfections, elle favorise le renouvellement cellulaire et restaure l’équilibre naturel de la peau.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_GcCF4Y": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/21_ca32d5c5-d295-4e03-b1c4-fa534a19d540.png",
+            "column_size": "4",
+            "title": "Soin Régénérant pour Cheveux Abîmés",
+            "heading_tag": "h3",
+            "content": "<p>Quelques gouttes suffisent pour nourrir, lisser et renforcer cheveux et pointes sèches, tout en apportant brillance et douceur.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_VtngKV",
+        "item_mrzieU",
+        "item_aJFrWj",
+        "item_GcCF4Y"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "#f5f5f5",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "press_AXKJmx": {
+      "type": "press",
+      "blocks": {
+        "quote_AB8NhE": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "Lucie J.",
+            "content": " Huile exceptionnelle, ma peau est transformée !",
+            "show_rating": true,
+            "rating": 5
+          }
+        },
+        "quote_CXq6a4": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "Orianne S.",
+            "content": " Rien à voir avec les autres huiles, je l’adore.",
+            "show_rating": true,
+            "rating": 5
+          }
+        },
+        "quote_WAqxEx": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "Clara T.",
+            "content": " Produit rare et de grande qualité, très efficace.",
+            "show_rating": true,
+            "rating": 5
+          }
+        }
+      },
+      "block_order": [
+        "quote_AB8NhE",
+        "quote_CXq6a4",
+        "quote_WAqxEx"
+      ],
+      "name": "Press",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
+    "logo_list_tTF4MY": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_cnEpR4": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/17_0813743f-09bb-4409-a269-ccec0da00268.png",
+            "logo_width": 150,
+            "link": ""
+          }
+        },
+        "logo_JjUG3J": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/4.png",
+            "logo_width": 150,
+            "link": ""
+          }
+        },
+        "logo_Akw6Hi": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/CREA_1080X1080_-_2026-01-22T164414.706.jpg",
+            "logo_width": 150,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_cnEpR4",
+        "logo_JjUG3J",
+        "logo_Akw6Hi"
+      ],
+      "disabled": true,
+      "name": "Logo list",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": false,
+        "title": "",
+        "content": "<p><strong>L'EXIGENCE QUI NOUS DISTINGUE</strong></p>",
+        "text_alignment": "center",
+        "items_per_row": 5,
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "#ffffff",
+        "logo_item_border": ""
+      }
+    },
+    "media_with_text_jifPhK": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_acTDUx": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/foto_site_10.png",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 76,
+            "subheading": "",
+            "title": "Ici, pas de photos avant/après.",
+            "content": "<p><strong>Pourquoi ?</strong> Parce que trop de marques utilisent des images retouchées pour vendre des promesses irréalistes.<br/><br/>Nous, on choisit la transparence : une huile PURE, des actifs PUISSANTS, et des <strong>résultats qui se construisent avec le temps.</strong></p>",
+            "link_text": "OBTENIR MAINTENANT",
+            "link_url": "#shopify-section-template--27623632863579__main",
+            "background": "#fafafa",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_acTDUx"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "alternate_media_position": false,
+        "spacing": "none"
+      }
+    },
+    "custom_liquid_bRw4Wj": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<section id=\"shopify-section-template--26512009265529__w-comparaison-table-2\" class=\"shopify-section section-spacing-medium\"><link href=\"//soraali.com/cdn/shop/t/25/assets/w-comparaison-table-2.css?v=131335041848519437501763507437\" rel=\"stylesheet\" type=\"text/css\" media=\"all\">\n<script src=\"\" defer=\"\"></script>\n<div id=\"shopify-section-template--26512009265529__w-comparaison-table-2\" class=\"comparaison-table-2 comparaison-table-2--mobile\" data-section-type=\"comparaison-table-2\" data-section-id=\"template--26512009265529__w-comparaison-table-2\">\n  <div class=\"page-width\">\n    <div class=\"comparaison-table-2__container\">\n      </div>\n      <div class=\"comparaison-table-2__table\">\n        <div class=\"comparaison-table-2__header-row\">\n          <div class=\"comparaison-table-2__header-cell comparaison-table-2__header-cell--empty\"></div>\n          <div class=\"comparaison-table-2__header-cell comparaison-table-2__header-cell--our-product\">\n            <div class=\"comparaison-table-2__product-image\">\n              \n                <img src=\"//soraali.com/cdn/shop/files/Flacon_huile.png?v=1761583211&amp;width=204\" alt=\"SORAALI\" srcset=\"//soraali.com/cdn/shop/files/Flacon_huile.png?v=1761583211&amp;width=204 204w\" width=\"204\" height=\"255\" loading=\"lazy\" class=\"comparaison-table-2__product-img\">\n              \n            </div>\n          </div>\n          <div class=\"comparaison-table-2__header-cell comparaison-table-2__header-cell--competitor\">\n            <div class=\"comparaison-table-2__competitor-content\">\n              <div class=\"comparaison-table-2__competitor-image\">\n                \n                  <img src=\"//soraali.com/cdn/shop/files/AdobeStock_695184955_1.png?v=1761246936&amp;width=104\" alt=\"Autres marques\" srcset=\"//soraali.com/cdn/shop/files/AdobeStock_695184955_1.png?v=1761246936&amp;width=104 104w\" width=\"104\" height=\"104\" loading=\"lazy\" class=\"comparaison-table-2__competitor-img\">\n                \n              </div>\n              <p class=\"comparaison-table-2__competitor-label p-medium\">\n                Autres marques\n              </p>\n            </div>\n          </div>\n        </div>\n        <div class=\"comparaison-table-2__body\">\n          \n            \n                <div class=\"comparaison-table-2__row\" data-block-id=\"feature-1\" tabindex=\"0\" role=\"row\" aria-label=\"Comparison row 1\">\n                  <div class=\"comparaison-table-2__cell comparaison-table-2__cell--criteria\">\n                    <p class=\"comparaison-table-2__criteria-text p-medium\">\n                      Pureté\n                    </p>\n                  </div>\n                  <div class=\"comparaison-table-2__cell comparaison-table-2__cell--our-product\">\n                    \n                      <div class=\"comparaison-table-2__feature comparaison-table-2__feature--check\">\n                        <div class=\"comparaison-table-2__icon comparaison-table-2__icon--check\">\n                          <svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                            <path d=\"M18 8L10.4472 15.6396C10.2512 15.8378 9.93093 15.8375 9.73535 15.6388L6 11.8442\" stroke=\"black\" stroke-width=\"2\" stroke-linecap=\"round\"></path>\n                          </svg>\n                        </div>\n                        \n                          <p class=\"comparaison-table-2__feature-text p-large\">\n                            100% pure\n                          </p>\n                        \n                      </div>\n                    \n                  </div>\n                  <div class=\"comparaison-table-2__cell comparaison-table-2__cell--competitor\" style=\"flex-direction: column;\">\n                    \n                      <div class=\"comparaison-table-2__feature comparaison-table-2__feature--cross\">\n                        <div class=\"comparaison-table-2__icon comparaison-table-2__icon--cross\">\n                          <svg class=\"icon\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\">\n                            <line x1=\"18\" y1=\"6\" x2=\"6\" y2=\"18\"></line>\n                            <line x1=\"6\" y1=\"6\" x2=\"18\" y2=\"18\"></line>\n                          </svg>\n                        </div>\n                        \n                          <p class=\"comparaison-table-2__feature-text p-medium\">\n                            Dilution\n                          </p>\n                        \n                      </div>\n                    \n                  </div>\n                </div>\n            \n          \n            \n                <div class=\"comparaison-table-2__row\" data-block-id=\"feature-2\" tabindex=\"0\" role=\"row\" aria-label=\"Comparison row 2\">\n                  <div class=\"comparaison-table-2__cell comparaison-table-2__cell--criteria\">\n                    <p class=\"comparaison-table-2__criteria-text p-medium\">\n                      Origine\n                    </p>\n                  </div>\n                  <div class=\"comparaison-table-2__cell comparaison-table-2__cell--our-product\">\n                    \n                      <div class=\"comparaison-table-2__feature comparaison-table-2__feature--check\">\n                        <div class=\"comparaison-table-2__icon comparaison-table-2__icon--check\">\n                          <svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                            <path d=\"M18 8L10.4472 15.6396C10.2512 15.8378 9.93093 15.8375 9.73535 15.6388L6 11.8442\" stroke=\"black\" stroke-width=\"2\" stroke-linecap=\"round\"></path>\n                          </svg>\n                        </div>\n                        \n                          <p class=\"comparaison-table-2__feature-text p-large\">\n                            Tunisie : Norme de qualité et d'hygiène                  (norme NT : 118.152 (2021) Innorpi)\n                          </p>\n                        \n                      </div>\n                    \n                  </div>\n                  <div class=\"comparaison-table-2__cell comparaison-table-2__cell--competitor\" style=\"flex-direction: column;\">\n                    \n                      <div class=\"comparaison-table-2__feature comparaison-table-2__feature--cross\">\n                        <div class=\"comparaison-table-2__icon comparaison-table-2__icon--cross\">\n                          <svg class=\"icon\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\">\n                            <line x1=\"18\" y1=\"6\" x2=\"6\" y2=\"18\"></line>\n                            <line x1=\"6\" y1=\"6\" x2=\"18\" y2=\"18\"></line>\n                          </svg>\n                        </div>\n                        \n                          <p class=\"comparaison-table-2__feature-text p-medium\">\n                            Floue\n                          </p>\n                        \n                      </div>\n                    \n                  </div>\n                </div>\n            \n          \n            \n                <div class=\"comparaison-table-2__row\" data-block-id=\"feature-3\" tabindex=\"0\" role=\"row\" aria-label=\"Comparison row 3\">\n                  <div class=\"comparaison-table-2__cell comparaison-table-2__cell--criteria\">\n                    <p class=\"comparaison-table-2__criteria-text p-medium\">\n                      Extraction\n                    </p>\n                  </div>\n                  <div class=\"comparaison-table-2__cell comparaison-table-2__cell--our-product\">\n                    \n                      <div class=\"comparaison-table-2__feature comparaison-table-2__feature--check\">\n                        <div class=\"comparaison-table-2__icon comparaison-table-2__icon--check\">\n                          <svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                            <path d=\"M18 8L10.4472 15.6396C10.2512 15.8378 9.93093 15.8375 9.73535 15.6388L6 11.8442\" stroke=\"black\" stroke-width=\"2\" stroke-linecap=\"round\"></path>\n                          </svg>\n                        </div>\n                        \n                          <p class=\"comparaison-table-2__feature-text p-large\">\n                            Première pression à froid\n                          </p>\n                        \n                      </div>\n                    \n                  </div>\n                  <div class=\"comparaison-table-2__cell comparaison-table-2__cell--competitor\" style=\"flex-direction: column;\">\n                    \n                      <div class=\"comparaison-table-2__feature comparaison-table-2__feature--cross\">\n                        <div class=\"comparaison-table-2__icon comparaison-table-2__icon--cross\">\n                          <svg class=\"icon\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\">\n                            <line x1=\"18\" y1=\"6\" x2=\"6\" y2=\"18\"></line>\n                            <line x1=\"6\" y1=\"6\" x2=\"18\" y2=\"18\"></line>\n                          </svg>\n                        </div>\n                        \n                          <p class=\"comparaison-table-2__feature-text p-medium\">\n                            Industrielle\n                          </p>\n                        \n                      </div>\n                    \n                  </div>\n                </div>\n            \n          \n            \n                <div class=\"comparaison-table-2__row\" data-block-id=\"feature-4\" tabindex=\"0\" role=\"row\" aria-label=\"Comparison row 4\">\n                  <div class=\"comparaison-table-2__cell comparaison-table-2__cell--criteria\">\n                    <p class=\"comparaison-table-2__criteria-text p-medium\">\n                      Preuves\n                    </p>\n                  </div>\n                  <div class=\"comparaison-table-2__cell comparaison-table-2__cell--our-product\">\n                    \n                      <div class=\"comparaison-table-2__feature comparaison-table-2__feature--check\">\n                        <div class=\"comparaison-table-2__icon comparaison-table-2__icon--check\">\n                          <svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                            <path d=\"M18 8L10.4472 15.6396C10.2512 15.8378 9.93093 15.8375 9.73535 15.6388L6 11.8442\" stroke=\"black\" stroke-width=\"2\" stroke-linecap=\"round\"></path>\n                          </svg>\n                        </div>\n                        \n                          <p class=\"comparaison-table-2__feature-text p-large\">\n                            Étude clinique internationale menée par l'ONUDI\n                          </p>\n                        \n                      </div>\n                    \n                  </div>\n                  <div class=\"comparaison-table-2__cell comparaison-table-2__cell--competitor\" style=\"flex-direction: column;\">\n                    \n                      <div class=\"comparaison-table-2__feature comparaison-table-2__feature--cross\">\n                        <div class=\"comparaison-table-2__icon comparaison-table-2__icon--cross\">\n                          <svg class=\"icon\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\">\n                            <line x1=\"18\" y1=\"6\" x2=\"6\" y2=\"18\"></line>\n                            <line x1=\"6\" y1=\"6\" x2=\"18\" y2=\"18\"></line>\n                          </svg>\n                        </div>\n                        \n                          <p class=\"comparaison-table-2__feature-text p-medium\">\n                            Aucune\n                          </p>\n                        \n                      </div>\n                    \n                  </div>\n                </div>\n            \n          \n            \n                <div class=\"comparaison-table-2__row\" data-block-id=\"feature-5\" tabindex=\"0\" role=\"row\" aria-label=\"Comparison row 5\">\n                  <div class=\"comparaison-table-2__cell comparaison-table-2__cell--criteria\">\n                    <p class=\"comparaison-table-2__criteria-text p-medium\">\n                      Reconnaissance\n                    </p>\n                  </div>\n                  <div class=\"comparaison-table-2__cell comparaison-table-2__cell--our-product\">\n                    \n                      <div class=\"comparaison-table-2__feature comparaison-table-2__feature--check\">\n                        <div class=\"comparaison-table-2__icon comparaison-table-2__icon--check\">\n                          <svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                            <path d=\"M18 8L10.4472 15.6396C10.2512 15.8378 9.93093 15.8375 9.73535 15.6388L6 11.8442\" stroke=\"black\" stroke-width=\"2\" stroke-linecap=\"round\"></path>\n                          </svg>\n                        </div>\n                        \n                          <p class=\"comparaison-table-2__feature-text p-large\">\n                            + 140 Pharmacies, Le Bon Marché, Les Galeries Lafayette.\n                          </p>\n                        \n                      </div>\n                    \n                  </div>\n                  <div class=\"comparaison-table-2__cell comparaison-table-2__cell--competitor\" style=\"flex-direction: column;\">\n                    \n                      <div class=\"comparaison-table-2__feature comparaison-table-2__feature--cross\">\n                        <div class=\"comparaison-table-2__icon comparaison-table-2__icon--cross\">\n                          <svg class=\"icon\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\">\n                            <line x1=\"18\" y1=\"6\" x2=\"6\" y2=\"18\"></line>\n                            <line x1=\"6\" y1=\"6\" x2=\"18\" y2=\"18\"></line>\n                          </svg>\n                        </div>\n                        \n                          <p class=\"comparaison-table-2__feature-text p-medium\">\n                            Non\n                          </p>\n                        \n                      </div>\n                    \n                  </div>\n                </div>\n            \n          \n            \n                <div class=\"comparaison-table-2__row\" data-block-id=\"feature-6\" tabindex=\"0\" role=\"row\" aria-label=\"Comparison row 6\">\n                  <div class=\"comparaison-table-2__cell comparaison-table-2__cell--criteria\">\n                    <p class=\"comparaison-table-2__criteria-text p-medium\">\n                      Chaîne de production\n                    </p>\n                  </div>\n                  <div class=\"comparaison-table-2__cell comparaison-table-2__cell--our-product\">\n                    \n                      <div class=\"comparaison-table-2__feature comparaison-table-2__feature--check\">\n                        <div class=\"comparaison-table-2__icon comparaison-table-2__icon--check\">\n                          <svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                            <path d=\"M18 8L10.4472 15.6396C10.2512 15.8378 9.93093 15.8375 9.73535 15.6388L6 11.8442\" stroke=\"black\" stroke-width=\"2\" stroke-linecap=\"round\"></path>\n                          </svg>\n                        </div>\n                        \n                          <p class=\"comparaison-table-2__feature-text p-large\">\n                            Maîtrise totale\n                          </p>\n                        \n                      </div>\n                    \n                  </div>\n                  <div class=\"comparaison-table-2__cell comparaison-table-2__cell--competitor\" style=\"flex-direction: column;\">\n                    \n                      <div class=\"comparaison-table-2__feature comparaison-table-2__feature--cross\">\n                        <div class=\"comparaison-table-2__icon comparaison-table-2__icon--cross\">\n                          <svg class=\"icon\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\">\n                            <line x1=\"18\" y1=\"6\" x2=\"6\" y2=\"18\"></line>\n                            <line x1=\"6\" y1=\"6\" x2=\"18\" y2=\"18\"></line>\n                          </svg>\n                        </div>\n                        \n                          <p class=\"comparaison-table-2__feature-text p-medium\">\n                            Non maîtrisée\n                          </p>\n                        \n                      </div>\n                    \n                  </div>\n                </div>\n            \n          \n            \n                <div class=\"comparaison-table-2__row\" data-block-id=\"feature-7\" tabindex=\"0\" role=\"row\" aria-label=\"Comparison row 7\">\n                  <div class=\"comparaison-table-2__cell comparaison-table-2__cell--criteria\">\n                    <p class=\"comparaison-table-2__criteria-text p-medium\">\n                      Conditions de production\n                    </p>\n                  </div>\n                  <div class=\"comparaison-table-2__cell comparaison-table-2__cell--our-product\">\n                    \n                      <div class=\"comparaison-table-2__feature comparaison-table-2__feature--check\">\n                        <div class=\"comparaison-table-2__icon comparaison-table-2__icon--check\">\n                          <svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n                            <path d=\"M18 8L10.4472 15.6396C10.2512 15.8378 9.93093 15.8375 9.73535 15.6388L6 11.8442\" stroke=\"black\" stroke-width=\"2\" stroke-linecap=\"round\"></path>\n                          </svg>\n                        </div>\n                        \n                          <p class=\"comparaison-table-2__feature-text p-large\">\n                            Sols fertiles, ensoleillement élevé, 1000m d'altitude.\n                          </p>\n                        \n                      </div>\n                    \n                  </div>\n                  <div class=\"comparaison-table-2__cell comparaison-table-2__cell--competitor\" style=\"flex-direction: column;\">\n                    \n                      <div class=\"comparaison-table-2__feature comparaison-table-2__feature--cross\">\n                        <div class=\"comparaison-table-2__icon comparaison-table-2__icon--cross\">\n                          <svg class=\"icon\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\">\n                            <line x1=\"18\" y1=\"6\" x2=\"6\" y2=\"18\"></line>\n                            <line x1=\"6\" y1=\"6\" x2=\"18\" y2=\"18\"></line>\n                          </svg>\n                        </div>\n                        \n                          <p class=\"comparaison-table-2__feature-text p-medium\">\n                            Conditions non optimales\n                          </p>\n                        \n                      </div>\n                    \n                  </div>\n                </div>\n            \n          \n        </div>\n      </div>\n    </div>\n  </div>\n</div>\n\n</section>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "rich_text_wdbnQJ": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_dyaWx9": {
+          "type": "heading",
+          "settings": {
+            "text": "NOS  CLIENTS SATISFAITS",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_dyaWx9"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "#ececec",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "testimonials_wWCtPD": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_qqefyU": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "soraya",
+            "title": "pureté incroyable",
+            "content": "<p>j'ai la peau plus douce depuis que j'utilise ce produit qualité vraiment super et je recommande à 100% </p>"
+          }
+        },
+        "testimonial_EaE6AT": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "hervé",
+            "title": "",
+            "content": "<p>produit d'une très grande qualité, dés les premières utilisations j'ai noté une réelle différence. je vais devoir recommandé ma compagne la adopté aussi !</p>"
+          }
+        },
+        "testimonial_TmxhyC": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Marie",
+            "title": "excellente huile",
+            "content": "<p>je teste cette huile depuis quelques semaines moi ai une peau sensible je n'ai aucune réaction et une peau magnifique  </p>"
+          }
+        },
+        "testimonial_pMdjBF": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "latifa",
+            "title": "",
+            "content": "<p>cette huile est un pur bijou. après deux semaines, mon teint est plus lumineux plus homogène et hydraté. merci semyas pour ce produit de belle qualité </p>"
+          }
+        },
+        "testimonial_DqqENh": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "mauren",
+            "title": "sans hésiter le roll on",
+            "content": "<p>produit au top qualité car la dose est nickel et je vois une net amélioration sur mes taches sous les yeux que j'avais super noir </p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_qqefyU",
+        "testimonial_EaE6AT",
+        "testimonial_TmxhyC",
+        "testimonial_pMdjBF",
+        "testimonial_DqqENh"
+      ],
+      "name": "Testimonials",
+      "settings": {
+        "full_width": true,
+        "stack_testimonials": false,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "#f5f5f5",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "",
+        "testimonial_card_text_color": ""
+      }
+    },
+    "faq_4hjUnK": {
+      "type": "faq",
+      "blocks": {
+        "item_VNt4kr": {
+          "type": "item",
+          "settings": {
+            "title": "ECOCERT COSMOS ORGANIC BIO",
+            "content": "<p>INCI Certifié par <strong>Ecocert</strong> SAS MX</p><p>BIO – 154 Opérateur <strong>N° 161181.</strong></p><p>Produit sans OGM.</p><p><strong>Les certifications Ecocert et Cosmos organic </strong>garantissent des produits biologiques et écologiques de haute qualité, respectueux de l'environnement.</p><p>Elles assurent la transparence des ingrédients et des pratiques de fabrication durables, favorisant ainsi la préservation de la biodiversité et le bien-être des producteurs.</p><p>En choisissant des produits certifiés, les consommateurs soutiennent une économie éthique et contribuent à un avenir durable, tout en prenant soin de leur santé et de la planète.</p>"
+          }
+        },
+        "item_WKzQGH": {
+          "type": "item",
+          "settings": {
+            "title": "HUILE DE QUALITÉ PREMIUM",
+            "content": "<p>Découvrez notre huile de graines de figue de barbarie sauvage ( ses troncs ancestraux ), un produit de <strong>qualité premium </strong>issu de figues sauvages, soigneusement récoltées à la main.</p><p>Chaque année, nous réalisons une seule récolte, garantissant ainsi la pureté et la richesse de notre huile.</p><p>Nous collaborons en exclusivité avec un unique producteur, engagé dans la préservation de la biodiversité et la constance de la qualité.</p><p>Chaque goutte de notre huile est extraite par une seule pression à froid sans solvants, une méthode qui préserve tous ses bienfaits, en la rendant riche en antioxydants et en acides gras essentiels.</p><p>Choisir notre huile, c’est opter pour un trésor de la nature, qui enrichit votre routine de soins tout en respectant les traditions ancestrales et l'environnement.</p>"
+          }
+        },
+        "item_qwNjcG": {
+          "type": "item",
+          "settings": {
+            "title": "ANALYSE LABORATOIRE EN FRANCE",
+            "content": "<p>Notre huile est soigneusement analysée par le<strong> laboratoire ITERG France </strong>spécialiste des corps gras.</p><p>Composition Exceptionnelle Notre huile de graines de figue de barbarie sauvage contient une harmonieuse synergie d’ingrédients bénéfiques, dont :</p><p><strong>- Acides gras essentiels</strong> (oméga-6 et oméga-9) : Maintiennent l'hydratation et améliorent l’élasticité de la peau.</p><p><strong>- Vitamine E</strong> : Antioxydant puissant, protège la peau des radicaux libres.</p><p><strong>- Vitamine K</strong> : Favorise la cicatrisation et aide à apaiser les irritations.</p><p><strong>- Vitamine A</strong> : Aide au renouvellement cellulaire et au maintien de la santé cutanée.</p><p><strong>- Vitamine D</strong> : Renforce la barrière cutanée et améliore la protection naturelle.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_VNt4kr",
+        "item_WKzQGH",
+        "item_qwNjcG"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "NOS GARANTIES",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "disabled": true,
+      "settings": {
+        "recommendations_count": 6,
+        "products": [],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "You may also like",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "slideshow_bmrfiw",
+    "related_products_HX4qfW",
+    "scrolling_text_4KBGbi",
+    "media_with_text_ryVKU6",
+    "logo_list_dhE7LM",
+    "logo_list_9cHiKh",
+    "faq_NqjfP9",
+    "multi_column_mpfiR4",
+    "press_AXKJmx",
+    "logo_list_tTF4MY",
+    "media_with_text_jifPhK",
+    "custom_liquid_bRw4Wj",
+    "rich_text_wdbnQJ",
+    "testimonials_wWCtPD",
+    "faq_4hjUnK",
+    "related-products"
+  ]
+}
