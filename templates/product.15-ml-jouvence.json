@@ -12,6 +12,12 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "text_VMDcGW": {
+          "type": "text",
+          "settings": {
+            "text": "<p>SEMYAS ni cultivée, ni irriguée. Une nature préservée, de la récolte au flacon.</p>"
+          }
+        },
         "liquid_DeWnWa": {
           "type": "liquid",
           "disabled": true,
@@ -144,6 +150,7 @@
         }
       },
       "block_order": [
+        "text_VMDcGW",
         "liquid_DeWnWa",
         "title",
         "text_q9rUW9",
