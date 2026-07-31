@@ -112,7 +112,7 @@
         "collapsible_text_AMHH4b": {
           "type": "collapsible_text",
           "settings": {
-            "icon": "picto-leaf",
+            "icon": "none",
             "icon_width": 20,
             "title": "Ingrédient Unique",
             "content": "<p><strong>Huile de Graines de Figue de Barbarie sauvage : </strong><em><strong>Trésor botanique du Mexique</strong></em> <em>(Opuntia ficus-indica )</em></p><ul><li><strong>Une seule récolte par an </strong><em>Respect de la biodiversité</em></li><li><strong>Unique pressage à froid </strong><em>Garantie tous les bienfaits</em></li><li><strong>100% pure certifié bio</strong> <em>Ecocert Cosmos Organic & Cosmebio -     Certifié BIO -</em></li></ul><p><strong>Composition Exceptionnelle</strong></p><p>Notre huile de graines de figue de barbarie sauvage contient une harmonieuse synergie d’ingrédients bénéfiques</p>",
@@ -417,6 +417,7 @@
         "item_3jFVQX",
         "item_RnhPxd"
       ],
+      "disabled": true,
       "name": "FAQ",
       "settings": {
         "full_width": true,
@@ -809,6 +810,7 @@
         "item_WKzQGH",
         "item_qwNjcG"
       ],
+      "disabled": true,
       "name": "FAQ",
       "settings": {
         "full_width": true,
