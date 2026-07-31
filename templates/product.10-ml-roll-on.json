@@ -124,18 +124,18 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Rituel d'Application",
-            "content": "<p>Sur une peau parfaitement propre et sèche, appliquer délicatement le roll-on sur le contour de l'œil.</p><p>Faire glisser la bille du coin interne de l'œil vers la tempe, puis effectuer de légers tapotements du bout des doigts pour favoriser l'absorption du précieux élixir.</p><p>Utiliser matin et soir pour un rituel quotidien de beauté.</p><p><strong>Une gestuelle simple, un moment précieux, pour révéler l'éclat naturel du regard.</strong></p>",
+            "title": "le Geste SEMYAS",
+            "content": "<p>Chaque matin et chaque soir, déposer quelques touches de cette huile précieuse sur le contour des yeux.</p><p>La fraîcheur du roll-on accompagne un massage délicat, tandis que l'essence rare se fond naturellement dans la peau.</p><p>Un rituel d'exception pour préserver la beauté et la luminosité du regard.</p>",
             "page": ""
           }
         },
         "collapsible_text_znpyiz": {
           "type": "collapsible_text",
           "settings": {
-            "icon": "picto-award-gift",
+            "icon": "none",
             "icon_width": 20,
-            "title": "Les bienfaits de SEMYAS",
-            "content": "<p><strong>Régénérante</strong></p><p>Exceptionnellement riche en vitamine E, elle aide la peau à se réparer et à retrouver sa densité.</p><p><strong>Protectrice</strong> </p><p>Ses antioxydants naturels luttent contre le stress oxydatif et les signes prématurés de l’âge.</p><p><strong>Nourrissante & légère</strong> </p><p>Elle pénètre rapidement, nourrit en profondeur et convient même aux peaux mixtes à grasses.</p><p><strong>SEMYAS</strong> concentre le meilleur de la graine de figue de Barbarie sauvage :</p><p>• L’une des plus hautes teneurs en vitamine E du règne végétal</p><p>• Riche en acide linoléique (oméga-6) pour renforcer la barrière cutanée</p><p>• Fort pouvoir antioxydant</p><p>• Action réparatrice sur les peaux marquées (cicatrices, vergetures, relâchement)</p><p>• Texture sèche et soyeuse, non comédogène</p><p><em><strong>Un soin d’exception, né des terres ancestrales.</strong></em></p>",
+            "title": "l'Éclat du  Regard Préservé",
+            "content": "<p>Le roll-on <strong>REGARD D'EXCEPTION</strong> aide à améliorer visiblement l'apparence du contour de l'œil.</p><p>Sa formule précieuse contribue à :</p><ul><li><strong>Réduire l'apparence des cernes et des zones d'ombre.</strong></li><li><strong>Aider à atténuer l'apparence des zones d'ombre et des irrégularités pigmentaires du contour de l'œil.</strong></li><li><strong>Harmoniser visiblement le teint du contour de l'œil.</strong></li><li><strong>Redonner éclat et luminosité au regard.</strong></li><li><strong>Préserver une peau plus lisse, plus souple et plus uniforme.</strong></li><li><strong>Protéger la peau du stress oxydatif grâce à sa richesse naturelle en vitamine E.</strong></li></ul><p>Un rituel précieux pour un regard visiblement plus frais, lumineux et reposé.</p>",
             "page": ""
           }
         },
