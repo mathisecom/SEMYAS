@@ -19,10 +19,10 @@
     "contact": {
       "type": "contact",
       "settings": {
-        "full_width": true,
-        "subheading": "RÉSERVÉ AUX PROFESSIONNELS",
-        "title": "Vous dirigez un SPA, un Institut, une Parapharmacie ou une Boutique bio ? Faites la différence !",
-        "content": "<p><strong>Soin premium 100 % sauvage</strong></p><p>Parfait pour soins du visage, massages et rituels signature — une huile rare, tracée de la plante au flacon.</p><p><em><strong>Rejoignez notre réseau de partenaires et offrez à votre clientèle l'excellence de la nature. </strong></em><strong><br/></strong><br/>Offre pro : Conditions commerciales adaptées, tarifs préférentiels, MOQ flexibles et échantillons disponibles<br/><br/></p>",
+        "full_width": false,
+        "subheading": "",
+        "title": "",
+        "content": "<h1>Une question, un conseil ou simplement l'envie d'échanger ?</h1><p>SEMYAS est née d'une rencontre, d'un dialogue et d'une passion commune pour une nature préservée.</p><p>Aujourd'hui encore, nous cultivons cette proximité avec celles et ceux qui nous font confiance.</p><p>Que votre question concerne nos huiles, votre rituel de soin ou votre commande, notre équipe prendra le temps de vous répondre avec attention.</p><p>Nous avons hâte de vous lire.</p>",
         "text_position": "center",
         "contact_form_size": "large",
         "background": "",
