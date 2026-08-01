@@ -14,9 +14,8 @@
       "blocks": {
         "liquid_DeWnWa": {
           "type": "liquid",
-          "disabled": true,
           "settings": {
-            "liquid": "<div class=\"main-product__block main-product__block-custom_liquid\">\n          <div class=\"m-product-text\">\n            <div class=\"main-product__block main-product__block-custom_liquid\">\n          <div class=\"m-product-text\">\n            <div class=\"main-product__block main-product__block-custom_liquid\">\n  <div class=\"m-product-text\">\n    <div class=\"product-info__liquid\">\n      <a class=\"image-size\" style=\"display: flex; align-items: center; gap: 8px;\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0776/3751/7627/files/avis.png?v=1687213619\" alt=\"Étoiles\" width=\"63\" height=\"13\">\n        <span class=\"text-size\">Noté <b>4.9/5</b> sur la base de +500 avis</span>\n      </a>\n    </div>\n  </div>\n</div>\n          </div>\n        \n</div>\n          </div>\n        \n</div>"
+            "liquid": "<div class=\"main-product__block main-product__block-custom_liquid\">\n          <div class=\"m-product-text\">\n            <div class=\"main-product__block main-product__block-custom_liquid\">\n          <div class=\"m-product-text\">\n            <div class=\"main-product__block main-product__block-custom_liquid\">\n  <div class=\"m-product-text\">\n    <div class=\"product-info__liquid\">\n      <a class=\"image-size\" style=\"display: flex; align-items: center; gap: 8px;\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0776/3751/7627/files/avis.png?v=1687213619\" alt=\"Étoiles\" width=\"63\" height=\"13\">\n        <span class=\"text-size\">Noté <b>5/5</b> sur la base de +500 avis</span>\n      </a>\n    </div>\n  </div>\n</div>\n          </div>\n        \n</div>\n          </div>\n        \n</div>"
           }
         },
         "title": {
@@ -28,7 +27,7 @@
         "text_q9rUW9": {
           "type": "text",
           "settings": {
-            "text": "<p>Soin Huile Sèche Bio par nature </p>"
+            "text": "<p>4 MOIS Soin Huile Sèche Bio par nature </p>"
           }
         },
         "liquid_HjcQtb": {
@@ -130,7 +129,7 @@
             "icon": "none",
             "icon_width": 20,
             "title": "Les bienfaits de SEMYAS",
-            "content": "<p><strong>Régénérante</strong></p><p>Exceptionnellement riche en vitamine E, elle aide la peau à se réparer et à retrouver sa densité.</p><p><strong>Protectrice</strong> </p><p>Ses antioxydants naturels luttent contre le stress oxydatif et les signes prématurés de l’âge.</p><p><strong>Nourrissante & légère</strong> </p><p>Elle pénètre rapidement, nourrit en profondeur et convient même aux peaux mixtes à grasses.</p><p><strong>SEMYAS</strong> concentre le meilleur de la graine de figue de Barbarie sauvage :</p><p>• L’une des plus hautes teneurs en vitamine E du règne végétal</p><p>• Riche en acide linoléique (oméga-6) pour renforcer la barrière cutanée</p><p>• Fort pouvoir antioxydant</p><p>• Action réparatrice sur les peaux marquées (cicatrices, vergetures, relâchement)</p><p>• Texture sèche et soyeuse, non comédogène</p><p><em><strong>Un soin d’exception, né des terres ancestrales.</strong></em></p>",
+            "content": "<h2>Le rituel d'exception visage & regard</h2><h3>L'alliance parfaite de deux soins précieux</h3><p>Découvrez une routine complète réunissant deux expressions de la beauté sauvage SEMYAS :</p><p><strong>Le Soin Intense Jouvence 30 ml</strong><br/>Une huile ultra-concentrée de graines de figue de Barbarie sauvage, véritable élixir de jeunesse, qui nourrit, sublime et accompagne la beauté naturelle de la peau.</p><p><strong>Le Regard d'Exception Roll-on 10 ml</strong><br/>Un geste précis dédié à la zone délicate du contour de l'œil, pour révéler un regard plus lumineux, plus lisse et visiblement reposé.</p><h2>LES BIENFAITS DU DUO</h2><ul><li>Nourrit intensément la peau.</li><li>Aide à préserver la jeunesse cutanée.</li><li>Lisse visiblement l'apparence des ridules.</li><li>Sublime l'éclat du teint.</li><li>Aide à atténuer l'apparence des zones d'ombre du regard.</li><li>Apporte confort et douceur aux peaux en quête de vitalité.</li></ul><h2>L'EXCELLENCE SEMYAS</h2><p>Une association pensée pour celles et ceux qui recherchent une beauté authentique, issue d'une huile rare récoltée à l'état sauvage.</p><p><strong>Deux soins. Un rituel. Une signature beauté.</strong></p>",
             "page": ""
           }
         },
