@@ -78,7 +78,6 @@
         },
         "quantity_selector": {
           "type": "quantity_selector",
-          "disabled": true,
           "settings": {}
         },
         "buy_buttons": {
@@ -107,7 +106,7 @@
         "collapsible_text_AMHH4b": {
           "type": "collapsible_text",
           "settings": {
-            "icon": "picto-leaf",
+            "icon": "none",
             "icon_width": 20,
             "title": "Ingrédient Unique",
             "content": "<p><strong>Huile de Graines de Figue de Barbarie sauvage : </strong><em><strong>Trésor botanique du Mexique</strong></em> <em>(Opuntia ficus-indica )</em></p><ul><li><strong>Une seule récolte par an </strong><em>Respect de la biodiversité</em></li><li><strong>Unique pressage à froid </strong><em>Garantie tous les bienfaits</em></li><li><strong>100% pure certifié bio</strong> <em>Ecocert Cosmos Organic & Cosmebio -     Certifié BIO -</em></li></ul><p><strong>Composition Exceptionnelle</strong></p><p>Notre huile de graines de figue de barbarie sauvage contient une harmonieuse synergie d’ingrédients bénéfiques, dont :</p><p><strong>Acides gras essentiels</strong> (Oméga-6 & Oméga-9) : Maintiennent l'hydratation et améliorent l’élasticité de la peau.</p><p><strong>Vitamine E</strong> : Antioxydant puissant, protège la peau des radicaux libres.</p><p><strong>Vitamine K</strong> : Favorise la cicatrisation et aide à apaiser les irritations.</p><p><strong>Vitamine A</strong> : Aide au renouvellement cellulaire et au maintien de la santé cutanée.</p><p><strong>Vitamine D</strong> : Renforce la barrière cutanée et améliore la protection naturelle.</p>",
@@ -117,7 +116,7 @@
         "collapsible_text_bLAeVH": {
           "type": "collapsible_text",
           "settings": {
-            "icon": "picto-file",
+            "icon": "none",
             "icon_width": 20,
             "title": "Conseils D'Utilisation",
             "content": "<p><strong>Le Rituel SEMYAS</strong><br/>Gestuelle recommandée<br/>1. Sur une peau parfaitement propre (idéalement encore légèrement humide), déposer 2 à 3 gouttes de SEMYAS dans le creux de la main.<br/>2. Réchauffer l’huile entre les paumes pour l’activer.<br/>3. Appliquer en pressions douces sur le visage et le cou, du centre vers l’extérieur.<br/>4. Laisser pénétrer sans frotter.<br/>5. Rester quelques instants en silence.<br/><br/><strong>Quand l’utiliser</strong><br/>• Matin et/ou soir, en soin unique ou en dernière étape de votre routine.<br/>• Pure, pour une action concentrée.<br/>• Ou mélangée à votre crème de jour / sérum pour en décupler les bienfaits.<br/>• Sur les zones très sèches : contours des yeux, décolleté, mains, cicatrices ou vergetures.<br/><br/></p>",
@@ -127,7 +126,7 @@
         "collapsible_text_znpyiz": {
           "type": "collapsible_text",
           "settings": {
-            "icon": "picto-award-gift",
+            "icon": "none",
             "icon_width": 20,
             "title": "Les bienfaits de SEMYAS",
             "content": "<p><strong>Régénérante</strong></p><p>Exceptionnellement riche en vitamine E, elle aide la peau à se réparer et à retrouver sa densité.</p><p><strong>Protectrice</strong> </p><p>Ses antioxydants naturels luttent contre le stress oxydatif et les signes prématurés de l’âge.</p><p><strong>Nourrissante & légère</strong> </p><p>Elle pénètre rapidement, nourrit en profondeur et convient même aux peaux mixtes à grasses.</p><p><strong>SEMYAS</strong> concentre le meilleur de la graine de figue de Barbarie sauvage :</p><p>• L’une des plus hautes teneurs en vitamine E du règne végétal</p><p>• Riche en acide linoléique (oméga-6) pour renforcer la barrière cutanée</p><p>• Fort pouvoir antioxydant</p><p>• Action réparatrice sur les peaux marquées (cicatrices, vergetures, relâchement)</p><p>• Texture sèche et soyeuse, non comédogène</p><p><em><strong>Un soin d’exception, né des terres ancestrales.</strong></em></p>",
@@ -139,7 +138,7 @@
           "settings": {
             "image": "shopify://shop_images/bandeau_site2_7cf5f478-5d89-43e5-b1cc-4f555b7df38e.png",
             "alignment": "center",
-            "max_width": 270
+            "max_width": 370
           }
         }
       },
@@ -164,7 +163,7 @@
         "image_EkWUhT"
       ],
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "show_fixed_add_to_cart": true,
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
@@ -174,7 +173,7 @@
         "enable_video_looping": true,
         "enable_image_zoom": false,
         "max_image_zoom_level": 3,
-        "background": "",
+        "background": "#FFFFFF",
         "background_gradient": "",
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
