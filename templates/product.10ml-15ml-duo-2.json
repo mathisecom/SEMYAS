@@ -123,8 +123,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "le Geste JOUVENCE",
-            "content": "<p><strong>Le Rituel SEMYAS</strong><br/>Gestuelle recommandée</p><p><br/>1. Sur une peau parfaitement propre (idéalement encore légèrement humide), déposer 3 à 4 gouttes de SEMYAS dans le creux de la main.<br/>2. Réchauffer l’huile entre les paumes pour l’activer.<br/>3. Appliquer en pressions douces sur le visage et le cou, du centre vers l’extérieur.<br/>4. Laisser pénétrer sans frotter.<br/>5. Rester quelques instants en silence.<br/><br/><strong>Quand l’utiliser</strong></p><p><br/>• Matin et/ou soir, en soin unique ou en dernière étape de votre routine.<br/>• Pure, pour une action concentrée.<br/>Ou mélangée à votre crème de jour / sérum pour en décupler les bienfaits.</p><p> Sur les zones très sèches : contours des yeux, décolleté, mains, cicatrices ou vergetures.<br/><br/></p>",
+            "title": "DUO SIGNATURE SEMYAS",
+            "content": "<h4>Le rituel d'exception visage & regard</h4><h4>L'alliance parfaite de deux soins précieux</h4><p>Découvrez une routine complète réunissant deux expressions de la beauté sauvage SEMYAS :</p><p><strong>Le Soin Intense Jouvence 15 ml</strong><br/>Une huile ultra-concentrée de graines de figue de Barbarie sauvage, véritable élixir de jeunesse, qui nourrit, sublime et accompagne la beauté naturelle de la peau.</p><p><strong>Le Regard d'Exception Roll-on 10 ml</strong><br/>Un geste précis dédié à la zone délicate du contour de l'œil, pour révéler un regard plus lumineux, plus lisse et visiblement reposé.</p><h4>UNE SYNERGIE UNIQUE</h4><p>Deux textures précieuses, deux gestes complémentaires :</p><p><strong>Le visage retrouve confort, éclat et souplesse.</strong><br/><strong>Le regard révèle toute sa luminosité.</strong></p><p>Chaque application devient un rituel sensoriel inspiré par la puissance d'une nature sauvage préservée.</p>",
             "page": ""
           }
         },
@@ -134,7 +134,7 @@
             "icon": "none",
             "icon_width": 20,
             "title": "Les bienfaits de SEMYAS",
-            "content": "<p><strong>Régénérante</strong></p><p>Exceptionnellement riche en vitamine E, elle aide la peau à se réparer et à retrouver sa densité.</p><p><strong>Protectrice</strong> </p><p>Ses antioxydants naturels luttent contre le stress oxydatif et les signes prématurés de l’âge.</p><p><strong>Nourrissante & légère</strong> </p><p>Elle pénètre rapidement, nourrit en profondeur et convient même aux peaux mixtes à grasses.</p><p><strong>SEMYAS</strong> concentre le meilleur de la graine de figue de Barbarie sauvage :</p><p>• L’une des plus hautes teneurs en vitamine E du règne végétal</p><p>• Riche en acide linoléique (oméga-6) pour renforcer la barrière cutanée</p><p>• Fort pouvoir antioxydant</p><p>• Action réparatrice sur les peaux marquées (cicatrices, vergetures, relâchement)</p><p>• Texture sèche et soyeuse, non comédogène</p><p><em><strong>Un soin d’exception, né des Terres Ancestrales.</strong></em></p>",
+            "content": "<h4>LES BIENFAITS DU DUO</h4><ul><li>Nourrit intensément la peau.</li><li>Aide à préserver la jeunesse cutanée.</li><li>Lisse visiblement l'apparence des ridules.</li><li>Sublime l'éclat du teint.</li><li>Aide à atténuer l'apparence des zones d'ombre du regard.</li><li>Apporte confort et douceur aux peaux en quête de vitalité.</li></ul><h2>L'EXCELLENCE SEMYAS</h2><p>Une association pensée pour celles et ceux qui recherchent une beauté authentique, issue d'une huile rare récoltée à l'état sauvage.</p><p><strong>Deux soins. Un rituel. Une signature beauté.</strong></p>",
             "page": ""
           }
         },
@@ -179,7 +179,7 @@
         "enable_video_looping": true,
         "enable_image_zoom": false,
         "max_image_zoom_level": 3,
-        "background": "#FFFFFF",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
