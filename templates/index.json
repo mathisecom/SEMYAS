@@ -67,7 +67,7 @@
         "richtext_8xkMYJ": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Huile originelle de graines de figue de Barbarie sauvage.<br/>Née au berceau absolu de l’espèce, sur les terres ancestrales du Mexique.<br/>Pressée une seule fois à froid, sans raffinage, SEMYAS conserve l’intégrité totale de ses actifs.<br/>Sa concentration exceptionnelle en vitamine E — supérieure à 1 000 mg/kg — domine largement celle de la majorité des huiles du marché.<br/>Pureté souveraine.<br/>Non cultivée. Non irriguée. Récoltée à la main selon un savoir-faire ancestral.<br/>Une tonne de fruits sauvages pour un seul litre d’huile.<br/>Le Remède Sauvage dans sa forme la plus pure.<br/><br/><em>Certifiée BIO Ecocert Cosmos Organic</em><br/></p>"
+            "content": "<p>Huile originelle de graines de figue de Barbarie sauvage.<br/>Née au berceau absolu de l’espèce, sur les terres ancestrales du Mexique.<br/>Pressée une seule fois à froid, sans raffinage, SEMYAS conserve l’intégrité totale de ses actifs.<br/>Sa concentration exceptionnelle en vitamine E — supérieure à 1 000 mg/kg — domine largement celle de la majorité des huiles du marché.<br/>Pureté souveraine.<br/>Non cultivée. Non irriguée. Récoltée à la main selon un savoir-faire ancestral.<br/>Une tonne de fruits sauvages pour un seul litre d’huile.<br/>Le Remède Sauvage dans sa forme la plus pure.</p>"
           }
         },
         "divider_9e7L6Y": {
@@ -85,6 +85,12 @@
             "text_color": "#000000"
           }
         },
+        "richtext_qYWaiG": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><em>Certifiée BIO Ecocert Cosmos Organic & Cosmebio    </em></p><p><em>100% Pure |  Non Comédogène  | Vegan</em><br/></p>"
+          }
+        },
         "heading_QwxTYe": {
           "type": "heading",
           "settings": {
@@ -100,6 +106,7 @@
         "richtext_8xkMYJ",
         "divider_9e7L6Y",
         "button_Bbmf9d",
+        "richtext_qYWaiG",
         "heading_QwxTYe"
       ],
       "name": "Rich text",
@@ -129,9 +136,9 @@
         "products_count": 6,
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 3,
-        "subheading": "",
-        "title": "SOIN HERITAGE",
-        "content": "<h5><em>huile sèche ultra concentrée 3/4 gouttes <br/></em></h5>",
+        "subheading": "HERITAGE",
+        "title": "le RITUEL SEMYAS",
+        "content": "<h5><em>huile sèche ultra-concentrée 3/4 gouttes suffisent<br/></em></h5>",
         "link_url": "",
         "link_text": "Meilleures Ventes",
         "background": "#fdfdfd",
@@ -895,7 +902,7 @@
         "feature_row_ebzhi6": {
           "type": "feature_row",
           "settings": {
-            "feature_name": "Origine Mexique",
+            "feature_name": "Origine Mexique ancestrale",
             "primary_has_feature": true,
             "competitor_has_feature": false
           }
@@ -903,7 +910,7 @@
         "feature_row_NfWLiJ": {
           "type": "feature_row",
           "settings": {
-            "feature_name": "Une seul recolte annuelle",
+            "feature_name": "Une Seul récolte Annuelle",
             "primary_has_feature": true,
             "competitor_has_feature": false
           }
@@ -911,7 +918,7 @@
         "feature_row_7mwaBA": {
           "type": "feature_row",
           "settings": {
-            "feature_name": "Taux Vitamine E   +1000mg/kg",
+            "feature_name": "Vitamine E  > 1000mg/kg",
             "primary_has_feature": true,
             "competitor_has_feature": false
           }
@@ -919,7 +926,7 @@
         "feature_row_Jp3Gec": {
           "type": "feature_row",
           "settings": {
-            "feature_name": "Non Cultivés, Non Irrigués",
+            "feature_name": "Non Cultivée, Non Irriguée",
             "primary_has_feature": true,
             "competitor_has_feature": false
           }
@@ -927,7 +934,7 @@
         "feature_row_XqVTr7": {
           "type": "feature_row",
           "settings": {
-            "feature_name": "Origine Ancestrale",
+            "feature_name": "Traçabilité Totale",
             "primary_has_feature": true,
             "competitor_has_feature": false
           }
@@ -983,8 +990,8 @@
         "feature_text_color": "#121212",
         "competitor_text_color": "#121212",
         "divider_color": "#e0e0e0",
-        "check_color": "#ffffff",
-        "cross_color": "#121212",
+        "check_color": "#93E293",
+        "cross_color": "#000000",
         "cross_stroke_style": "transparent",
         "badge_background": "#ffffff26",
         "badge_icon_color": "#ffffff",
