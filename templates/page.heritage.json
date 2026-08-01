@@ -1,0 +1,191 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "content_width": "80ch"
+      }
+    },
+    "media_with_text_QpECai": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_CXVCrH": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/IMG_4208_337a0440-c846-4d8b-b0ad-657d23d89cae.jpg",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "NOTRE ORIGINE",
+            "content": "<p>Le Mexique abrite depuis des millénaires un cactus capable de prospérer là où presque rien ne pousse.</p><p>Sur les terres précolombiennes, certains figuiers de barbarie sauvages continuent encore aujourd'hui de grandir librement, sans irrigation, sans culture intensive et sans intervention humaine.</p><p>C'est là que notre histoire prend racine.</p><p>En 2014, la rencontre entre Paty, héritière de la culture mexicaine, et moi même Naïm, passionné par les plantes et les écosystèmes naturels, fait naître une même conviction : si cette nature est restée intacte, son huile mérite de l'être aussi.</p><p>Commence alors plusieurs années de recherche à travers le Mexique, guidées par une seule exigence : retrouver une origine préservée et respecter ce que la nature a mis des siècles à créer.</p><p>Notre quête nous conduit jusqu'à une région confidentielle où quelques familles veillent depuis des générations sur ces figuiers ancestraux.</p><p>Plus qu'un lieu de récolte, nous y découvrons un patrimoine vivant.</p><p>Depuis, chaque flacon est issu de cette même terre, de ces mêmes gestes et de cette même promesse : ne rien altérer de ce que la nature offre dans sa forme la plus pure.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#F9F6F1",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        },
+        "image_3D4ehj": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/7_3ecbe235-03d7-4fc5-bd55-cf30c9c2886b.png",
+            "media_width": 40,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "SEMYAS",
+            "title": "L'ART DE LA PATIENCE",
+            "content": "<p>La nature ne produit jamais dans l'urgence.</p><p>Nous avons choisi d'adopter son rythme.</p><p>Les fruits sont cueillis exclusivement à la main, une seule fois par an, lorsque leur maturité est parfaite.</p><p>Leurs graines sont ensuite extraites avec une précision extrême avant d'être pressées une seule fois à froid.</p><p>Aucun raffinage.</p><p>Aucune transformation inutile.</p><p>Seulement une huile intacte, dont chaque goutte préserve la richesse naturelle de la plante.</p><p>De la récolte à l'embouteillage, chaque étape est réalisée avec la même exigence de traçabilité et de respect.</p><p>Parce qu'un produit d'exception ne se fabrique pas.</p><p>Il se préserve.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#F9F6F1",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        },
+        "image_K64cBT": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/PHOTO_GRAINE_DE_FIGUE.jpg",
+            "media_width": 40,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "SEMYAS",
+            "content": "<p>SEMYAS est l'expression d'une nature restée libre.</p><p>Une huile de graines de figue de barbarie sauvage certifiée Ecocert et COSMOS Organic, élaborée exclusivement à partir de cactus poussant spontanément sur les terres précolombiennes du Mexique.</p><p>Rare par son origine.</p><p>Précieuse par sa composition.</p><p>Authentique par sa méthode de production.</p><p>Chaque flacon concentre des milliers de graines et plusieurs mois de travail patient, réalisés dans le respect des communautés locales et de leur savoir-faire.</p><p>Nous ne créons pas simplement un soin.</p><p>Nous révélons l'une des huiles les plus précieuses que la nature puisse offrir.</p><p>Un rituel né du Mexique sauvage.</p><p>Préservé jusqu'à vous.</p>",
+            "link_text": "DECOUVRIR SEMYAS",
+            "link_url": "shopify://collections/all",
+            "background": "#F9F6F1",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_CXVCrH",
+        "image_3D4ehj",
+        "image_K64cBT"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": true,
+        "alternate_media_position": true,
+        "spacing": "small"
+      }
+    },
+    "media_grid_X7fNXT": {
+      "type": "media-grid",
+      "blocks": {
+        "image_4bqHFa": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/high-angle-shot-exotic-wild-plants-growing-rocks-tatacoa-desert-colombia.jpg",
+            "title": "",
+            "heading_tag": "h4",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 2,
+            "desktop_row_span": 1,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_xU84af": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/22.png",
+            "title": "",
+            "heading_tag": "h4",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 2,
+            "desktop_row_span": 2,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_VVAXqX": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/3_4ede4e83-8d72-44b3-8b21-6927067c087f.png",
+            "title": "",
+            "heading_tag": "h4",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 2,
+            "desktop_row_span": 1,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_4bqHFa",
+        "image_xU84af",
+        "image_VVAXqX"
+      ],
+      "name": "Media grid",
+      "settings": {
+        "full_width": true,
+        "reduce_width": false,
+        "desktop_row_height": 290,
+        "mobile_row_height": 150,
+        "background": "",
+        "background_gradient": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "media_with_text_QpECai",
+    "media_grid_X7fNXT"
+  ]
+}
