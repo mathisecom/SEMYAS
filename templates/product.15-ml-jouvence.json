@@ -21,7 +21,7 @@
         "liquid_DeWnWa": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div class=\"main-product__block main-product__block-custom_liquid\">\n          <div class=\"m-product-text\">\n            <div class=\"main-product__block main-product__block-custom_liquid\">\n          <div class=\"m-product-text\">\n            <div class=\"main-product__block main-product__block-custom_liquid\">\n  <div class=\"m-product-text\">\n    <div class=\"product-info__liquid\">\n      <a class=\"image-size\" style=\"display: flex; align-items: center; gap: 8px;\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0776/3751/7627/files/avis.png?v=1687213619\" alt=\"Étoiles\" width=\"63\" height=\"13\">\n        <span class=\"text-size\">Noté <b>4.9/5</b> sur la base de +500 avis</span>\n      </a>\n    </div>\n  </div>\n</div>\n          </div>\n        \n</div>\n          </div>\n        \n</div>"
+            "liquid": "<div class=\"main-product__block main-product__block-custom_liquid\">\n          <div class=\"m-product-text\">\n            <div class=\"main-product__block main-product__block-custom_liquid\">\n          <div class=\"m-product-text\">\n            <div class=\"main-product__block main-product__block-custom_liquid\">\n  <div class=\"m-product-text\">\n    <div class=\"product-info__liquid\">\n      <a class=\"image-size\" style=\"display: flex; align-items: center; gap: 8px;\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0776/3751/7627/files/avis.png?v=1687213619\" alt=\"Étoiles\" width=\"63\" height=\"13\">\n        <span class=\"text-size\">Noté <b>4.9/5</b> sur la base de +100 avis</span>\n      </a>\n    </div>\n  </div>\n</div>\n          </div>\n        \n</div>\n          </div>\n        \n</div>"
           }
         },
         "title": {
@@ -134,7 +134,7 @@
           "settings": {
             "icon": "none",
             "icon_width": 20,
-            "title": "Les bienfaits de SEMYAS",
+            "title": "effets SEMYAS",
             "content": "<p><strong>Régénérante</strong></p><p>Exceptionnellement riche en vitamine E, elle aide la peau à se réparer et à retrouver sa densité.</p><p><strong>Protectrice</strong> </p><p>Ses antioxydants naturels luttent contre le stress oxydatif et les signes prématurés de l’âge.</p><p><strong>Nourrissante & légère</strong> </p><p>Elle pénètre rapidement, nourrit en profondeur et convient même aux peaux mixtes à grasses.</p><p><strong>SEMYAS</strong> concentre le meilleur de la graine de figue de Barbarie sauvage :</p><p>• L’une des plus hautes teneurs en vitamine E du règne végétal</p><p>• Riche en acide linoléique (oméga-6) pour renforcer la barrière cutanée</p><p>• Fort pouvoir antioxydant</p><p>• Action réparatrice sur les peaux marquées (cicatrices, vergetures, relâchement)</p><p>• Texture sèche et soyeuse, non comédogène</p><p><em><strong>Un soin d’exception, né des Terres Ancestrales.</strong></em></p>",
             "page": ""
           }
